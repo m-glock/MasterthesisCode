@@ -1,0 +1,694 @@
+{
+"results" : [
+
+  {
+    "objectId": "mGWs5RPjVr",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "M7gk6ePKxi"
+    },
+    "language_code": "de",
+    "title": "Sammeln",
+    "explanation": "Altglas wird farblich getrennt nach Grün-, Braun-, und Weißglas sortiert. In der Industrie passiert dies vor Ort, Privatpersonen erledigen dies an den ${Sammelbehältern |https://www.bsr.de/recyclinghoefe-20503.php?activeLayer=glas}.",
+    "additional_info": "Rotes und blaues Glas gehört in diesem Fall in den Grünglascontainer, da dort andersfarbite Partikel die Farbqualität weniger beeinflussen.",
+    "createdAt": "2022-09-24T17:14:45.824Z",
+    "updatedAt": "2022-09-24T18:08:10.094Z"
+  },
+  {
+    "objectId": "72vVBfwJcu",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "D3cSlw90U8"
+    },
+    "language_code": "de",
+    "title": "Zerkleinern",
+    "explanation": "Das Glas wird zerkleinert und von Fremdstoffen wie z.B. Deckeln, Verschlüssen, oder glasfremden Werkstoffen befreit.",
+    "createdAt": "2022-09-24T17:15:42.267Z",
+    "updatedAt": "2022-09-24T17:15:42.267Z"
+  },
+  {
+    "objectId": "Ud5YFF1zeu",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "t520CtDljm"
+    },
+    "language_code": "de",
+    "title": "Sieben und Befreien",
+    "explanation": "Die Scherben werden gesiebt und erneut von letzten Fehlfarben und Fremdstoffen befreit. Dies passiert sowohl durch verschiedene Sortiertechniken als auch über die Handauslese.",
+    "additional_info": "Spezialgläser wie Ceran, Pyrex, aber auch Labor-, Kristall- oder feuerfestes Glas haben eine andere chemische Zusammensetzung als Verpackungsglas, können mit herkömmlichen Verfahren nur schwer aussortiert werden.",
+    "createdAt": "2022-09-24T17:16:35.700Z",
+    "updatedAt": "2022-09-24T17:16:35.700Z"
+  },
+  {
+    "objectId": "Qe9GpkP43Z",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "17yT3XsSNW"
+    },
+    "language_code": "de",
+    "title": "Einschmelzen",
+    "explanation": "Die Scherben werden umgeschmolzen und zu neuen Glasprodukten geformt. Die Sortierung nach Farben ist nötig, um die Farbreinheit zu gewährleisten. Es ist eine Farbreinheit von 97 % erforderlich, um deutliche Verfärbungen auszuschließen.",
+    "additional_info": "Materialien wie Porzellan oder Fensterglas, die einen anderen Schmerzpunkt haben, wären hier nicht weiter verarbeitbar.",
+    "createdAt": "2022-09-24T17:17:21.598Z",
+    "updatedAt": "2022-09-24T17:17:21.598Z"
+  },
+  {
+    "objectId": "NkTeyIQg2k",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "dj7IRm76pP"
+    },
+    "language_code": "de",
+    "explanation": "Hier schließt sich der Kreislauf und das Altglas kommt als Flasche, Konservenglas u.v.m zu uns zurück. Die geschmolzenen Glasscherben werden zum größten Teil zu Behälter- oder Flachglas verarbeitet.",
+    "title": "Endprodukte",
+    "createdAt": "2022-09-24T17:17:48.253Z",
+    "updatedAt": "2022-09-25T07:10:52.719Z",
+    "additional_info": ""
+  },
+  {
+    "objectId": "98HyBikJj1",
+    "title": "Collect",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "M7gk6ePKxi"
+    },
+    "explanation": "Used glass is sorted by color into green, brown and white glass. In the industry, this is done on site; individuals do this at the ${collection bins |https://www.bsr.de/recyclinghoefe-20503.php?activeLayer=glas}.",
+    "additional_info": "In this case, red and blue glass belongs in the green glass container, since particles of a different color have less influence on the color quality in there.",
+    "language_code": "en",
+    "createdAt": "2022-09-24T17:20:25.842Z",
+    "updatedAt": "2022-09-24T18:08:11.268Z"
+  },
+  {
+    "objectId": "R9KQHunryy",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "D3cSlw90U8"
+    },
+    "language_code": "en",
+    "title": "Crushing",
+    "explanation": "The glass is crushed and freed from foreign materials such as lids, caps, or non-glass materials.",
+    "createdAt": "2022-09-24T17:26:59.141Z",
+    "updatedAt": "2022-09-24T17:26:59.141Z"
+  },
+  {
+    "objectId": "B3wGaHFn5m",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "t520CtDljm"
+    },
+    "language_code": "en",
+    "title": "Sifting and freeing",
+    "explanation": "The shards are sieved and again freed from last off-color and foreign materials. This is done by various sorting techniques as well as by hand selection.",
+    "additional_info": "Special glasses such as Ceran, Pyrex, but also laboratory, crystal or refractory glass have a different chemical composition than packaging glass. They can't be sorted out easily with conventional methods.",
+    "createdAt": "2022-09-24T17:29:46.906Z",
+    "updatedAt": "2022-09-24T17:29:46.906Z"
+  },
+  {
+    "objectId": "l40y00SJz4",
+    "explanation": "The shards are remelted and formed into new glass products. Sorting by color is necessary to ensure color purity. A color purity of 97% is required to exclude significant discoloration.",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "17yT3XsSNW"
+    },
+    "language_code": "en",
+    "title": "Melting",
+    "additional_info": "Materials such as porcelain or window glass have a different melting point, and would not be able to be processed further here.",
+    "createdAt": "2022-09-24T17:30:51.067Z",
+    "updatedAt": "2022-09-24T17:30:51.067Z"
+  },
+  {
+    "objectId": "aeVOFpBrhF",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "dj7IRm76pP"
+    },
+    "language_code": "en",
+    "title": "Final products",
+    "explanation": "This is where the cycle closes and the glass comes back to us as bottles, tinned glass and much more. The melted glass fragments are for the most part processed into container glass or flat glass.",
+    "createdAt": "2022-09-24T17:31:47.525Z",
+    "updatedAt": "2022-09-24T17:31:47.525Z"
+  },
+  {
+    "objectId": "lTtftiK86z",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "4fEKu5pGmZ"
+    },
+    "language_code": "de",
+    "title": "Sammeln",
+    "explanation": "Jegliche Art an biologischen Materialien gehören in die braune Biogut-Tonne und wird regelmäßig von der BSR abgeholt.",
+    "createdAt": "2022-09-25T08:55:02.470Z",
+    "updatedAt": "2022-09-25T08:55:02.470Z"
+  },
+  {
+    "objectId": "uUXdB8gRm4",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "3bNlFXOXFJ"
+    },
+    "language_code": "de",
+    "title": "Behandeln",
+    "explanation": "Im Fermenter der Biogasanlage entsteht durch Vergärung Biogas. Biogas, das in diesem Schritt entsteht, wird auch von den BSR-Fahrzeugen als Treibstoff verwendet.",
+    "createdAt": "2022-09-25T08:55:24.153Z",
+    "updatedAt": "2022-09-25T08:55:24.153Z"
+  },
+  {
+    "objectId": "q0lWGzKnYS",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "7EQygUmHRc"
+    },
+    "language_code": "de",
+    "explanation": "Die Gärreste, welche nach dem Behandeln übrig bleiben, werden zu Kompost und Flüssigdünger verarbeitet.",
+    "title": "Aufbereiten",
+    "createdAt": "2022-09-25T08:55:45.300Z",
+    "updatedAt": "2022-09-25T08:59:01.603Z"
+  },
+  {
+    "objectId": "hPuJxMpWJI",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "d9afTQoPCb"
+    },
+    "language_code": "de",
+    "explanation": "Kompost und Dünger kommen in der regionalen Landwirtschaft zum Einsatz.",
+    "title": "Beliefern",
+    "createdAt": "2022-09-25T08:56:06.335Z",
+    "updatedAt": "2022-09-25T08:56:06.335Z"
+  },
+  {
+    "objectId": "8gV2Y8uhkz",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "lIMRUbQCkJ"
+    },
+    "language_code": "de",
+    "explanation": "Der Kreislauf schließt sich und aus dem zu Kompost gewordenen Biomüll gedeiht neues Obst und Gemüse.",
+    "title": "Endprodukte",
+    "createdAt": "2022-09-25T08:56:32.192Z",
+    "updatedAt": "2022-09-25T08:56:32.192Z"
+  },
+  {
+    "objectId": "T6wo2g523X",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "4fEKu5pGmZ"
+    },
+    "language_code": "en",
+    "title": "Collect",
+    "explanation": "All kinds of biological materials belong in the brown biodegradable waste bin and are regularly collected by the BSR.",
+    "createdAt": "2022-09-25T08:57:27.288Z",
+    "updatedAt": "2022-09-25T08:57:27.288Z"
+  },
+  {
+    "objectId": "uAJKMKSopC",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "3bNlFXOXFJ"
+    },
+    "language_code": "en",
+    "title": "Treatment",
+    "explanation": "In the fermenter of the biogas plant, biogas is produced through fermentation. Biogas produced in this step is also used as fuel by BSR vehicles.",
+    "createdAt": "2022-09-25T08:58:28.218Z",
+    "updatedAt": "2022-09-25T08:58:28.218Z"
+  },
+  {
+    "objectId": "la85rLKSTP",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "7EQygUmHRc"
+    },
+    "language_code": "en",
+    "title": "Prepare",
+    "explanation": "The fermentation residues, which remain after treatment, are processed into compost and liquid fertilizer.",
+    "createdAt": "2022-09-25T08:59:11.821Z",
+    "updatedAt": "2022-09-25T08:59:11.821Z"
+  },
+  {
+    "objectId": "RxRTAi7id3",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "d9afTQoPCb"
+    },
+    "language_code": "en",
+    "title": "Delivering",
+    "explanation": "Compost and fertilizer are used in regional agriculture.",
+    "createdAt": "2022-09-25T08:59:48.753Z",
+    "updatedAt": "2022-09-25T08:59:48.753Z"
+  },
+  {
+    "objectId": "JwHQfO6AaA",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "lIMRUbQCkJ"
+    },
+    "title": "Final products",
+    "language_code": "en",
+    "explanation": "The cycle closes and new fruits and vegetables thrive from the organic waste that has become compost.",
+    "createdAt": "2022-09-25T09:00:13.538Z",
+    "updatedAt": "2022-09-25T09:00:13.538Z"
+  },
+  {
+    "objectId": "TC5m7vQC3f",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "O2aC4XfBx9"
+    },
+    "language_code": "de",
+    "title": "Sammeln",
+    "explanation": "Alles, was nicht getrennt gesammelt werden kann und frei von gefährlichen Inhaltsstoffen ist, kommt in den Hausmüll.",
+    "createdAt": "2022-09-25T10:15:26.214Z",
+    "updatedAt": "2022-09-25T10:15:26.214Z"
+  },
+  {
+    "objectId": "xT1x36zCne",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "v9mvfBj9Pj"
+    },
+    "language_code": "de",
+    "title": "Verbrennen",
+    "explanation": "Der Hausmüll wird im Müllheizkraftwerk bei mindestens 850°C verbrannt.",
+    "createdAt": "2022-09-25T10:15:49.165Z",
+    "updatedAt": "2022-09-25T10:15:49.165Z"
+  },
+  {
+    "objectId": "3SirWAnQ3d",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "5tkzd77zND"
+    },
+    "language_code": "de",
+    "title": "Entstehen",
+    "explanation": "Im Erhitzungsprozess entsteht Frischdampf mit Temperaturen von 460°C unter einem Druck von 65bar. Zurpck bleiben Verbrennungsreste.",
+    "additional_info": "Der Dampf wird hier in Energie und Wärme für den Endnutzer umgewandelt.",
+    "createdAt": "2022-09-25T10:16:17.519Z",
+    "updatedAt": "2022-09-25T10:16:17.519Z"
+  },
+  {
+    "objectId": "Djm07bLTqy",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "3NaopqpyN6"
+    },
+    "language_code": "de",
+    "title": "Aufbereitung",
+    "explanation": "Nach der Verbrennung werden aus der Schlacke Metalle wie Eisen, Aluminium und Kupfer zurückgewonnen und dem Recycling zugeführt.",
+    "createdAt": "2022-09-25T10:16:46.990Z",
+    "updatedAt": "2022-09-25T10:22:15.591Z"
+  },
+  {
+    "objectId": "CR0B62JjPS",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "6ij2qKpu8c"
+    },
+    "language_code": "de",
+    "title": "Endprodukte",
+    "explanation": "Durch das Recycling können neue Produkte aus Metallen hergestellt werden.",
+    "createdAt": "2022-09-25T10:18:22.765Z",
+    "updatedAt": "2022-09-25T10:18:22.765Z"
+  },
+  {
+    "objectId": "CbJHvbObNL",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "O2aC4XfBx9"
+    },
+    "language_code": "en",
+    "title": "Collect",
+    "explanation": "Everything that cannot be collected separately and is free of hazardous ingredients belongs into household waste.",
+    "createdAt": "2022-09-25T10:19:06.706Z",
+    "updatedAt": "2022-09-25T10:19:06.706Z"
+  },
+  {
+    "objectId": "dNw4W4yS0L",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "v9mvfBj9Pj"
+    },
+    "language_code": "en",
+    "title": "Burning",
+    "explanation": "Household waste is incinerated at a minimum of 850°C in the waste-to-energy plant.",
+    "createdAt": "2022-09-25T10:20:04.097Z",
+    "updatedAt": "2022-09-25T10:20:04.097Z"
+  },
+  {
+    "objectId": "8EIRGHdDuL",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "5tkzd77zND"
+    },
+    "language_code": "en",
+    "title": "Result",
+    "explanation": "The heating process produces live steam at temperatures of 460°C under a pressure of 65bar. Combustion residues remain behind.",
+    "additional_info": "The steam is converted into energy and heat for the end user.",
+    "createdAt": "2022-09-25T10:21:31.969Z",
+    "updatedAt": "2022-09-25T10:21:31.969Z"
+  },
+  {
+    "objectId": "kr0cDseZQ2",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "3NaopqpyN6"
+    },
+    "language_code": "en",
+    "title": "Preparation",
+    "explanation": "After incineration, metals such as iron, aluminum and copper are recovered and sent for recycling.",
+    "createdAt": "2022-09-25T10:22:33.711Z",
+    "updatedAt": "2022-09-25T10:22:33.711Z"
+  },
+  {
+    "objectId": "fp8nuo4zKU",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "6ij2qKpu8c"
+    },
+    "language_code": "en",
+    "title": "Final products",
+    "explanation": "Recycling allows new products to be made from metals.",
+    "createdAt": "2022-09-25T10:23:18.266Z",
+    "updatedAt": "2022-09-25T10:23:18.266Z"
+  },
+  {
+    "objectId": "aFTl13by9c",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "9t7gDS66Lb"
+    },
+    "language_code": "de",
+    "title": "Sammeln",
+    "explanation": "Altpapier und gebrauchte Kartonagen gehören in die blaue Papiertonne.",
+    "additional_info": "",
+    "createdAt": "2022-09-25T10:58:01.906Z",
+    "updatedAt": "2022-09-25T10:58:01.906Z"
+  },
+  {
+    "objectId": "4AqTPNc0fp",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "8pqiPVXWSr"
+    },
+    "language_code": "de",
+    "title": "Sortieren und Pressen",
+    "explanation": "Die Papierabfälle werden nach Art und Qualität sortiert und anschließend zu Papierballen gepresst.",
+    "createdAt": "2022-09-25T10:58:26.503Z",
+    "updatedAt": "2022-09-25T11:31:02.881Z"
+  },
+  {
+    "objectId": "gkwRKswfUI",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "aiskvMFGul"
+    },
+    "language_code": "de",
+    "title": "Zerfasern und Befreien",
+    "explanation": "Die Papierballen werden nun zerfasert und mit ca der 20-fachen Menge Wasser und weiteren Chemikalien in einer großen Trommel aufgeweicht. Dadurch lösen sich die einzelnen Fasern und das ganze wird von Fremdstoffen und Tinte befreit.",
+    "additional_info": "Kleine Mengen an Heftklammern oder Sichtfenstern können an dieser Stellen entfernt werden.",
+    "createdAt": "2022-09-25T10:58:58.253Z",
+    "updatedAt": "2022-09-25T11:32:34.211Z"
+  },
+  {
+    "objectId": "Ch2jgUDKjl",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "pw5y9VicXp"
+    },
+    "title": "Weiterverarbeiten",
+    "language_code": "de",
+    "explanation": "Der Faserbrei wird gereinigt, auf Walzen gesprüht, getrocknet und zu neuem Papier ausgerollt.",
+    "createdAt": "2022-09-25T10:59:19.130Z",
+    "updatedAt": "2022-09-25T10:59:19.130Z"
+  },
+  {
+    "objectId": "AypAIlnTGR",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "PoZngnEmnV"
+    },
+    "language_code": "de",
+    "title": "Endprodukte",
+    "explanation": "Hier schließt sich der Kreislauf und das Altpapier kommt als Zeitung, Pappkarton, Rohpapierrolle u.v.m zu uns zurück.",
+    "additional_info": "Papier kann bis zu sieben Mal wiederverwendet werden.",
+    "createdAt": "2022-09-25T10:59:46.962Z",
+    "updatedAt": "2022-09-25T10:59:46.962Z"
+  },
+  {
+    "objectId": "2OEoICMWXB",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "9t7gDS66Lb"
+    },
+    "title": "Collect",
+    "language_code": "en",
+    "explanation": "Waste paper and used cardboard boxes belong in the blue paper garbage can.",
+    "createdAt": "2022-09-25T11:29:17.778Z",
+    "updatedAt": "2022-09-25T14:53:45.718Z"
+  },
+  {
+    "objectId": "bf35t2OTML",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "8pqiPVXWSr"
+    },
+    "language_code": "en",
+    "title": "Sorting and pressing",
+    "explanation": "The paper waste is sorted according to type and quality and then pressed into bundles.",
+    "createdAt": "2022-09-25T11:31:27.829Z",
+    "updatedAt": "2022-09-25T11:31:27.829Z"
+  },
+  {
+    "objectId": "kjoSQS0pkS",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "aiskvMFGul"
+    },
+    "language_code": "en",
+    "title": "Defibering and freeing",
+    "explanation": "The bundles are now defibered and softened with about 20 times the amount of water and other chemicals in a large drum. This loosens the individual fibers and frees it from foreign matter and ink.",
+    "createdAt": "2022-09-25T11:32:38.213Z",
+    "updatedAt": "2022-09-25T11:32:38.213Z"
+  },
+  {
+    "objectId": "HqeTQ9PNya",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "pw5y9VicXp"
+    },
+    "language_code": "en",
+    "title": "Further processing",
+    "explanation": "The fiber pulp is cleaned, sprayed onto rollers, dried and rolled out into new paper.",
+    "createdAt": "2022-09-25T11:33:08.428Z",
+    "updatedAt": "2022-09-25T11:33:08.428Z"
+  },
+  {
+    "objectId": "ujGuv013vE",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "PoZngnEmnV"
+    },
+    "language_code": "en",
+    "title": "Final products",
+    "explanation": "The cycle closes and the waste paper comes back to us as newspaper, cardboard boxes, raw paper rolls and much more.",
+    "additional_info": "Paper can be reused up to seven times.",
+    "createdAt": "2022-09-25T11:33:55.045Z",
+    "updatedAt": "2022-09-25T11:33:55.045Z"
+  },
+  {
+    "objectId": "OYPwZRF2Rd",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "WPX11dvSX7"
+    },
+    "language_code": "de",
+    "title": "Sammeln",
+    "explanation": "Leere Verpackungen und andere Gegenstände aus Metall, Kunststoff oder Verbundstoffen gehören in die gelbe oder orangene Wertstofftonne.",
+    "createdAt": "2022-09-25T14:51:22.073Z",
+    "updatedAt": "2022-09-25T14:51:22.073Z"
+  },
+  {
+    "objectId": "kVrT4G4AkE",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "kMCtnBgbn6"
+    },
+    "language_code": "de",
+    "title": "Sortieren",
+    "explanation": "Die Kunststoffe werden in der Wertstoffsortieranlage soriert und zu Ballen gepresst. Verpackungen aus Weißblech und andere eisenhaltige Gegenstände werden in der Wertstoffsortieranlage mit Magneten von den anderen Verpackungen und Wertstoffen separiert und zu Schrottballen gepresst.",
+    "createdAt": "2022-09-25T14:51:52.009Z",
+    "updatedAt": "2022-09-25T14:51:52.009Z"
+  },
+  {
+    "objectId": "EdGl7v92WA",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "w9JNXLTTVd"
+    },
+    "language_code": "de",
+    "title": "Zerkleinern und Trennen",
+    "explanation": "Die Kunststoffe werden separiert, zerkleinert, gewaschen und von Fremdstoffen befreit. Mit einem Magneten werden weitere Metalle vom restlichen Kunststoff getrennt und separat weiterverarbeitet. Der übrigen Kunststoff werden zusätzlich nach Materialdichte getrennt.",
+    "createdAt": "2022-09-25T14:52:13.902Z",
+    "updatedAt": "2022-09-25T14:56:59.405Z"
+  },
+  {
+    "objectId": "zyFB3BnTFF",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "gGtpS8ODYr"
+    },
+    "language_code": "de",
+    "title": "Schmelzen",
+    "explanation": "Die getrennten Metalle und Kunststoffe werden jeweils geschmolzen und neu geformt. ",
+    "createdAt": "2022-09-25T14:52:38.594Z",
+    "updatedAt": "2022-09-25T14:52:38.594Z"
+  },
+  {
+    "objectId": "KEiHSjUj5M",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "cRKB8ZJ9O5"
+    },
+    "language_code": "de",
+    "title": "Umformung und Weiterberarbeitung",
+    "explanation": "Kunststoffteile werden zu Granulat verarbeitet oder im Hochofen als Reduktionsmittel eingeblasen, um das bei Stahlherstellung üblicherweise verwendete Schweröl zu ersetzen. Der aus Getränkekartons gewonnene Kunststoff Polyethylen wird als Energieträger und Aluminium bei der Zement-Produktion eingesetzt. Stahlblöcke werden zu Blechen ausgewalzt und Aluminiumgranulat zu Barren gegossen, welche dann ebenfalls ausgewalzt werden.",
+    "createdAt": "2022-09-25T14:52:59.872Z",
+    "updatedAt": "2022-09-25T14:52:59.872Z"
+  },
+  {
+    "objectId": "ERjDweZ3AN",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "0EVGfYAKc9"
+    },
+    "language_code": "de",
+    "title": "Endprodukte",
+    "explanation": "Hier schließt sich der Kreislauf. Sortenreine Kunststoffe werden zu Blumenkästen, Getränkekisten, Rohren oder Folien. Mischkunststoffe finden einen Einsatz bei der Stahlherstellung. Aus Weißblech entstehen Dosen, Kanister oder Karosserieteile. Aluminium wird zu Schalen, Dosen oder Folien verarbeitet.",
+    "createdAt": "2022-09-25T14:53:23.048Z",
+    "updatedAt": "2022-09-25T14:53:23.048Z"
+  },
+  {
+    "objectId": "3J9ZdcuMHF",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "WPX11dvSX7"
+    },
+    "language_code": "en",
+    "title": "Collect",
+    "explanation": "Empty packaging and other items made of metal, plastic or composites belong in the yellow or orange recycling garbage can.",
+    "createdAt": "2022-09-25T14:54:20.870Z",
+    "updatedAt": "2022-09-25T14:54:20.870Z"
+  },
+  {
+    "objectId": "DjOW3sTGCz",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "kMCtnBgbn6"
+    },
+    "language_code": "en",
+    "title": "Sorting",
+    "explanation": "Plastics are sorted in the recyclables sorting plant and pressed into bundles. Tinplate packaging and other items containing iron are separated from the other packaging and recyclables with magnets in the recyclables sorting plant and pressed into scrap bundles.",
+    "createdAt": "2022-09-25T14:55:43.141Z",
+    "updatedAt": "2022-09-25T14:55:43.141Z"
+  },
+  {
+    "objectId": "GhxCUx6701",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "w9JNXLTTVd"
+    },
+    "language_code": "en",
+    "title": "Crushing and separating",
+    "explanation": "Plastic is separated, shredded, washed and freed from foreign substances. Additional metals are separated from the remaining plastic with a magnet and processed separately. The remaining plastic is then separated according to material density.",
+    "createdAt": "2022-09-25T14:57:01.818Z",
+    "updatedAt": "2022-09-25T14:57:01.818Z"
+  },
+  {
+    "objectId": "v0dCCJ7fg0",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "gGtpS8ODYr"
+    },
+    "language_code": "en",
+    "title": "Melting",
+    "explanation": "The separated metals and plastics are each melted and reshaped.",
+    "createdAt": "2022-09-25T14:57:29.728Z",
+    "updatedAt": "2022-09-25T14:57:29.728Z"
+  },
+  {
+    "objectId": "beUUDwUHTe",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "cRKB8ZJ9O5"
+    },
+    "language_code": "en",
+    "title": "Forming and further processing",
+    "explanation": "Plastic parts are processed into granules or used as as a reducing agent to replace the heavy oil commonly used in steel production. Polyethylene, a plastic obtained from beverage cartons, is used as an energy source. Aluminum is used in cement production. Steel blocks are rolled out into sheets and aluminum granules are cast into bars, which are then also rolled out.",
+    "createdAt": "2022-09-25T14:59:15.208Z",
+    "updatedAt": "2022-09-25T14:59:15.208Z"
+  },
+  {
+    "objectId": "NPFgnCDyj1",
+    "category_cycle_id": {
+      "__type": "Pointer",
+      "className": "CategoryCycle",
+      "objectId": "0EVGfYAKc9"
+    },
+    "language_code": "en",
+    "title": "Final products",
+    "explanation": "This is where the cycle closes. Pure plastics become flower boxes, beverage crates, pipes or films. Mixed plastics are used in steel production. Tinplate is used to make cans, canisters or car body parts. Aluminum is processed into trays, cans or foils.",
+    "createdAt": "2022-09-25T14:59:54.955Z",
+    "updatedAt": "2022-09-25T14:59:54.955Z"
+  }
+]
+}

@@ -1,0 +1,23 @@
+{
+"results" : [
+
+  {
+    "objectId": "FLW7EeOAgg",
+    "type_name": "Question",
+    "createdAt": "2022-09-12T11:43:46.801Z",
+    "updatedAt": "2022-09-12T11:43:46.801Z"
+  },
+  {
+    "objectId": "qgkF0xwW8Y",
+    "type_name": "Ally",
+    "createdAt": "2022-09-12T11:44:17.512Z",
+    "updatedAt": "2022-09-12T11:44:17.512Z"
+  },
+  {
+    "objectId": "KWFJwug1wL",
+    "type_name": "Share",
+    "createdAt": "2022-09-12T11:44:29.342Z",
+    "updatedAt": "2022-09-12T11:44:29.342Z"
+  }
+]
+}

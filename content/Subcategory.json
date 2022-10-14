@@ -1,0 +1,434 @@
+{
+"results" : [
+
+  {
+    "objectId": "uxmrk8bVD1",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "ZWHAaWY0YN"
+    },
+    "createdAt": "2022-09-26T10:04:27.363Z",
+    "updatedAt": "2022-09-26T10:16:39.901Z",
+    "default_title": "Other"
+  },
+  {
+    "objectId": "1XutZoADHm",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "default_title": "Important papers",
+    "createdAt": "2022-09-26T10:57:43.811Z",
+    "updatedAt": "2022-09-26T10:59:13.326Z"
+  },
+  {
+    "objectId": "Vn5QBvQGjp",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "default_title": "Paper",
+    "createdAt": "2022-09-26T10:57:49.876Z",
+    "updatedAt": "2022-09-26T10:59:09.378Z"
+  },
+  {
+    "objectId": "3jm4zoLraC",
+    "default_title": "Print product",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "createdAt": "2022-09-26T10:59:29.148Z",
+    "updatedAt": "2022-09-26T10:59:29.148Z"
+  },
+  {
+    "objectId": "T6kroh86vi",
+    "default_title": "Cardboard",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "createdAt": "2022-09-26T10:59:36.151Z",
+    "updatedAt": "2022-09-26T11:11:51.282Z"
+  },
+  {
+    "objectId": "oKjKBHslU0",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "default_title": "Bottles and jars",
+    "createdAt": "2022-09-26T12:34:08.199Z",
+    "updatedAt": "2022-09-26T12:55:32.147Z"
+  },
+  {
+    "objectId": "Rqr8YMBmcb",
+    "default_title": "General residual waste",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "createdAt": "2022-09-26T15:18:51.296Z",
+    "updatedAt": "2022-09-26T15:19:32.222Z"
+  },
+  {
+    "objectId": "3GDHAuJM1S",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "default_title": "Office supplies",
+    "createdAt": "2022-09-26T15:19:23.334Z",
+    "updatedAt": "2022-09-26T15:19:23.334Z"
+  },
+  {
+    "objectId": "pP5bnrVTgp",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "default_title": "Hygiene articles",
+    "createdAt": "2022-09-26T15:19:46.141Z",
+    "updatedAt": "2022-09-26T15:19:46.141Z"
+  },
+  {
+    "objectId": "khe6YUeERn",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "default_title": "Video and Audio",
+    "createdAt": "2022-09-26T15:20:22.071Z",
+    "updatedAt": "2022-09-26T15:20:36.353Z"
+  },
+  {
+    "objectId": "jwu5Qv9EoM",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "default_title": "Textiles",
+    "createdAt": "2022-09-26T15:20:41.791Z",
+    "updatedAt": "2022-09-26T15:20:41.791Z"
+  },
+  {
+    "objectId": "Z5FFBVLLdv",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "default_title": "Glass-like",
+    "createdAt": "2022-09-26T15:21:08.756Z",
+    "updatedAt": "2022-09-26T15:21:08.756Z"
+  },
+  {
+    "objectId": "OQV9WUxKyb",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "default_title": "Tree, shrub and lawn cuttings",
+    "createdAt": "2022-09-26T16:53:39.079Z",
+    "updatedAt": "2022-09-26T16:53:39.079Z"
+  },
+  {
+    "objectId": "gY9ggOeCdh",
+    "default_title": "Food products",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "createdAt": "2022-09-26T17:05:33.801Z",
+    "updatedAt": "2022-09-26T17:06:17.923Z"
+  },
+  {
+    "objectId": "1qo9bv4kp4",
+    "default_title": "Green waste",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "createdAt": "2022-09-26T17:05:50.388Z",
+    "updatedAt": "2022-09-26T17:05:50.388Z"
+  },
+  {
+    "objectId": "rarQbiEFMf",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "default_title": "Biological waste",
+    "createdAt": "2022-09-26T17:06:12.674Z",
+    "updatedAt": "2022-09-26T17:06:12.674Z"
+  },
+  {
+    "objectId": "bq1edBogsT",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "default_title": "Small scraps",
+    "createdAt": "2022-09-26T17:35:19.044Z",
+    "updatedAt": "2022-09-26T17:50:36.912Z"
+  },
+  {
+    "objectId": "JTVu3fj58R",
+    "default_title": "plastics",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "createdAt": "2022-09-26T17:50:09.859Z",
+    "updatedAt": "2022-09-26T18:11:50.881Z"
+  },
+  {
+    "objectId": "VWBCkYcPFG",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "default_title": "One way products",
+    "createdAt": "2022-09-26T17:50:38.374Z",
+    "updatedAt": "2022-09-26T17:50:38.374Z"
+  },
+  {
+    "objectId": "t0mSBH7m3s",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "default_title": "Metal products",
+    "createdAt": "2022-09-26T17:50:47.159Z",
+    "updatedAt": "2022-09-26T17:50:47.159Z"
+  },
+  {
+    "objectId": "nXMc4T3eUH",
+    "default_title": "Recyclables",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "createdAt": "2022-09-26T17:51:22.125Z",
+    "updatedAt": "2022-09-26T17:51:22.125Z"
+  },
+  {
+    "objectId": "AdXqrkJw2P",
+    "default_title": "Files (confidential)",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T06:26:05.568Z",
+    "updatedAt": "2022-09-27T06:26:05.568Z"
+  },
+  {
+    "objectId": "nnjgujNvAH",
+    "default_title": "Old paints, old varnishes",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T06:39:55.448Z",
+    "updatedAt": "2022-09-27T06:39:55.448Z"
+  },
+  {
+    "objectId": "uULkzkVr9r",
+    "default_title": "Old wood",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T06:53:19.713Z",
+    "updatedAt": "2022-09-27T06:53:19.713Z"
+  },
+  {
+    "objectId": "X2zfH0VH3L",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "default_title": "Old pharmaceuticals",
+    "createdAt": "2022-09-27T07:13:41.676Z",
+    "updatedAt": "2022-09-27T07:13:41.676Z"
+  },
+  {
+    "objectId": "ry49qwe4xf",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "default_title": "Old oil",
+    "createdAt": "2022-09-27T07:18:09.615Z",
+    "updatedAt": "2022-09-27T07:18:09.615Z"
+  },
+  {
+    "objectId": "DUvCLbNpvO",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "default_title": "Used tires",
+    "createdAt": "2022-09-27T07:25:42.985Z",
+    "updatedAt": "2022-09-27T07:25:42.985Z"
+  },
+  {
+    "objectId": "aEZOouaagw",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "default_title": "Textiles",
+    "createdAt": "2022-09-27T07:32:04.539Z",
+    "updatedAt": "2022-09-27T07:32:04.539Z"
+  },
+  {
+    "objectId": "EEJXODaiAV",
+    "default_title": "Optical media",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T07:47:00.625Z",
+    "updatedAt": "2022-09-27T07:47:00.625Z"
+  },
+  {
+    "objectId": "x6fiMNlXuG",
+    "default_title": "Printer cartridges",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T07:52:03.882Z",
+    "updatedAt": "2022-09-27T07:52:03.882Z"
+  },
+  {
+    "objectId": "P5ZO2zrDlQ",
+    "default_title": "Electronic devices",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T08:14:20.090Z",
+    "updatedAt": "2022-09-27T08:14:20.090Z"
+  },
+  {
+    "objectId": "pkws53ZKI6",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "default_title": "Batteries",
+    "createdAt": "2022-09-27T08:50:48.436Z",
+    "updatedAt": "2022-09-27T08:50:48.436Z"
+  },
+  {
+    "objectId": "8ieRrDerhj",
+    "default_title": "Light sources",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T09:01:44.010Z",
+    "updatedAt": "2022-09-27T09:01:44.010Z"
+  },
+  {
+    "objectId": "eZRhhz8DAC",
+    "default_title": "Pesticides",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T09:13:06.608Z",
+    "updatedAt": "2022-09-27T09:13:06.608Z"
+  },
+  {
+    "objectId": "DJQrTGnVFN",
+    "default_title": "Cleaning agents",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T09:27:18.763Z",
+    "updatedAt": "2022-09-27T09:27:18.763Z"
+  },
+  {
+    "objectId": "nPXEdaAHjZ",
+    "default_title": "Pollutants",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T09:33:40.552Z",
+    "updatedAt": "2022-09-27T09:33:40.552Z"
+  },
+  {
+    "objectId": "Tcvwws9ESU",
+    "default_title": "Big metal scrap",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T09:51:17.777Z",
+    "updatedAt": "2022-09-27T09:52:41.131Z"
+  },
+  {
+    "objectId": "BXZIPjrAH6",
+    "default_title": "Bulky waste",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T10:09:09.039Z",
+    "updatedAt": "2022-09-27T10:09:09.039Z"
+  },
+  {
+    "objectId": "LaoxvQfr88",
+    "default_title": "Special disposal waste",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-27T12:51:38.353Z",
+    "updatedAt": "2022-09-27T12:51:38.353Z"
+  }
+]
+}

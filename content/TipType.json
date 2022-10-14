@@ -1,0 +1,19 @@
+{
+"results" : [
+
+  {
+    "objectId": "LW8QB9QbbD",
+    "color": "#FFFFFF",
+    "createdAt": "2022-08-10T07:20:48.889Z",
+    "updatedAt": "2022-09-10T12:52:38.038Z",
+    "default_label": "Separation"
+  },
+  {
+    "objectId": "YUWVrHr5mE",
+    "color": "#000000",
+    "createdAt": "2022-08-10T07:21:05.784Z",
+    "updatedAt": "2022-09-10T12:52:33.859Z",
+    "default_label": "Prevention"
+  }
+]
+}

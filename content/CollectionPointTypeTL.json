@@ -1,0 +1,29 @@
+{
+"results" : [
+
+  {
+    "objectId": "161WCCNE65",
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "language_code": "de",
+    "title": "Recyclinghof",
+    "createdAt": "2022-08-10T09:40:27.552Z",
+    "updatedAt": "2022-08-23T08:24:01.752Z"
+  },
+  {
+    "objectId": "LHbqrph4rF",
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "language_code": "en",
+    "title": "Collection point",
+    "createdAt": "2022-08-10T09:40:40.060Z",
+    "updatedAt": "2022-09-24T10:00:51.716Z"
+  }
+]
+}

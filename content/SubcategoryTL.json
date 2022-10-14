@@ -1,0 +1,1019 @@
+{
+"results" : [
+
+  {
+    "objectId": "VozvYQA7pU",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "uxmrk8bVD1"
+    },
+    "language_code": "de",
+    "title": "Sonstiges",
+    "explanation": "Abfälle, die die BSR nicht entsorgen, umfassen beispielsweise Fahrzeuge und Fahrzeugteile, Druckgasbehälter (Propangasflaschen), lose gebundene Asbestabfälle, Tierkadaver, Munition und Sprengstoffe sowie radioaktive Abfälle, etc. Bitte wenden Sie sich an das BSR-Service Center (030 / 7592 4900). Dort erhalten Sie weitere Informationen.",
+    "createdAt": "2022-09-26T10:05:33.621Z",
+    "updatedAt": "2022-09-26T10:07:17.715Z"
+  },
+  {
+    "objectId": "UhtkzHkIST",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "uxmrk8bVD1"
+    },
+    "language_code": "en",
+    "title": "Other",
+    "explanation": "Waste that BSR does not dispose of includes, for example, vehicles and vehicle parts, compressed gas containers (propane cylinders), loosely bound asbestos waste, animal carcasses, ammunition and explosives, and radioactive waste, etc. Please contact the BSR Service Center (030 / 7592 4900). You will receive further information there.",
+    "createdAt": "2022-09-26T10:07:44.755Z",
+    "updatedAt": "2022-09-26T10:07:44.755Z"
+  },
+  {
+    "objectId": "h4tGJvrFG3",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "1XutZoADHm"
+    },
+    "language_code": "de",
+    "title": "Wichtige Papiere",
+    "explanation": "Solange keine vertraulichen Daten in den Akten stehen, können diese in die Papiertonne geworfen werden.",
+    "createdAt": "2022-09-26T11:03:22.484Z",
+    "updatedAt": "2022-09-26T11:03:49.230Z"
+  },
+  {
+    "objectId": "5JQhdApD6v",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "1XutZoADHm"
+    },
+    "language_code": "en",
+    "title": "Important papers",
+    "explanation": "As long as there is no confidential data in the files, they can be thrown in the paper garbage can.",
+    "createdAt": "2022-09-26T11:04:07.682Z",
+    "updatedAt": "2022-09-26T11:04:07.682Z"
+  },
+  {
+    "objectId": "4HW7ruSE66",
+    "title": "Papier",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Vn5QBvQGjp"
+    },
+    "language_code": "de",
+    "explanation": "Papier gehört in die Papiertonne, solange es nicht verschmutzt oder beschichtet ist.",
+    "createdAt": "2022-09-26T11:05:01.158Z",
+    "updatedAt": "2022-09-26T11:05:01.158Z"
+  },
+  {
+    "objectId": "rC8YwqgR6P",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Vn5QBvQGjp"
+    },
+    "language_code": "en",
+    "title": "Paper",
+    "explanation": "Paper belongs in the paper garbage can as long as it is not dirty or coated.",
+    "createdAt": "2022-09-26T11:05:39.935Z",
+    "updatedAt": "2022-09-26T11:05:39.935Z"
+  },
+  {
+    "objectId": "l2epnFxHJH",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "3jm4zoLraC"
+    },
+    "language_code": "de",
+    "title": "Druckerzeugnis",
+    "explanation": "Bedrucktes Papier aus Büchern, Zeitschriften und Zeitungen kann durch Recycling für die Erstellung von neuem Papier genutzt werden.",
+    "createdAt": "2022-09-26T11:10:15.083Z",
+    "updatedAt": "2022-09-26T11:10:15.083Z"
+  },
+  {
+    "objectId": "nq7Xef3aN7",
+    "explanation": "Printed paper from books, magazines and newspapers can be used to create new paper through recycling.",
+    "title": "Printed Paper",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "3jm4zoLraC"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-26T11:10:29.567Z",
+    "updatedAt": "2022-09-26T11:10:29.567Z"
+  },
+  {
+    "objectId": "8KI3E7vKgo",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "T6kroh86vi"
+    },
+    "language_code": "de",
+    "title": "Karton",
+    "explanation": "Kartons können genaue wie Papier wiederverwendet werden und werden deshalb in der Papiertonne zum Recycling gesammelt.",
+    "createdAt": "2022-09-26T11:12:49.149Z",
+    "updatedAt": "2022-09-26T11:12:49.149Z"
+  },
+  {
+    "objectId": "dmgGlbONli",
+    "title": "Cardboard",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "T6kroh86vi"
+    },
+    "language_code": "en",
+    "explanation": "Cardboard boxes can be reused exactly like paper and are therefore collected in the paper garbage can for recycling.",
+    "createdAt": "2022-09-26T11:13:27.154Z",
+    "updatedAt": "2022-09-26T11:13:27.154Z"
+  },
+  {
+    "objectId": "uWGMgU6xBG",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "oKjKBHslU0"
+    },
+    "title": "Flaschen und Konservengläser",
+    "language_code": "de",
+    "explanation": "Glas kann grundsätzlich beliebig oft eingeschmolzen und zu neuen Produkten verarbeitet werden. Da Glas bei niedrigeren Temperaturen als die zur Glasherstellung erforderlichen Rohstoffe schmilzt, verringert sich je Prozent Scherbenzugabe der Energiebedarf um ca. 0,2 bis 0,3 Prozent. Altglasrecycling führt somit zu einer Reduzierung der mit dem Glasschmelzprozess verbundenen Umweltbelastungen (zum Beispiel CO2-Emissionen). ",
+    "createdAt": "2022-09-26T12:42:18.384Z",
+    "updatedAt": "2022-09-26T12:55:12.117Z"
+  },
+  {
+    "objectId": "UzMl2htPG8",
+    "explanation": "In principle, glass can be melted down and processed into new products as often as desired. Since glass melts at lower temperatures than the raw materials required for glass production, the energy requirement is reduced by around 0.2 to 0.3 percent for each percent of shards added. Waste glass recycling thus leads to a reduction in the environmental impact associated with the glass melting process (for example, CO2 emissions). ",
+    "title": "Bottles and jars",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "oKjKBHslU0"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-26T12:42:30.268Z",
+    "updatedAt": "2022-09-26T12:55:29.254Z"
+  },
+  {
+    "objectId": "nyztCDh5kl",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Rqr8YMBmcb"
+    },
+    "language_code": "de",
+    "title": "Resmtüll (allgemein)",
+    "explanation": "Gegenstände, die nicht getrennt gesammelt und nicht auf besondere Weise entsorgt werden müssen, gehören in den Restmüll.",
+    "createdAt": "2022-09-26T15:31:46.553Z",
+    "updatedAt": "2022-09-26T15:31:46.553Z"
+  },
+  {
+    "objectId": "a5LKWSXwv3",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Rqr8YMBmcb"
+    },
+    "language_code": "en",
+    "title": "Residual waste (general)",
+    "explanation": "Items that are not collected separately and do not need to be disposed of in a special way belong in the residual waste.",
+    "createdAt": "2022-09-26T15:32:19.498Z",
+    "updatedAt": "2022-09-26T15:32:19.498Z"
+  },
+  {
+    "objectId": "xbPKT0dSLS",
+    "title": "Büroartikel",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "3GDHAuJM1S"
+    },
+    "language_code": "de",
+    "explanation": "Gegenstände, die nicht getrennt gesammelt und nicht auf besondere Weise entsorgt werden müssen, gehören in den Restmüll.",
+    "createdAt": "2022-09-26T15:32:43.892Z",
+    "updatedAt": "2022-09-26T15:32:43.892Z"
+  },
+  {
+    "objectId": "EsGXZMXgyb",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "3GDHAuJM1S"
+    },
+    "language_code": "en",
+    "title": "Office supplies",
+    "explanation": "Items that are not collected separately and do not need to be disposed of in a special way belong in the residual waste.",
+    "createdAt": "2022-09-26T15:33:00.640Z",
+    "updatedAt": "2022-09-26T15:33:00.640Z"
+  },
+  {
+    "objectId": "2IIMQiSjdu",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "pP5bnrVTgp"
+    },
+    "language_code": "de",
+    "title": "Hygieneartikel",
+    "explanation": "Gegenstände, die nicht getrennt gesammelt und nicht auf besondere Weise entsorgt werden müssen, gehören in den Restmüll.",
+    "createdAt": "2022-09-26T15:33:23.910Z",
+    "updatedAt": "2022-09-26T15:33:23.910Z"
+  },
+  {
+    "objectId": "O6ba1DbjIF",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "pP5bnrVTgp"
+    },
+    "language_code": "en",
+    "title": "Hygiene articles",
+    "explanation": "Items that are not collected separately and do not need to be disposed of in a special way belong in the residual waste.",
+    "createdAt": "2022-09-26T15:33:39.556Z",
+    "updatedAt": "2022-09-26T15:33:39.556Z"
+  },
+  {
+    "objectId": "cHCBcL9xgD",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "khe6YUeERn"
+    },
+    "language_code": "de",
+    "explanation": "Gegenstände, die nicht getrennt gesammelt und nicht auf besondere Weise entsorgt werden müssen, gehören in den Restmüll.",
+    "title": "Video und Audio",
+    "createdAt": "2022-09-26T15:34:22.306Z",
+    "updatedAt": "2022-09-26T15:34:22.306Z"
+  },
+  {
+    "objectId": "L8rp8qaWQx",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "khe6YUeERn"
+    },
+    "language_code": "en",
+    "explanation": "Items that are not collected separately and do not need to be disposed of in a special way belong in the residual waste.",
+    "title": "Video and audio",
+    "createdAt": "2022-09-26T15:34:35.542Z",
+    "updatedAt": "2022-09-26T15:34:35.542Z"
+  },
+  {
+    "objectId": "ZTUrvNDiJH",
+    "title": "Textilien",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "jwu5Qv9EoM"
+    },
+    "language_code": "de",
+    "explanation": "Kaputte oder zu stark verschmutzte Textilien gehören in den Restmüll. Sind diese jedoch noch in gutem Zustand, können sie auch gesammelt und wiederverwendet werden.",
+    "createdAt": "2022-09-26T15:36:04.190Z",
+    "updatedAt": "2022-09-26T15:36:04.190Z"
+  },
+  {
+    "objectId": "0Ddtc9OIlS",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "jwu5Qv9EoM"
+    },
+    "language_code": "en",
+    "title": "Textiles",
+    "explanation": "Broken or too heavily soiled textiles belong in the residual waste. However, if they are still in good condition, they can also be collected and reused.",
+    "createdAt": "2022-09-26T15:36:32.343Z",
+    "updatedAt": "2022-09-26T15:36:32.343Z"
+  },
+  {
+    "objectId": "9VnNBoPejB",
+    "explanation": "Glassähnliche Gegenstände, die einen anderen Schmelzpunkt als herkömmliches Glas haben, können nicht mit dem restlichen Glas wiederverwendet werden und gehören daher in den Restmüll.",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Z5FFBVLLdv"
+    },
+    "language_code": "de",
+    "title": "Glasähnlich",
+    "createdAt": "2022-09-26T15:37:56.174Z",
+    "updatedAt": "2022-09-26T15:38:37.102Z"
+  },
+  {
+    "objectId": "JNfmHRgU1e",
+    "explanation": "Glass-like objects that have a different melting point than conventional glass cannot be recycled with the rest of the glass and therefore belong in the residual waste.",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Z5FFBVLLdv"
+    },
+    "language_code": "en",
+    "title": "Glass-like",
+    "createdAt": "2022-09-26T15:38:38.267Z",
+    "updatedAt": "2022-09-26T15:38:38.267Z"
+  },
+  {
+    "objectId": "HOWjPH7lem",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "OQV9WUxKyb"
+    },
+    "language_code": "de",
+    "title": "Baum-, Strauch- und Rasenschnitt",
+    "explanation": "Baum-, Strauch- und Rasenschnitt sind Abfälle, die sinnvoll verwertet werden können. Sie lassen sich z.B. für die Anlage von Hochbeeten verwenden. In zerkleinerter Form bilden sie zusammen mit anderen organischen Abfällen ein wichtiges Strukturmaterial bei der Kompostgewinnung. Auf diese Weise erhalten Sie einen wertvollen Bodenverbesserer und ersparen sich so die Anwendung von Kunstdünger oder den Verbrauch von Torf.",
+    "createdAt": "2022-09-26T16:56:52.562Z",
+    "updatedAt": "2022-09-26T16:56:52.562Z"
+  },
+  {
+    "objectId": "rr8gJ9DJcw",
+    "explanation": "Tree, shrub and lawn cuttings are waste that can be meaningfully recycled. They can be used, for example, to create raised beds. In shredded form, together with other organic waste, they form an important structural material in compost production. In this way, you obtain a valuable soil conditioner and save yourself the application of artificial fertilizers or the consumption of peat.",
+    "title": "Tree, shrub and lawn cuttings",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "OQV9WUxKyb"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-26T16:57:29.864Z",
+    "updatedAt": "2022-09-26T16:57:29.864Z"
+  },
+  {
+    "objectId": "v8tHVDkgV3",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "gY9ggOeCdh"
+    },
+    "language_code": "de",
+    "title": "Lebensmittel",
+    "explanation": "Lebensmittel sind biologisch abbaubar und gehören dementsprechend in den Biomüll oder auf dein eigenen Kompost.",
+    "createdAt": "2022-09-26T17:07:01.275Z",
+    "updatedAt": "2022-09-26T17:07:01.275Z"
+  },
+  {
+    "objectId": "UUja0hHr0U",
+    "title": "Food products",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "gY9ggOeCdh"
+    },
+    "language_code": "en",
+    "explanation": "Food is biodegradable and belongs in the organic waste or on your own compost.",
+    "createdAt": "2022-09-26T17:07:28.878Z",
+    "updatedAt": "2022-09-26T17:07:28.878Z"
+  },
+  {
+    "objectId": "F7TeZyTsVF",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "1qo9bv4kp4"
+    },
+    "language_code": "de",
+    "title": "Grünabfall",
+    "explanation": "Blumen und Pflanzen sind biologisch abbaubar und gehören dementsprechend in den Biomüll oder auf dein eigenen Kompost.",
+    "createdAt": "2022-09-26T17:08:08.031Z",
+    "updatedAt": "2022-09-26T17:08:08.031Z"
+  },
+  {
+    "objectId": "ut5hB2lLz7",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "1qo9bv4kp4"
+    },
+    "title": "green waste",
+    "language_code": "en",
+    "explanation": "Plants and flowers are biodegradable and belongs in the organic waste or on your own compost.",
+    "createdAt": "2022-09-26T17:08:31.766Z",
+    "updatedAt": "2022-09-26T17:08:31.766Z"
+  },
+  {
+    "objectId": "DsyqGuKfvg",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "rarQbiEFMf"
+    },
+    "language_code": "de",
+    "title": "Biologischer Abfall",
+    "explanation": "Alles, was organischem Ursprungs ist, kann biologisch abgebaut werden und gehört in den Biomüll oder auf den hauseigenen Kompost.",
+    "createdAt": "2022-09-26T17:09:28.614Z",
+    "updatedAt": "2022-09-26T17:09:28.614Z"
+  },
+  {
+    "objectId": "K5FuDG5ge9",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "rarQbiEFMf"
+    },
+    "language_code": "en",
+    "title": "Biological waste",
+    "explanation": "Everything of organic origin is biodegraded and belongs in the organic waste or on the home compost.",
+    "createdAt": "2022-09-26T17:10:08.143Z",
+    "updatedAt": "2022-09-26T17:10:08.143Z"
+  },
+  {
+    "objectId": "CWq066M0BJ",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "bq1edBogsT"
+    },
+    "language_code": "de",
+    "title": "Kleinteiliger Schrott",
+    "explanation": "Unter kleinteiligem Schrott sind Altmetalle zu verstehen, die auf Grund Ihrer Größe in eine 120-Liter-Mülltonne passen. Dazu gehören beispielsweise Blech- und Metallteile, Metallwerkzeuge,Rohrabschnitte, Nägel und Schrauben, Pfannen und Töpfe, Besteck etc.",
+    "createdAt": "2022-09-26T17:36:18.954Z",
+    "updatedAt": "2022-09-26T17:36:47.071Z"
+  },
+  {
+    "objectId": "H9yPWFQjgi",
+    "explanation": "Small scrap is scrap metal that fits into a 120-liter trash can due to its size. This includes, for example, sheet metal and metal parts, metal tools, pipe sections, nails and screws, pans and pots, cutlery etc.",
+    "title": "Small scraps",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "bq1edBogsT"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-26T17:36:53.131Z",
+    "updatedAt": "2022-09-26T17:36:53.131Z"
+  },
+  {
+    "objectId": "C4IaeJVnnI",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "JTVu3fj58R"
+    },
+    "language_code": "de",
+    "title": "Kunststoffgegenstände",
+    "explanation": "Unter kleinteiligen Kunststoffen sind Abfälle zu verstehen, die auf Grund Ihrer Größe in eine 120-Liter-Mülltonne passen. Dazu gehören beispielsweise Kunststoffspielzeug oder Gebrauchsgegenstände aus Kunststoff wie Schüsseln, Eimer, Gießkannen, etc.",
+    "createdAt": "2022-09-26T17:58:32.757Z",
+    "updatedAt": "2022-09-26T18:12:15.658Z"
+  },
+  {
+    "objectId": "MLj9a6N1ql",
+    "explanation": "Small-particle plastics are waste that, due to its size, fits into a 120-liter trash can. This includes, for example, plastic toys or utensils made of plastic such as bowls, buckets, watering cans, etc.",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "JTVu3fj58R"
+    },
+    "language_code": "en",
+    "title": "Plastic items",
+    "createdAt": "2022-09-26T17:59:21.155Z",
+    "updatedAt": "2022-09-26T18:12:19.072Z"
+  },
+  {
+    "objectId": "zjoU4MzIuG",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "VWBCkYcPFG"
+    },
+    "language_code": "de",
+    "title": "Einwegprodukte",
+    "explanation": "Einwegprodukte bestehen im Normalfall aus Verbundmaterial und gehören daher in die Wertstofftonne.",
+    "createdAt": "2022-09-26T18:00:03.754Z",
+    "updatedAt": "2022-09-26T18:00:03.754Z"
+  },
+  {
+    "objectId": "HxO0IP5UuW",
+    "explanation": "One-way products are normally made of composite material and therefore belong in the recycling garbage can.",
+    "title": "One-way products",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "VWBCkYcPFG"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-26T18:00:41.104Z",
+    "updatedAt": "2022-09-26T18:00:41.104Z"
+  },
+  {
+    "objectId": "GZvNplKJ7O",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "t0mSBH7m3s"
+    },
+    "language_code": "de",
+    "title": "Metallgegenstände",
+    "explanation": "In die Wertstofftonne können neben Verpackungen auch alle Abfälle aus Kunststoff, Metall und Verbundmaterialien entsorgt werden.",
+    "createdAt": "2022-09-26T18:01:16.113Z",
+    "updatedAt": "2022-09-26T18:01:16.113Z"
+  },
+  {
+    "objectId": "ipnCJ6YA7x",
+    "explanation": "In addition to packaging, all waste made of plastic, metal and composite materials can be disposed of in the Wertstofftonne. ",
+    "title": "Metal products",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "t0mSBH7m3s"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-26T18:02:01.890Z",
+    "updatedAt": "2022-09-26T18:02:01.890Z"
+  },
+  {
+    "objectId": "xAd6xsrWzO",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "nXMc4T3eUH"
+    },
+    "title": "Recyclables",
+    "language_code": "en",
+    "explanation": "In addition to packaging, all waste made of plastic, metal and composite materials can be disposed of in the Wertstofftonne. ",
+    "createdAt": "2022-09-26T18:02:28.463Z",
+    "updatedAt": "2022-09-26T18:02:28.463Z"
+  },
+  {
+    "objectId": "CclikZ73mJ",
+    "explanation": "In die Wertstofftonne können neben Verpackungen auch alle Abfälle aus Kunststoff, Metall und Verbundmaterialien entsorgt werden.",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "nXMc4T3eUH"
+    },
+    "language_code": "de",
+    "title": "Wertstoffe",
+    "createdAt": "2022-09-26T18:02:55.568Z",
+    "updatedAt": "2022-09-26T18:02:55.568Z"
+  },
+  {
+    "objectId": "vVQg1n7B0o",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "AdXqrkJw2P"
+    },
+    "language_code": "de",
+    "title": "Vertrauliche Akten",
+    "explanation": "Aktenvernichtung bezeichnet die fachgerechte Vernichtung von Datenträgern aus Papier, die aufgrund der gespeicherten Informationen unkenntlich gemacht werden müssen. Sensible Daten wie Aufträge, Rechnungen oder medizinische Unterlagen sollten demnach nicht über die normalen Abfallbehälter entsorgt, sondern einer speziellen Datenvernichtung zugeführt werden. Im Falle von Akten bleibt der Rohstoff Papier erhalten und wird dem stofflichen Recycling zugeführt.",
+    "createdAt": "2022-09-27T06:30:46.209Z",
+    "updatedAt": "2022-09-27T06:30:46.209Z"
+  },
+  {
+    "objectId": "OCSBtd8r34",
+    "explanation": "File shredding refers to the professional destruction of paper that must be rendered unrecognizable due to the information stored on them. Sensitive data such as orders, invoices or medical records should therefore not be disposed of in the paper waste garbage cans but sent for special data destruction. In the case of files, the raw material paper is retained and sent for material recycling.",
+    "title": "Confidential files",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "AdXqrkJw2P"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-27T06:32:25.724Z",
+    "updatedAt": "2022-09-27T06:32:25.724Z"
+  },
+  {
+    "objectId": "aR1aKCMI7G",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "nnjgujNvAH"
+    },
+    "language_code": "de",
+    "title": "Altfarben und Altlacke",
+    "explanation": "Zu Altfarben und Altlacke zählen alle nicht ausgehärteten Lacke und Farben. Die heutzutage hergestellten Produkte enthalten in der Regel keine giftigen Schwermetalle. Farben und vor allem Lacke können bis zu 70 Prozent organische Lösemittel (Nitrolacke) enthalten, die gesundheitsschädlich und klimaschädigend sind. Organische Lösemittel sind mitverantwortlich für die Entstehung von Ozon (Sommersmog). Nur wenn Lacke völlig eingetrocknet sind (fest und lösemittelfrei), können die Gebinde über die Hausmülltonne entsorgt werden.",
+    "createdAt": "2022-09-27T06:46:59.430Z",
+    "updatedAt": "2022-09-27T06:49:09.020Z"
+  },
+  {
+    "objectId": "rbApXi9UrG",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "nnjgujNvAH"
+    },
+    "language_code": "en",
+    "explanation": "Waste paints and varnishes include all non-hardened paints and varnishes. The products manufactured today generally do not contain any toxic heavy metals. Paints and especially lacquers can contain up to 70 percent organic solvents (nitrocellulose lacquers), which are harmful to health and the climate. Organic solvents are partly responsible for the formation of ozone (summer smog). Only when paints are completely dry (solid and solvent-free) can the containers be disposed of in the household waste garbage can.",
+    "title": "Old paints and varnishes",
+    "createdAt": "2022-09-27T06:49:37.088Z",
+    "updatedAt": "2022-09-27T06:49:37.088Z"
+  },
+  {
+    "objectId": "1uA3p3SgTz",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "uULkzkVr9r"
+    },
+    "language_code": "de",
+    "title": "Altholz",
+    "explanation": "Unter Altholz fallen Gebrauchsgegenstände wie Möbel, aber auch Holzverpackungen wie Kisten oder Paletten bis hin zu schadstoffhaltigen Abbruchhölzern aus dem Gebäuderückbau. Gerade im Baubereich sind Althölzer oft mit Holzschutzmitteln behandelt und müssen daher als gefährlicher Abfall gesondert entsorgt werden. Die Anforderungen an die Verwertung und Beseitigung von Altholz regelt die sog. Altholzverordnung (AltholzV). Hier werden konkrete Anforderungen an die stoffliche und energetische Verwertung sowie an die Beseitigung von Altholz festgelegt.",
+    "createdAt": "2022-09-27T06:57:04.585Z",
+    "updatedAt": "2022-09-27T06:57:04.585Z"
+  },
+  {
+    "objectId": "cuB6CAWYOQ",
+    "title": "Old wood",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "uULkzkVr9r"
+    },
+    "language_code": "en",
+    "explanation": "Old wood includes everyday items such as furniture, but also wooden packaging such as boxes or pallets, and even demolition wood from building dismantling that contains harmful substances. Particularly in the construction sector, Old wood is often treated with wood preservatives and must therefore be disposed of separately as hazardous waste. The requirements for the recovery and disposal of waste wood are regulated by the so-called Waste Wood Ordinance (AltholzV). This sets out specific requirements for the recovery of materials and energy as well as for the disposal of waste wood.",
+    "createdAt": "2022-09-27T06:58:04.291Z",
+    "updatedAt": "2022-09-27T06:58:04.291Z"
+  },
+  {
+    "objectId": "s0pu6MKU6D",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "X2zfH0VH3L"
+    },
+    "language_code": "de",
+    "title": "Altmedikamente",
+    "explanation": "Hierzu zählen abgelaufene oder nicht mehr benötigte Medikamente und Arzneimittel. Arzneimittel gehören weder in die Hausmülltonne noch in die Toilette. Im Abwasser stellen Arzneimittel aufgrund der Inhaltstoffe ein hohes Gefährdungspotenzial dar.",
+    "createdAt": "2022-09-27T07:14:53.638Z",
+    "updatedAt": "2022-09-27T07:14:53.638Z"
+  },
+  {
+    "objectId": "DyCn7kEur8",
+    "explanation": "This includes expired or no longer needed medicines and pharmaceuticals. Pharmaceuticals do not belong in the household waste garbage can or in the toilet. Due to the substances they contain, pharmaceuticals pose a high risk in wastewater.",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "X2zfH0VH3L"
+    },
+    "language_code": "en",
+    "title": "Old pharmaceuticals",
+    "createdAt": "2022-09-27T07:15:28.224Z",
+    "updatedAt": "2022-09-27T07:15:28.224Z"
+  },
+  {
+    "objectId": "JGEUnDh8Hr",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "ry49qwe4xf"
+    },
+    "language_code": "de",
+    "title": "Altöl",
+    "explanation": "Unsachgemäß entsorgtes Mineralöl stellt eine unmittelbare Bedrohung unserer Lebensgrundlage dar. Schon ein Liter Altöl, das in den Erdboden gelangt, kann eine Million Liter Grundwasser verunreinigen und damit als Trinkwasser unbrauchbar machen. Alle Verkaufsstellen sind gesetzlich verpflichtet, Altöl in der Menge des gekauften Mineralöls kostenlos zurückzunehmen. Mehr als 70 Prozent der aufbereitungsfähigen Altöle wird wieder aufgearbeitet.",
+    "createdAt": "2022-09-27T07:20:37.120Z",
+    "updatedAt": "2022-09-27T07:22:02.233Z"
+  },
+  {
+    "objectId": "XGI51PZ5eK",
+    "explanation": "Improperly disposed of mineral oil poses a direct threat to our livelihood. Just one liter of used oil that ends up in the ground can contaminate a million liters of groundwater, making it unusable as drinking water. All sales outlets are required by law to take back used oil free of charge in the amount of mineral oil purchased. More than 70 percent of the waste oils that can be processed are reprocessed.",
+    "title": "Old oil",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "ry49qwe4xf"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-27T07:22:22.074Z",
+    "updatedAt": "2022-09-27T07:22:22.074Z"
+  },
+  {
+    "objectId": "lfIfxsMj8y",
+    "title": "Altreifen",
+    "language_code": "de",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "DUvCLbNpvO"
+    },
+    "explanation": "Fahrradreifen bitte über die Hausmülltonne entsorgen. Die Runderneuerung von Altreifen verbraucht nur ein Drittel der Energie, die für die Herstellung eines Neureifens benötigt wird. Alternativ werden Altreifen auch als Gummigranulat genutzt, d.h. es entstehen neue Gummiprodukte oder das Granulat wird als Zusatz für Straßenasphalt beigemengt, oder werden geschreddert und als Energieträger/Zuschlagstoff in der Zementindustrie eingesetzt.",
+    "createdAt": "2022-09-27T07:29:43.166Z",
+    "updatedAt": "2022-09-27T07:29:43.166Z"
+  },
+  {
+    "objectId": "Ym1GQsugJu",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "DUvCLbNpvO"
+    },
+    "language_code": "en",
+    "title": "Used tires",
+    "explanation": "Please dispose of bicycle tires in the household waste garbage can. The recycling of used tires consumes only one third of the energy needed to produce a new tire. Alternatively, old tires are also used as rubber granulate, i.e. new rubber products are created or the granulate is added as an additive for road asphalt, or are shredded and used as an energy source/additive in the cement industry.",
+    "createdAt": "2022-09-27T07:30:32.567Z",
+    "updatedAt": "2022-09-27T07:30:32.567Z"
+  },
+  {
+    "objectId": "hzJU8YjA4R",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "aEZOouaagw"
+    },
+    "language_code": "de",
+    "title": "Textilien",
+    "explanation": "Kleidung, die Sie nicht mehr tragen möchten, kann entweder als Secondhandware wiederverwendet oder als Rohstoff für neue textile Werkstoffe genutzt werden. 50 Prozent der gesammelten Textilien können weiter benutzt werden. Diese Textilien werden i.d.R. exportiert. Weitere vier Prozent werden zu Putzlappen oder anderen Recyclingprodukten (z.B. Schallschutzmatten) weiter verarbeitet.",
+    "createdAt": "2022-09-27T07:40:23.213Z",
+    "updatedAt": "2022-09-27T07:40:23.213Z"
+  },
+  {
+    "objectId": "ZQMCBNg9Qy",
+    "explanation": "Clothes that you no longer want to wear can either be reused as secondhand goods or used as raw material for new textile materials. 50 percent of the collected textiles are reused. These textiles are usually exported. Another four percent are further processed into cleaning rags or other recycled products (e.g. soundproofing mats). ",
+    "title": "Textiles",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "aEZOouaagw"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-27T07:41:12.792Z",
+    "updatedAt": "2022-09-27T07:41:12.792Z"
+  },
+  {
+    "objectId": "a4c8m1Tkt7",
+    "title": "Optische Datenträger",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "EEJXODaiAV"
+    },
+    "language_code": "de",
+    "explanation": "Ton-, Bild- und Datenträger bestehen zu 99 Prozent aus dem Kunststoff Polycarbonat mit einer hauchdünnen Aluminiumschicht. Diese ist mit einem schützenden Klarlack versiegelt. Beim Recycling wird durch ein chemisches oder ein mechanisches Verfahren die Metall- und Lackschicht wieder vom Kunststoff getrennt. Dabei entsteht ein sog. Polycarbonat-Blend (ABS-PC). Dieses hochwertige Recyclingprodukt wird in der Automobilindustrie oder für die Herstellung von Computergehäusen eingesetzt.",
+    "createdAt": "2022-09-27T07:49:45.533Z",
+    "updatedAt": "2022-09-27T07:49:45.533Z"
+  },
+  {
+    "objectId": "9FPcJZTnyc",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "EEJXODaiAV"
+    },
+    "language_code": "en",
+    "title": "Optical media",
+    "explanation": "Audio, video and storage media are made of 99 percent polycarbonate plastic with an ultra-thin aluminum layer. This is sealed with a protective clear lacquer. During recycling, the metal and lacquer layer is separated from the plastic again by a chemical or mechanical process. This produces a so-called polycarbonate blend (ABS-PC). This high-quality recycled product is used in the automotive industry or for the production of computer housings.",
+    "createdAt": "2022-09-27T07:50:37.628Z",
+    "updatedAt": "2022-09-27T07:50:37.628Z"
+  },
+  {
+    "objectId": "sI8Hp8316D",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "x6fiMNlXuG"
+    },
+    "language_code": "de",
+    "title": "Druckerpatronen",
+    "explanation": "Da die Hersteller beteuern, dass sich die Druckköpfe nur für den einmaligen Gebrauch eignen, wandern viele in den Hausmüll, obwohl nur die Tinte leer ist, Tintentank und Druckkopf aber noch funktionieren. Sog. Refill-Betriebe nutzen dieses Leergut sinnvoll weiter. Zur Wiederaufbereitung wird alles gereinigt und Verschleißteile wenn nötig ersetzt. Danach erfolgt die Wiederbefüllung mit Tinte/Toner. Dies kann eine Kostenersparnis bis zu 50 Prozent im Vergleich zur Neuware bedeuten.",
+    "createdAt": "2022-09-27T07:55:07.940Z",
+    "updatedAt": "2022-09-27T07:55:07.940Z"
+  },
+  {
+    "objectId": "nz1EC9kWSa",
+    "title": "Printer cartridges",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "x6fiMNlXuG"
+    },
+    "language_code": "en",
+    "explanation": "Since the manufacturers claim that the cartridges are only suitable for one-time use, many of them end up in the household waste, even though only the ink is empty, but the ink tank and print head still work. So-called refill operations make good use of these empty cartridges. For remanufacturing, everything is cleaned and parts are replaced if necessary. This is followed by refilling with ink/toner. This can mean a cost saving of up to 50 percent compared to new products.",
+    "createdAt": "2022-09-27T07:56:40.053Z",
+    "updatedAt": "2022-09-27T07:56:40.053Z"
+  },
+  {
+    "objectId": "RgjnObNFaI",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "P5ZO2zrDlQ"
+    },
+    "language_code": "de",
+    "title": "Elektrogeräte",
+    "explanation": "Elektrogeräte enthalten wertvolle Rohstoffe, die beim Wegwerfen in die Hausmülltonne unwiederbringbar verloren gehen würden. Besonders wichtig sind hier Metalle, z.B. Eisen, Aluminium, Kupfer, Nickel, Zink oder Zinn. Bei elektronischen Bauteilen, also etwa in PC-Boards, Mobiltelefonen oder Taschenrechnern, finden sich sehr hohe Edelmetallgehalte. Elektronikschrott ist ein wichtiger Rohstofflieferant. Elektroaltgeräte enthalten auch relevante Konzentrationen von gesundheits- und umweltgefährdenden Stoffen wie Blei, Cadmium, Quecksilber, PCB, Antimon und bromierte organische Verbindungen.",
+    "createdAt": "2022-09-27T08:18:42.039Z",
+    "updatedAt": "2022-09-27T08:18:42.039Z"
+  },
+  {
+    "objectId": "1RdONr4vZ2",
+    "title": "Electronic devices",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "P5ZO2zrDlQ"
+    },
+    "language_code": "en",
+    "explanation": "Electrical appliances contain valuable raw materials that would be irretrievably lost if thrown away in the household waste garbage can. Metals are particularly important, e.g. iron, aluminum, copper, nickel, zinc or tin. Electronic components, such as PC boards, cell phones or calculators, have very high precious metal contents. Electronic scrap is an important supplier of raw materials. Electrical devices also contain relevant concentrations of substances hazardous to health and the environment, such as lead, cadmium, mercury, PCBs, antimony and brominated organic compounds.",
+    "createdAt": "2022-09-27T08:21:07.704Z",
+    "updatedAt": "2022-09-27T08:21:07.704Z"
+  },
+  {
+    "objectId": "HldzJTce4I",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "pkws53ZKI6"
+    },
+    "language_code": "de",
+    "title": "Batterien",
+    "explanation": "Batterien und Akkus nicht über die Hausmülltonne entsorgen. Aufgrund des Schadstoffgehaltes dürfen keine Batterien und Akkus mehr über den Hausmüll entsorgt werden. Der Handel ist gesetzlich verpflichtet, diese kostenlos zurück zu nehmen. Die grünen Sammelboxen finden Sie in allen Geschäften die Haushaltsbatterien verkaufen. Kfz-Werkstätten, Tankstellen etc. nehmen bei Kauf einer neuen Kfz-Batterie auch die alte zurück.",
+    "createdAt": "2022-09-27T08:55:58.307Z",
+    "updatedAt": "2022-09-27T08:57:14.380Z"
+  },
+  {
+    "objectId": "cEiN4HqMXf",
+    "explanation": "Do not dispose of batteries and rechargeable batteries in the household waste garbage can. Due to the pollutant content, batteries and rechargeable batteries may no longer be disposed of in household waste. Retailers are legally obliged to take them back free of charge. The green collection boxes can be found in all stores that sell household batteries. When you buy a new car battery, garages, gas stations, etc. will also take back the old one.",
+    "title": "Batteries",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "pkws53ZKI6"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-27T08:57:15.531Z",
+    "updatedAt": "2022-09-27T08:57:15.531Z"
+  },
+  {
+    "objectId": "cQxVntHcmJ",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "8ieRrDerhj"
+    },
+    "language_code": "de",
+    "title": "Leuchtmittel",
+    "explanation": "Energiesparlampen und Leuchtstoffröhren (Neonröhren) gehören zu den sog. Gasentladungslampen. Diese Produkte enthalten geringe Mengen an Quecksilber und müssen deshalb getrennt vom Hausmüll, als Problemabfall entsorgt werden. Auch LEDs gehören in die Kategorie Energie sparender Lampen. Geht eine Energiesparlampe zu Bruch, steigt die Quecksilber-Belastung in der Raumluft gesundheitsgefährdend an.",
+    "createdAt": "2022-09-27T09:05:21.976Z",
+    "updatedAt": "2022-09-27T09:05:21.976Z"
+  },
+  {
+    "objectId": "hxeH3RGTCg",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "8ieRrDerhj"
+    },
+    "language_code": "en",
+    "title": "Light sources",
+    "explanation": "Energy-saving lamps and fluorescent tubes (neon tubes) belong to the so-called gas discharge lamps. These products contain small amounts of mercury and must therefore be disposed of separately from household waste. LEDs also belong to the category of energy-saving lamps. If an energy-saving lamp breaks, the mercury contamination in the room air increases to a level that is hazardous to health.",
+    "createdAt": "2022-09-27T09:06:05.501Z",
+    "updatedAt": "2022-09-27T09:06:05.501Z"
+  },
+  {
+    "objectId": "CmQcJOxAy9",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "eZRhhz8DAC"
+    },
+    "language_code": "de",
+    "title": "Pestizide",
+    "explanation": "Die in Pestiziden enthaltenen Wirkstoffe sind nicht immer unbedenklich und können Ihre Gesundheit gefährden. Daher zähle sie zu den gefährlichen Stoffen und sollten nicht im Hausmüll entsorgt werden.",
+    "createdAt": "2022-09-27T09:18:13.718Z",
+    "updatedAt": "2022-09-27T09:18:13.718Z"
+  },
+  {
+    "objectId": "OsfWwzTv3B",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "eZRhhz8DAC"
+    },
+    "language_code": "en",
+    "title": "Pesticides",
+    "explanation": "The substances contained in pesticides are not always harmless and can endanger your health. Therefore, they count as hazardous substances and should not be disposed of in household waste.",
+    "createdAt": "2022-09-27T09:19:03.394Z",
+    "updatedAt": "2022-09-27T09:19:03.394Z"
+  },
+  {
+    "objectId": "pZ1LULiNpj",
+    "explanation": "Putz- und Reinigungsmittel werden zur Reinigung von Oberflächen und Gegenständen genutzt. Hauptbestandteile sind Tenside (waschaktive Substanzen), Säuren und Basen, Enzyme sowie Duft- und Farbstoffe.",
+    "language_code": "de",
+    "title": "Reinigungsmittel",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "DJQrTGnVFN"
+    },
+    "createdAt": "2022-09-27T09:27:59.335Z",
+    "updatedAt": "2022-09-27T09:27:59.335Z"
+  },
+  {
+    "objectId": "rb1TKJopDL",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "DJQrTGnVFN"
+    },
+    "language_code": "en",
+    "title": "Cleaning agents",
+    "explanation": "Cleaning agents and detergents are used to clean surfaces and objects. The main components are surfactants (washing-active substances), acids and bases, enzymes, and fragrances and dyes.",
+    "createdAt": "2022-09-27T09:28:22.527Z",
+    "updatedAt": "2022-09-27T09:28:22.527Z"
+  },
+  {
+    "objectId": "Y3yy0xDp9J",
+    "title": "Schadstoffe",
+    "language_code": "de",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "nPXEdaAHjZ"
+    },
+    "explanation": "Schadstoffe dürfen aufgrund ihrer Schädlichkeit gegenüber Mensch und Natur keinesfalls über die Hausmülltonne entsorgt werden.",
+    "createdAt": "2022-09-27T09:34:47.236Z",
+    "updatedAt": "2022-09-27T09:34:47.236Z"
+  },
+  {
+    "objectId": "bMT1A4KlZy",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "nPXEdaAHjZ"
+    },
+    "language_code": "en",
+    "title": "Pollutants",
+    "explanation": "Because of their harmfulness to humans and nature, pollutants must never be disposed of in the household waste garbage can.",
+    "createdAt": "2022-09-27T09:35:11.107Z",
+    "updatedAt": "2022-09-27T09:35:11.107Z"
+  },
+  {
+    "objectId": "UMJgEL4FYu",
+    "language_code": "de",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Tcvwws9ESU"
+    },
+    "title": "Metallschrott (groß)",
+    "explanation": "Große Metallgegenstände können aufgrund ihrer Größe nicht in der Wertstofftonne entsorgt werden und müssen auf den Recyclinghof gebracht oder als Sperrmüll abgeholt werden.",
+    "createdAt": "2022-09-27T09:54:01.111Z",
+    "updatedAt": "2022-09-27T09:54:01.111Z"
+  },
+  {
+    "objectId": "sDl5fCt1oX",
+    "explanation": "Due to their size, large metal items cannot be disposed of in the recycling garbage can and must be taken to the recycling center or picked up as bulky waste.",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "Tcvwws9ESU"
+    },
+    "language_code": "en",
+    "title": "Big metal scrap",
+    "createdAt": "2022-09-27T09:54:24.732Z",
+    "updatedAt": "2022-09-27T09:54:24.732Z"
+  },
+  {
+    "objectId": "Hpfzfalbve",
+    "title": "Sperrmüll",
+    "language_code": "de",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "BXZIPjrAH6"
+    },
+    "explanation": "Als Sperrmüll gelten sperrige Einrichtungs- und Gebrauchsgegenstände, die wegen ihrer Größe nicht in eine 120-Liter-Mülltonne passen. Sie können entweder zu einem Recyclinghof gebracht werden, oder von der Sperrmüllabfuhr abgeholt werden.",
+    "createdAt": "2022-09-27T10:13:16.908Z",
+    "updatedAt": "2022-09-27T10:13:16.908Z"
+  },
+  {
+    "objectId": "RYPc5G8AHK",
+    "title": "Bulky waste",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "BXZIPjrAH6"
+    },
+    "language_code": "en",
+    "explanation": "Bulky waste is defined as furnishing and utility items that do not fit in a 120-liter trash can because of their size. They can either be taken to a recycling center or picked up by the bulky waste collection service.",
+    "createdAt": "2022-09-27T10:14:00.827Z",
+    "updatedAt": "2022-09-27T10:14:00.827Z"
+  },
+  {
+    "objectId": "9YzwrbDBkQ",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "LaoxvQfr88"
+    },
+    "language_code": "de",
+    "title": "Abfall zur speziellen Entsorgung",
+    "explanation": "Manche Gegenstände enthalten bestimmte Stoffe oder sind zu groß für Mülleimer und müssen daher extra entsorgt werden.",
+    "createdAt": "2022-09-27T12:53:46.055Z",
+    "updatedAt": "2022-09-27T12:53:46.055Z"
+  },
+  {
+    "objectId": "iPPZVPrEFV",
+    "subcategory_id": {
+      "__type": "Pointer",
+      "className": "Subcategory",
+      "objectId": "LaoxvQfr88"
+    },
+    "language_code": "en",
+    "title": "Special disposal waste",
+    "explanation": "Some items contain specific substances or are too large for trash cans and must be disposed of separately.",
+    "createdAt": "2022-09-27T12:54:22.615Z",
+    "updatedAt": "2022-09-27T12:54:22.615Z"
+  }
+]
+}

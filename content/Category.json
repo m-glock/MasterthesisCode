@@ -1,0 +1,124 @@
+{
+"results" : [
+
+  {
+    "objectId": "GWiuEKUn2B",
+    "pictogram": "https://www.bsr.de/icon_verpackung.svg",
+    "createdAt": "2022-08-10T07:10:04.621Z",
+    "updatedAt": "2022-09-08T07:00:07.190Z",
+    "image_file": {
+      "__type": "File",
+      "name": "9285a4b74197d596529ecd78b03eac6b_icon_verpackung.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/9285a4b74197d596529ecd78b03eac6b_icon_verpackung.png"
+    },
+    "hex_color": "#f8c600",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  },
+  {
+    "objectId": "ZWHAaWY0YN",
+    "pictogram": "https://www.bsr.de/pikto_entsorgung_nicht_bei_der_bsr.svg",
+    "createdAt": "2022-08-13T17:29:53.256Z",
+    "updatedAt": "2022-09-27T06:27:41.947Z",
+    "image_file": {
+      "__type": "File",
+      "name": "7afc991ff73c674e9da4afcff756ef67_icon_cross.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/7afc991ff73c674e9da4afcff756ef67_icon_cross.png"
+    },
+    "hex_color": "#ff6a00",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  },
+  {
+    "objectId": "sxmLVWMf11",
+    "pictogram": "https://www.bsr.de/pikto_schrott_sperrmuell.svg",
+    "createdAt": "2022-08-13T17:30:55.085Z",
+    "updatedAt": "2022-09-08T06:59:09.854Z",
+    "image_file": {
+      "__type": "File",
+      "name": "4da075523ad53b85eab88efa90c06004_pikto_schrott.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/4da075523ad53b85eab88efa90c06004_pikto_schrott.png"
+    },
+    "hex_color": "#ff6a00",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  },
+  {
+    "objectId": "WYsiV8cQIW",
+    "pictogram": "https://www.bsr.de/icon_papiermuell.svg",
+    "createdAt": "2022-08-13T17:32:56.118Z",
+    "updatedAt": "2022-09-08T06:59:04.580Z",
+    "image_file": {
+      "__type": "File",
+      "name": "6d1656f6245896f0f84fd9d39f70e4b1_icon_papiermuell.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/6d1656f6245896f0f84fd9d39f70e4b1_icon_papiermuell.png"
+    },
+    "hex_color": "#0055aa",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  },
+  {
+    "objectId": "IJ26sqG4kH",
+    "pictogram": "https://www.bsr.de/icon_hausmuell.svg",
+    "createdAt": "2022-08-13T17:34:25.005Z",
+    "updatedAt": "2022-09-08T06:58:51.690Z",
+    "image_file": {
+      "__type": "File",
+      "name": "46b1dd95badb4a5e5816d80fbf6ca858_icon_hausmuell.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/46b1dd95badb4a5e5816d80fbf6ca858_icon_hausmuell.png"
+    },
+    "hex_color": "#5f6a72",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  },
+  {
+    "objectId": "gjAQz06iEy",
+    "pictogram": "https://www.bsr.de/icon_weissglass.svg",
+    "createdAt": "2022-08-13T17:35:07.817Z",
+    "updatedAt": "2022-09-08T06:58:58.328Z",
+    "image_file": {
+      "__type": "File",
+      "name": "cdbf1f564b0444dd05da9df1044a8fcd_icon_weissglass.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/cdbf1f564b0444dd05da9df1044a8fcd_icon_weissglass.png"
+    },
+    "hex_color": "#009054",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  },
+  {
+    "objectId": "d1SHnrqu1F",
+    "pictogram": "https://www.bsr.de/icon_biogut.svg",
+    "createdAt": "2022-08-13T17:36:33.610Z",
+    "updatedAt": "2022-09-08T06:58:35.442Z",
+    "image_file": {
+      "__type": "File",
+      "name": "d0249bd65d128399c0a430a2d4566576_icon_biogut.png",
+      "url": "https://parsefiles.back4app.com/tqa1Cgvy94m9L6i7tFTMPXMVYANwy4qELWhzf5Nh/d0249bd65d128399c0a430a2d4566576_icon_biogut.png"
+    },
+    "hex_color": "#712D24",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    }
+  }
+]
+}

@@ -1,0 +1,187 @@
+{
+"results" : [
+
+  {
+    "objectId": "70hUkfhGmG",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "is_correct": false,
+    "createdAt": "2022-09-24T17:33:51.537Z",
+    "updatedAt": "2022-09-25T07:24:23.548Z",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/glas.html#section_2637",
+    "source_name": "Trenntstadt Berlin"
+  },
+  {
+    "objectId": "bPqwHtccWP",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "is_correct": true,
+    "createdAt": "2022-09-24T17:34:38.573Z",
+    "updatedAt": "2022-09-25T07:24:22.396Z",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/glas.html#section_2637",
+    "source_name": "Trenntstadt Berlin"
+  },
+  {
+    "objectId": "uG5uAcfSKo",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "is_correct": true,
+    "createdAt": "2022-09-24T17:34:49.598Z",
+    "updatedAt": "2022-09-25T07:24:20.159Z",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/glas.html#section_2637",
+    "source_name": "Trenntstadt Berlin"
+  },
+  {
+    "objectId": "JE4bCMe12X",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "is_correct": true,
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/biogut.html#section_2745",
+    "createdAt": "2022-09-25T07:24:25.688Z",
+    "updatedAt": "2022-09-25T07:24:25.688Z"
+  },
+  {
+    "objectId": "nfTAEJhOIu",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "is_correct": true,
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/biogut.html#section_2745",
+    "createdAt": "2022-09-25T07:24:39.721Z",
+    "updatedAt": "2022-09-25T07:24:39.721Z"
+  },
+  {
+    "objectId": "tA466gE9lQ",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "is_correct": true,
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/biogut.html#section_2745",
+    "createdAt": "2022-09-25T07:24:55.300Z",
+    "updatedAt": "2022-09-25T07:24:55.300Z"
+  },
+  {
+    "objectId": "EHTIHS81GY",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "is_correct": true,
+    "createdAt": "2022-09-25T09:23:36.887Z",
+    "updatedAt": "2022-09-25T09:24:12.025Z",
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/hausmuell.html#section_2752"
+  },
+  {
+    "objectId": "io8LBeasDg",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "is_correct": false,
+    "createdAt": "2022-09-25T09:23:47.770Z",
+    "updatedAt": "2022-09-25T09:24:12.877Z",
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/hausmuell.html#section_2752"
+  },
+  {
+    "objectId": "QreILdsATd",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "is_correct": true,
+    "createdAt": "2022-09-25T10:42:46.759Z",
+    "updatedAt": "2022-09-25T10:43:29.599Z",
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/papier.html#section_2742"
+  },
+  {
+    "objectId": "I62f1SHHfE",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "is_correct": false,
+    "createdAt": "2022-09-25T10:42:54.224Z",
+    "updatedAt": "2022-09-25T10:43:30.542Z",
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/papier.html#section_2742"
+  },
+  {
+    "objectId": "vGnZqQiqCs",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "is_correct": true,
+    "createdAt": "2022-09-25T10:43:02.836Z",
+    "updatedAt": "2022-09-25T10:43:27.476Z",
+    "source_name": "Trenntstadt Berlin",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/papier.html#section_2742"
+  },
+  {
+    "objectId": "xzr67tv0Fg",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "is_correct": false,
+    "createdAt": "2022-09-25T13:28:18.091Z",
+    "updatedAt": "2022-09-25T13:29:03.738Z",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/wertstoffe.html#section_2786",
+    "source_name": "Trenntstadt Berlin"
+  },
+  {
+    "objectId": "vOctGTSejI",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "is_correct": false,
+    "createdAt": "2022-09-25T13:28:33.541Z",
+    "updatedAt": "2022-09-25T13:29:04.686Z",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/wertstoffe.html#section_2786",
+    "source_name": "Trenntstadt Berlin"
+  },
+  {
+    "objectId": "uqs3O5WAUK",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "is_correct": true,
+    "createdAt": "2022-09-25T13:28:41.470Z",
+    "updatedAt": "2022-09-25T13:29:05.527Z",
+    "source_link": "https://trenntstadt-berlin.de/muelltrennung/wertstoffe.html#section_2786",
+    "source_name": "Trenntstadt Berlin"
+  }
+]
+}

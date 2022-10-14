@@ -1,0 +1,498 @@
+{
+"results" : [
+
+  {
+    "objectId": "4qutCEIIDB",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "IoavBEczlX"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "createdAt": "2022-09-24T08:14:48.836Z",
+    "updatedAt": "2022-09-24T09:22:47.518Z",
+    "title": "Recyclinghof Asgardstraße",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "PxbaDOrOVH",
+    "title": "Recyclinghof Behmstraße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "09:00-19:00|09:00-19:00|09:00-19:00|09:00-19:00|09:00-19:00|07:00-14:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "LLkHFO7ckN"
+    },
+    "createdAt": "2022-09-24T08:19:21.397Z",
+    "updatedAt": "2022-09-24T09:22:46.981Z",
+    "hazardous_materials": true,
+    "second_hand": false
+  },
+  {
+    "objectId": "IWy3bGaD9w",
+    "title": "Recyclinghof Berliner Straße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "opening_hours": "09:00-19:00|09:00-19:00|09:00-19:00|09:00-19:00|09:00-19:00|07:00-14:30|closed",
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "Cs62vgxULH"
+    },
+    "createdAt": "2022-09-24T08:21:25.531Z",
+    "updatedAt": "2022-09-24T09:22:49.737Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "cCrIK9JYfJ",
+    "title": "Recyclinghof Brunsbütteler Damm",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "RUsGDsIpqW"
+    },
+    "createdAt": "2022-09-24T08:26:01.065Z",
+    "updatedAt": "2022-09-24T09:22:45.686Z",
+    "hazardous_materials": true,
+    "second_hand": false
+  },
+  {
+    "objectId": "B24PlUjJjl",
+    "title": "Recyclinghof Fischerstraße",
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "0qP3XtNNJe"
+    },
+    "createdAt": "2022-09-24T08:28:13.409Z",
+    "updatedAt": "2022-09-24T09:22:48.166Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "hC6e34IXWw",
+    "title": "Recyclinghof Gradestraße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "opening_hours": "07:00-19:00|07:00-19:00|07:00-19:00|07:00-19:00|07:00-19:00|07:00-19:00|closed",
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "b7NckH2pmK"
+    },
+    "createdAt": "2022-09-24T08:31:17.742Z",
+    "updatedAt": "2022-09-24T09:21:49.829Z",
+    "hazardous_materials": true,
+    "second_hand": true
+  },
+  {
+    "objectId": "BfT2qbHzLj",
+    "title": "Recyclinghof Hegauer Weg",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "Dc2LPNTT9Z"
+    },
+    "createdAt": "2022-09-24T08:33:29.475Z",
+    "updatedAt": "2022-09-24T09:21:56.406Z",
+    "hazardous_materials": true,
+    "second_hand": true
+  },
+  {
+    "objectId": "yhivX0DQPN",
+    "title": "Recyclinghof Ilsenburger Straße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "mmx4UuqGks"
+    },
+    "createdAt": "2022-09-24T08:40:02.366Z",
+    "updatedAt": "2022-09-24T09:22:52.950Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "TXTIB71oD1",
+    "title": "Recyclinghof Lengeder Straße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "aPoWz1NmAk"
+    },
+    "createdAt": "2022-09-24T08:42:33.117Z",
+    "updatedAt": "2022-09-24T09:22:43.237Z",
+    "second_hand": true,
+    "hazardous_materials": false
+  },
+  {
+    "objectId": "3chkuCLTmg",
+    "title": "Recyclinghof Nordring",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "gnBcsi4bWG"
+    },
+    "createdAt": "2022-09-24T08:43:50.953Z",
+    "updatedAt": "2022-09-24T09:22:53.774Z",
+    "hazardous_materials": true,
+    "second_hand": false
+  },
+  {
+    "objectId": "NEAer3GW4E",
+    "title": "Recyclinghof Oberspreestraße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "IN0LRlYSJS"
+    },
+    "createdAt": "2022-09-24T08:45:10.758Z",
+    "updatedAt": "2022-09-24T09:22:54.487Z",
+    "hazardous_materials": true,
+    "second_hand": false
+  },
+  {
+    "objectId": "Xad0v9LGtC",
+    "title": "Recyclinghof Ostpreußendamm",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "ldMqoxU4GJ"
+    },
+    "createdAt": "2022-09-24T08:46:36.206Z",
+    "updatedAt": "2022-09-24T09:22:50.270Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "BOOFKjDOHA",
+    "title": "Recyclinghof Rahnsdorfer Straße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "Px5B2oGePc"
+    },
+    "createdAt": "2022-09-24T08:48:15.499Z",
+    "updatedAt": "2022-09-24T09:22:49.053Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "oMOQYy8jSj",
+    "title": "Recyclinghof Ruppiner Chaussee",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "07:00-17:00|07:00-17:00|07:00-17:00|09.30-19:30|07:00-17:00|07:00-15:30|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "rK9jmTrKVh"
+    },
+    "createdAt": "2022-09-24T08:50:47.569Z",
+    "updatedAt": "2022-09-24T09:22:52.224Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "ZJHHsjBXIA",
+    "title": "Mechanische Behandlungsanlagen Gradestraße",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "06:00-19:00|06:00-19:00|06:00-19:00|06:00-19:00|06:00-19:00|closed|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "QA5jQrjQWS"
+    },
+    "createdAt": "2022-09-24T08:52:46.608Z",
+    "updatedAt": "2022-09-24T09:22:50.947Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "njNA18kzVq",
+    "title": "Müllheizkraftwerk Ruhleben",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "LKq90wMks7"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "06:00-13:30|06:00-13:30|06:00-13:30|06:00-13:30|06:00-13:30|closed|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "XdvLEQ3aj2"
+    },
+    "createdAt": "2022-09-24T08:54:49.702Z",
+    "updatedAt": "2022-09-24T09:22:51.583Z",
+    "hazardous_materials": false,
+    "second_hand": false
+  },
+  {
+    "objectId": "Fr9Abgbyif",
+    "title": "Gebrauchtwarenkaufhaus NochMall",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "contact_id": {
+      "__type": "Pointer",
+      "className": "Contact",
+      "objectId": "Lmo9Wf0ZdE"
+    },
+    "collection_point_type_id": {
+      "__type": "Pointer",
+      "className": "CollectionPointType",
+      "objectId": "vhREosqgH4"
+    },
+    "opening_hours": "10:00-18:00|10:00-18:00|10:00-18:00|10:00-20:00|10:00-18:00|10:00-18:00|closed",
+    "address_id": {
+      "__type": "Pointer",
+      "className": "Address",
+      "objectId": "7pEe0IY3Uq"
+    },
+    "createdAt": "2022-09-24T08:57:36.061Z",
+    "updatedAt": "2022-09-24T09:22:41.835Z",
+    "second_hand": true,
+    "hazardous_materials": false
+  }
+]
+}

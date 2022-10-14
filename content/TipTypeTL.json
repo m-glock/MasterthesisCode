@@ -1,0 +1,53 @@
+{
+"results" : [
+
+  {
+    "objectId": "WQ0Fjf15C4",
+    "tip_type_id": {
+      "__type": "Pointer",
+      "className": "TipType",
+      "objectId": "YUWVrHr5mE"
+    },
+    "language_code": "de",
+    "title": "Müllvermeidung",
+    "createdAt": "2022-08-10T09:51:24.863Z",
+    "updatedAt": "2022-09-27T17:33:39.024Z"
+  },
+  {
+    "objectId": "NmyiuuwnUJ",
+    "tip_type_id": {
+      "__type": "Pointer",
+      "className": "TipType",
+      "objectId": "YUWVrHr5mE"
+    },
+    "language_code": "en",
+    "title": "Waste prevention",
+    "createdAt": "2022-08-10T09:51:36.179Z",
+    "updatedAt": "2022-09-27T17:33:43.978Z"
+  },
+  {
+    "objectId": "jYyv1gKcsq",
+    "tip_type_id": {
+      "__type": "Pointer",
+      "className": "TipType",
+      "objectId": "LW8QB9QbbD"
+    },
+    "language_code": "de",
+    "title": "Mülltrennung",
+    "createdAt": "2022-08-10T09:52:19.550Z",
+    "updatedAt": "2022-09-27T17:33:49.850Z"
+  },
+  {
+    "objectId": "5MGS4XASJi",
+    "tip_type_id": {
+      "__type": "Pointer",
+      "className": "TipType",
+      "objectId": "LW8QB9QbbD"
+    },
+    "language_code": "en",
+    "title": "Waste separation",
+    "createdAt": "2022-08-10T09:52:31.369Z",
+    "updatedAt": "2022-09-27T17:33:54.288Z"
+  }
+]
+}

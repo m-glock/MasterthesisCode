@@ -1,0 +1,243 @@
+{
+"results" : [
+
+  {
+    "objectId": "IoavBEczlX",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.5808517,
+      "longitude": 13.4359116
+    },
+    "street": "Asgardstraße",
+    "number": "3",
+    "zip_code": "13089",
+    "district": "Pankow",
+    "createdAt": "2022-09-24T08:10:40.639Z",
+    "updatedAt": "2022-09-24T08:10:40.639Z"
+  },
+  {
+    "objectId": "LLkHFO7ckN",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.5513043,
+      "longitude": 13.4035388
+    },
+    "street": "Behmstraße",
+    "number": "14",
+    "zip_code": "10439",
+    "district": "Pankow",
+    "createdAt": "2022-09-24T08:19:14.927Z",
+    "updatedAt": "2022-09-24T08:19:14.927Z"
+  },
+  {
+    "objectId": "Cs62vgxULH",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.4866229,
+      "longitude": 13.3149736
+    },
+    "street": "Berliner Straße",
+    "number": "110",
+    "zip_code": "10713",
+    "district": "Charlottenburg-Wilmersdorf",
+    "createdAt": "2022-09-24T08:21:03.245Z",
+    "updatedAt": "2022-09-24T08:21:03.245Z"
+  },
+  {
+    "objectId": "RUsGDsIpqW",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.5343493,
+      "longitude": 13.1908753
+    },
+    "street": "Brunsbütteler Damm",
+    "number": "47",
+    "zip_code": "13581",
+    "district": "Spandau",
+    "createdAt": "2022-09-24T08:25:11.666Z",
+    "updatedAt": "2022-09-24T08:25:11.666Z"
+  },
+  {
+    "objectId": "0qP3XtNNJe",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.49834,
+      "longitude": 13.49079
+    },
+    "street": "Fischerstraße",
+    "number": "16",
+    "zip_code": "10317",
+    "district": "Lichtenberg",
+    "createdAt": "2022-09-24T08:28:06.159Z",
+    "updatedAt": "2022-09-24T08:28:06.159Z"
+  },
+  {
+    "objectId": "b7NckH2pmK",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.45208,
+      "longitude": 13.42782
+    },
+    "street": "Gradestraße",
+    "number": "73",
+    "zip_code": "12347",
+    "district": "Neukölln",
+    "createdAt": "2022-09-24T08:31:09.853Z",
+    "updatedAt": "2022-09-24T08:31:09.853Z"
+  },
+  {
+    "objectId": "Dc2LPNTT9Z",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.42946,
+      "longitude": 13.248
+    },
+    "street": "Hegauer Weg",
+    "number": "17",
+    "district": "Steglitz-Zehlendorf",
+    "zip_code": "14163",
+    "createdAt": "2022-09-24T08:33:23.720Z",
+    "updatedAt": "2022-09-24T08:33:23.720Z"
+  },
+  {
+    "objectId": "mmx4UuqGks",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.5280026,
+      "longitude": 13.3099714
+    },
+    "street": "Ilsenburger Straße",
+    "number": "18 - 20",
+    "district": "Charlottenburg-Wilmersdorf",
+    "zip_code": "10589",
+    "createdAt": "2022-09-24T08:39:51.313Z",
+    "updatedAt": "2022-09-24T08:39:51.313Z"
+  },
+  {
+    "objectId": "aPoWz1NmAk",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.58229,
+      "longitude": 13.34729
+    },
+    "street": "Lengeder Straße",
+    "number": "6 - 18",
+    "district": "Reinickendorf",
+    "zip_code": "13407",
+    "createdAt": "2022-09-24T08:42:25.936Z",
+    "updatedAt": "2022-09-24T08:42:25.936Z"
+  },
+  {
+    "objectId": "gnBcsi4bWG",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.56339,
+      "longitude": 13.5461
+    },
+    "street": "Nordring",
+    "number": "5",
+    "district": "Marzahn-Hellersdorf",
+    "zip_code": "12681",
+    "createdAt": "2022-09-24T08:43:43.817Z",
+    "updatedAt": "2022-09-24T08:43:43.817Z"
+  },
+  {
+    "objectId": "IN0LRlYSJS",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.44657,
+      "longitude": 13.56066
+    },
+    "street": "Oberspreestraße",
+    "number": "109",
+    "district": "Treptow-Köpenick",
+    "zip_code": "12555",
+    "createdAt": "2022-09-24T08:45:05.282Z",
+    "updatedAt": "2022-09-24T08:45:05.282Z"
+  },
+  {
+    "objectId": "ldMqoxU4GJ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.4416,
+      "longitude": 13.3279
+    },
+    "street": "Ostpreußendamm",
+    "number": "1",
+    "district": "Steglitz-Zehlendorf",
+    "zip_code": "12207",
+    "createdAt": "2022-09-24T08:46:25.669Z",
+    "updatedAt": "2022-09-24T08:46:25.669Z"
+  },
+  {
+    "objectId": "Px5B2oGePc",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.49839,
+      "longitude": 13.61344
+    },
+    "street": "Rahnsdorfer Straße",
+    "number": "76",
+    "district": "Marzahn-Hellersdorf",
+    "zip_code": "12623",
+    "createdAt": "2022-09-24T08:48:09.160Z",
+    "updatedAt": "2022-09-24T08:48:09.160Z"
+  },
+  {
+    "objectId": "rK9jmTrKVh",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.6212,
+      "longitude": 13.23579
+    },
+    "street": "Ruppiner Chaussee",
+    "number": "341",
+    "district": "Reinickendorf",
+    "zip_code": "13503",
+    "createdAt": "2022-09-24T08:50:10.322Z",
+    "updatedAt": "2022-09-24T08:50:10.322Z"
+  },
+  {
+    "objectId": "QA5jQrjQWS",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.45219,
+      "longitude": 13.426
+    },
+    "street": "Gradestraße",
+    "number": "81",
+    "district": "Neukölln",
+    "zip_code": "12347",
+    "createdAt": "2022-09-24T08:52:35.047Z",
+    "updatedAt": "2022-09-24T08:52:35.047Z"
+  },
+  {
+    "objectId": "XdvLEQ3aj2",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.52883,
+      "longitude": 13.23885
+    },
+    "street": "Freiheit",
+    "number": "24 - 25",
+    "district": "Spandau",
+    "zip_code": "13597",
+    "createdAt": "2022-09-24T08:54:42.237Z",
+    "updatedAt": "2022-09-24T08:54:42.237Z"
+  },
+  {
+    "objectId": "7pEe0IY3Uq",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 52.5688789,
+      "longitude": 13.3278036
+    },
+    "street": "Auguste-Viktoria-Allee",
+    "number": "99",
+    "district": "Reinickendorf",
+    "zip_code": "13403",
+    "createdAt": "2022-09-24T08:57:24.316Z",
+    "updatedAt": "2022-09-24T08:57:24.316Z"
+  }
+]
+}

@@ -1,0 +1,89 @@
+{
+"results" : [
+
+  {
+    "objectId": "e4s4KrnYPK",
+    "forum_entry_type_id": {
+      "__type": "Pointer",
+      "className": "ForumEntryType",
+      "objectId": "KWFJwug1wL"
+    },
+    "text": "Hat den Tipp ${} geteilt.",
+    "button_text": "Ansehen",
+    "createdAt": "2022-09-13T07:39:36.377Z",
+    "updatedAt": "2022-09-21T19:51:56.962Z",
+    "language_code": "de",
+    "title": "Teilen"
+  },
+  {
+    "objectId": "2FpBV3ZurD",
+    "forum_entry_type_id": {
+      "__type": "Pointer",
+      "className": "ForumEntryType",
+      "objectId": "KWFJwug1wL"
+    },
+    "text": "Shared the tip ${}.",
+    "button_text": "View",
+    "createdAt": "2022-09-13T07:40:16.005Z",
+    "updatedAt": "2022-09-21T19:51:59.555Z",
+    "language_code": "en",
+    "title": "Share"
+  },
+  {
+    "objectId": "sYUI9X3RmO",
+    "forum_entry_type_id": {
+      "__type": "Pointer",
+      "className": "ForumEntryType",
+      "objectId": "qgkF0xwW8Y"
+    },
+    "text": "Auf der Suche nach Gleichgesinnten, um ${} wegzubringen.",
+    "button_text": "Thread öffnen",
+    "createdAt": "2022-09-13T07:41:43.131Z",
+    "updatedAt": "2022-09-21T19:51:46.592Z",
+    "language_code": "de",
+    "title": "Mitstreiter"
+  },
+  {
+    "objectId": "5cTlrcs8Uu",
+    "forum_entry_type_id": {
+      "__type": "Pointer",
+      "className": "ForumEntryType",
+      "objectId": "qgkF0xwW8Y"
+    },
+    "text": "Looking for like-minded people to take ${} away.",
+    "button_text": "Open thread",
+    "createdAt": "2022-09-13T07:42:22.881Z",
+    "updatedAt": "2022-09-21T19:51:22.370Z",
+    "language_code": "en",
+    "title": "Ally"
+  },
+  {
+    "objectId": "EIoS2qWrx3",
+    "forum_entry_type_id": {
+      "__type": "Pointer",
+      "className": "ForumEntryType",
+      "objectId": "FLW7EeOAgg"
+    },
+    "text": "${}",
+    "button_text": "Thread öffnen",
+    "createdAt": "2022-09-13T07:44:34.985Z",
+    "updatedAt": "2022-09-21T19:51:08.113Z",
+    "language_code": "de",
+    "title": "Frage"
+  },
+  {
+    "objectId": "lJ0pJaPudm",
+    "forum_entry_type_id": {
+      "__type": "Pointer",
+      "className": "ForumEntryType",
+      "objectId": "FLW7EeOAgg"
+    },
+    "text": "${}",
+    "button_text": "Open thread",
+    "createdAt": "2022-09-13T07:45:00.682Z",
+    "updatedAt": "2022-09-21T19:51:05.073Z",
+    "language_code": "en",
+    "title": "Question"
+  }
+]
+}

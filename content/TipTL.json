@@ -1,0 +1,565 @@
+{
+"results" : [
+
+  {
+    "objectId": "HfCOOkIpBJ",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "S4AnkfEBBS"
+    },
+    "title": "Biologische Alternativen anstatt schädliche Stoffe",
+    "language_code": "de",
+    "explanation": "Bevorzugen Sie möglichst Produkte, die frei von organischen Lösemitteln sind. Lösemittelhaltige Produkte immer gut verschlossen an einem kühlen Platz lagern; das verhindert das Eintrocknen. Grundsätzlich keine Holzschutzmittel in Innenräumen einsetzen. Für chemische Schädlingsbekämpfungsmittel gibt es oft biologische Alternativen wie z. B. Nützlinge.",
+    "short": "Bevorzugen Sie möglichst Produkte, die frei von organischen Lösemitteln sind und suchen sie nach biologischen Alternativen.",
+    "createdAt": "2022-09-27T17:14:30.393Z",
+    "updatedAt": "2022-09-27T17:14:30.393Z"
+  },
+  {
+    "objectId": "m1BDUDiYOk",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "BofK8RWRfF"
+    },
+    "language_code": "de",
+    "title": "Allzweckreiniger ersetzt die meisten Produkte",
+    "explanation": "Benutzen Sie im Haushalt keine Desinfektionsmittel. Diese sind überflüssig und können die Entstehung von Allergien und Hautekzemen fördern. Auch Spezialprodukte wie ätzende Rohrreiniger oder chlorhaltige Reinigungsmittel sollten gemieden werden. Meist sind Allzweckreiniger völlig ausreichend. Für hartnäckige Verschmutzungen können Sie eine milde Scheuermilch einsetzen. Zum Entkalken eignet sich sehr gut geruchsneutrale Zitronensäure.",
+    "short": "Allzweckreiniger, Scheuermilch und Zitronensäure decken den Großteil der Haushaltsreinigung bereits ab.",
+    "createdAt": "2022-09-27T17:19:46.181Z",
+    "updatedAt": "2022-09-27T17:20:05.922Z"
+  },
+  {
+    "objectId": "7FBCF2Vn5E",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "ESVBHwY6pC"
+    },
+    "title": "Biologische Alternativen anstatt Pestizide",
+    "explanation": "Für Pestizide gibt es oft biologische Alternativen wie z. B Nützlinge. Als Nützlinge bezeichnet man zumeist Spinnentiere oder Insekten, denen andere schädliche Insekten als Nahrung dienen. Holzschutzmittel sind für die Anwendung im Außenbereich gedacht und nicht für den vorbeugenden Einsatz im Wohnraum. Werden sie im Außenbereich eingesetzt, sollten ausschließlich geprüfte Produkte mit RAL-Gütezeichen zum Einsatz kommen. Holzschutzmittel sind nicht für die Anwendung in Innenräumen geeignet.",
+    "short": "Für Pestizide gibt es oft biologische Alternativen wie z. B Nützlinge. Holzschutzmittel sind für die Anwendung im Außenbereich gedacht.",
+    "language_code": "de",
+    "createdAt": "2022-09-27T17:24:11.026Z",
+    "updatedAt": "2022-09-27T17:24:11.026Z"
+  },
+  {
+    "objectId": "YUsOvLovfS",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "2uscxIGq1Z"
+    },
+    "language_code": "de",
+    "title": "Energiesparlampen von Markenherstellern nutzen",
+    "explanation": "Die besten Energiesparlampen, das zeigen Untersuchungen der Stiftung Warentest, stammen von Markenherstellern. Billigprodukte aus dem Supermarkt haben oft nur eine geringe Lebensdauer, besitzen aber den gleichen Schadstoffgehalt wie hochwertigere Produkte. Eine sinnvolle Alternative zu Energiesparlampen sind LED-Lampen.",
+    "short": "Die besten Energiesparlampen, das zeigen Untersuchungen der Stiftung Warentest, stammen von Markenherstellern.",
+    "createdAt": "2022-09-27T17:26:34.164Z",
+    "updatedAt": "2022-09-27T17:26:34.164Z"
+  },
+  {
+    "objectId": "N7AAZKWrTr",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "hYVXDtJGWf"
+    },
+    "title": "Die Lebensdauer von Farhzeugbatterien verlängern",
+    "explanation": "Um eine lange Lebensdauer einer Fahrzeugbatterie zu erreichen, sollte diese regelmäßig kontrolliert werden. Zum Nachfüllen bitte nur destilliertes Wasser nutzen! Fetten Sie die Pole mit säurefreiem und säurebeständigem Polfett ein und sorgen Sie für einen festen Sitz der Anschlussklemmen. Vermeiden Sie zum Laden eine sog. Schnellladung. Bevorzugen Sie Ladegeräte, bei denen mit steigendem Ladungszustand der Batterie der Ladestrom sinkt.",
+    "short": "Um eine lange Lebensdauer einer Fahrzeugbatterie zu erreichen, sollte diese regelmäßig kontrolliert werden. ",
+    "language_code": "de",
+    "createdAt": "2022-09-27T17:30:08.737Z",
+    "updatedAt": "2022-09-27T17:30:08.737Z"
+  },
+  {
+    "objectId": "3IbCKIrYws",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "aaGjUSHK5y"
+    },
+    "short": "Für mobile Geräte sollten grundsätzlich wiederaufladbare Akkus genutzt werden.",
+    "explanation": "Betreiben Sie ortsfeste Geräte möglichst über das Stromnetz. Für mobile Geräte sollten grundsätzlich wiederaufladbare Akkus genutzt werden. Beides ist allemal billiger als der Einsatz von Batterien und weitaus umweltfreundlicher. Nutzen Sie solarbetriebene Taschenrechner, Spielzeug, Ladegeräte, etc.",
+    "title": "Nutzen von Akkus und solarbetriebenen Geräten",
+    "language_code": "de",
+    "createdAt": "2022-09-27T17:31:41.075Z",
+    "updatedAt": "2022-09-27T17:31:41.075Z"
+  },
+  {
+    "objectId": "MXCkR98GFg",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "5pcfXMJaoJ"
+    },
+    "title": "Weniger Einweg, mehr reparierbare Gegenstände",
+    "short": "Bevorzugen Sie langlebige und gut reparierbare Geräte und leihen sie selten genutzte Geräte.",
+    "explanation": "Vermeiden Sie Einwegprodukte wie Einwegkameras, Einwegtaschenrechner oder Einwegtaschenlampen. Bevorzugen Sie langlebige und gut reparierbare Geräte. Elektrogeräte die selten genutzt werden, wie Teppichschamponierer, Kärcher oder Spezialwerkzeuge lassen sich meist problemlos ausleihen. Spezialisierte Verleihfirmen und Baumärkte bieten hier ein vielfältiges Angebot. ",
+    "language_code": "de",
+    "createdAt": "2022-09-27T17:35:42.883Z",
+    "updatedAt": "2022-09-27T17:35:42.883Z"
+  },
+  {
+    "objectId": "wU5kn1XJ6Q",
+    "title": "USB-Sticks und mobile Festplatten nutzen",
+    "language_code": "de",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "0lUTsvjHs9"
+    },
+    "short": "Bevorzugen Sie für den Transport von Daten USB-Sticks und mobile Festplatten.",
+    "explanation": "Bevorzugen Sie für den Transport von Daten USB-Sticks und mobile Festplatten oder verwenden Sie wiederbeschreibbare CDs. Die Nutzung von DVDs ermöglicht eine größere Aufnahme von Daten je CD.",
+    "createdAt": "2022-09-27T17:38:20.121Z",
+    "updatedAt": "2022-09-27T17:38:20.121Z"
+  },
+  {
+    "objectId": "ybNaAJKMJ3",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "kO8ja1RkRT"
+    },
+    "language_code": "de",
+    "explanation": "Es ist ratsam den Textilkonsum zu beschränken oder Second-Hand-Kleidung in Betracht zu ziehen. Denn für die Produktion von Textilien wird bei synthetischen Stoffen der endliche Rohstoff Erdöl und bei Baumwollfasern werden Anbauflächen und große Mengen Wasser benötigt, die dem Nahrungsmittelanbau verwehrt bleiben.",
+    "short": "Es ist ratsam den Textilkonsum zu beschränken oder Second-Hand-Kleidung in Betracht zu ziehen.",
+    "title": "Textilkonsum verringern",
+    "createdAt": "2022-09-27T17:40:51.388Z",
+    "updatedAt": "2022-09-27T17:40:51.388Z"
+  },
+  {
+    "objectId": "OZ8FL4fupU",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "uOZP4FVmo3"
+    },
+    "language_code": "de",
+    "title": "Textilien für die Weiterverarbeitung richtig sortieren",
+    "short": "Alttextilien und Schuhe bitte in getrennten Säcken verpacken und verschließen.",
+    "explanation": "Alttextilien müssen sauber und trocken sein. Alttextilien und Schuhe bitte in getrennten Säcken verpacken und verschließen. Schuhe bitte paarweise zusammenbinden. Alttextilien werden auch in Verbindung mit der Sperrmüllabfuhr abgeholt. Bitte beschriften Sie die Säcke.",
+    "createdAt": "2022-09-27T17:43:16.324Z",
+    "updatedAt": "2022-09-27T17:43:16.324Z"
+  },
+  {
+    "objectId": "taK6lF7JiH",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "GNLBrlDpnN"
+    },
+    "title": "Runderneuerte Reifen nutzen",
+    "language_code": "de",
+    "explanation": "Nutzen Sie runderneuerte Reifen mit dem Blauen Engel (http://www.blauer-engel.de). Das spart Geld und schont Ressourcen. Beim Neukauf von Reifen lassen Sie Ihre alten am besten gleich beim Händler.",
+    "short": "Beim Neukauf von Reifen lassen Sie Ihre alten am besten gleich beim Händler.",
+    "createdAt": "2022-09-27T17:45:14.279Z",
+    "updatedAt": "2022-09-27T17:45:14.279Z"
+  },
+  {
+    "objectId": "XCvVRYU9Zs",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "11Sjd3SoBa"
+    },
+    "language_code": "de",
+    "title": "Wasser als Lösemittel verwenden",
+    "short": "Wasser als Lösemittel für Farben und Lacke ist umwelt- und gesundheutsfreundlicher.",
+    "explanation": "Farben und vor allem Lacke können bis zu 70 Prozent organische Lösemittel (Nitrolacke) enthalten. Organische Lösemittel können die Gesundheit schädigen und sind mitverantwortlich für die Entstehung von Ozon (Sommersmog). Im Heimwerkerbereich wird heute deshalb verstärkt Wasser als Lösemittel verwendet (sogenannte Acrylharzlacke). Diese Produkte sind oft mit dem „Blauen Engel“ gekennzeichnet. Aus Gründen des Gesundheits- und Umweltschutzes sollten Gebinde mit organischen Lösemitteln stets gut verschlossen werden (Gefahr der Verdunstung).",
+    "createdAt": "2022-09-27T17:55:15.528Z",
+    "updatedAt": "2022-09-27T20:58:28.315Z"
+  },
+  {
+    "objectId": "5vgVKLrpgA",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "RxML6GARyn"
+    },
+    "language_code": "de",
+    "title": "Regional einkaufen und abfallvermeidenden Nachfüllpackungen nutzen",
+    "short": "Beim Getränkekauf sollten Sie regionale Produkte (kurze Transportwege) in Mehrwegflaschen bevorzugen.",
+    "explanation": "Beim Getränkekauf sollten Sie regionale Produkte (kurze Transportwege) in Mehrwegflaschen bevorzugen. Diese erkennt man an dem reduzierten Pfandbetrag von 8 Cent für Bierflaschen und 15 Cent für andere Getränke wie z. B. Mineralwasser oder kohlensäurehaltige Erfrischungsgetränke. Bei einem Pfandbetrag von 25 Cent handelt es sich immer um Einwegverpackungen. Eine Alternative sind sog. ökologisch vorteilhafte Verpackungen wie Kartonverpackungen (Tetrapak) oder Verpackungsschläuche (z.B. für Milch). Diese sind nicht bepfandet. Verzichten Sie weiterhin auf Portionsverpackungen beispielsweise für Konfitüre oder Kaffeesahne. Hier ist das Verhältnis zwischen Verpackung und Inhalt besonders ungünstig. Reinigungsmittel und andere Hygieneartikel werden oft in preisgünstigen, abfallvermeidenden Nachfüllpackungen angeboten.",
+    "createdAt": "2022-09-27T18:00:56.884Z",
+    "updatedAt": "2022-09-27T18:00:56.884Z"
+  },
+  {
+    "objectId": "eT4EqowtDF",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "vKRD5U635Z"
+    },
+    "language_code": "de",
+    "explanation": "Im Fall von Getränken sollten Sie grundsätzlich Mehrwegflaschen bevorzugen, da diese bis zu 50 mal wieder befüllt werden können. Mehrwegflaschen erkennen Sie an der geringeren Pfandgebühr von 8 Cent im Falle von Bier, sowie von 15 Cent z. B. für Mineralwasser oder Erfrischungsgetränke. Ein Flaschenpfand von 25 Cent bedeutet immer, dass es sich hierbei um eine umweltbelastende Einwegverpackung handelt, die Sie im Regal stehen lassen sollten. Wählen Sie möglichst Produkte aus der Region, um lange Transportwege zu vermeiden.",
+    "title": "Mehrwegflaschen sind umweltschonender",
+    "short": "Im Fall von Getränken sollten Sie grundsätzlich Mehrwegflaschen bevorzugen, da diese bis zu 50 mal wieder befüllt werden können. ",
+    "createdAt": "2022-09-27T19:54:05.777Z",
+    "updatedAt": "2022-09-27T19:54:05.777Z"
+  },
+  {
+    "objectId": "VfNLBPuWqO",
+    "title": "Papier nutzen anstatt wegwerfen",
+    "language_code": "de",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "bqJxT52YoA"
+    },
+    "short": "Nutzen Sie Papierprodukte aus 100%tigem Recyclingpapier mit dem Blauen Engel.",
+    "explanation": "Nutzen Sie Papierprodukte aus 100%tigem Recyclingpapier mit dem Blauen Engel. Versuchen Sie unnötige Papierausdrucke zu vermeiden und möglichst beidseitig zu verwenden.",
+    "createdAt": "2022-09-27T19:56:33.618Z",
+    "updatedAt": "2022-09-27T19:56:33.618Z"
+  },
+  {
+    "objectId": "TKb9w64mnE",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "0QZ0mUO0CB"
+    },
+    "language_code": "de",
+    "title": "Kartons und Pappen zerkleinern",
+    "short": "Kartons und Pappen sollten grundsätzlich zerrissen und zerkleinert werden, bevor sie in die Mülltonne geworfen werden.",
+    "explanation": "Kartons und Pappen sollten grundsätzlich zerrissen und zerkleinert werden, bevor sie in die Mülltonne geworfen werden. Somit wird das Volumen der Papiertonne optimal ausgenutzt.",
+    "createdAt": "2022-09-27T20:00:48.490Z",
+    "updatedAt": "2022-09-27T20:00:48.490Z"
+  },
+  {
+    "objectId": "McG9Ig5hE6",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "sCnOz0Tclg"
+    },
+    "language_code": "de",
+    "explanation": "Funktionstüchtige Gegenstände, die zu schade zum Wegwerfen sind, können Sie über den Tausch- und Verschenkmarkt Berlin (https://www.bsr.de/verschenkmarkt\\) oder andere Portale zur Weiternutzung anbieten oder im Gebrauchtwarenkaufhaus NochMall (https://www.nochmall.de/) sowie auf einen der BSR Recyclinghöfe mit Re-Use-Annahmestelle abgeben.",
+    "title": "Gegenstände in gutem Zustand nicht einfach wegwerfen",
+    "short": "Funktionstüchtige Gegenstände, die zu schade zum Wegwerfen sind, können auf unterschiedlichen Platformen weitervermittelt werden.",
+    "createdAt": "2022-09-27T20:05:26.644Z",
+    "updatedAt": "2022-09-27T20:05:26.644Z"
+  },
+  {
+    "objectId": "PpShCl0vzI",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "n32JkR7Tik"
+    },
+    "title": "Becher nicht ausspülen",
+    "language_code": "de",
+    "short": "Es ist nicht nötig, leere Joghurtbecher auszuspülen, bevor man sie in den Müll wirft.",
+    "explanation": "Es ist nicht nötig, leere Joghurtbecher auszuspülen, bevor man sie in den Müll wirft. Kunststoffe werden vor dem Recycling ohnehin gereinigt. Es reicht also, diese löffelrein zu entsorgen und unnötigen Wasserverbrauch zu vermeiden.",
+    "createdAt": "2022-09-27T20:36:30.450Z",
+    "updatedAt": "2022-09-27T20:36:30.450Z"
+  },
+  {
+    "objectId": "9EAo6n5crk",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "RUJEpf56de"
+    },
+    "title": "Deckel und Papierrolle vom Becher trennen",
+    "language_code": "de",
+    "explanation": "Deckel bestehen oft aus einem anderen Material als der Joghurt- oder Margarinebecher und sollten daher getrennt entsorgt werden. Papierbandrollen an den Joghurtbechern sollten ebenfalls abgetrennt und in den Papiermüll geworfen werden.",
+    "short": "Deckel bestehen oft aus einem anderen Material als der Joghurt- oder Margarinebecher.",
+    "createdAt": "2022-09-27T20:38:25.824Z",
+    "updatedAt": "2022-09-27T20:38:25.824Z"
+  },
+  {
+    "objectId": "SfsmAV6O3k",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "qCh3xARfNK"
+    },
+    "language_code": "de",
+    "title": "Blaues und rotes Glas in den Grünglascontainer",
+    "short": "Grünglas kann am meisten Fremdfarben aufnehmen, ohne an Qualität zu verlieren.",
+    "explanation": "Grünglas kann am meisten Fremdfarben aufnehmen, ohne an Qualität zu verlieren. Daher sollten blaues und rotes Glas in den Grünglascontainer geworfen werden.",
+    "createdAt": "2022-09-27T20:39:45.563Z",
+    "updatedAt": "2022-09-27T20:39:45.563Z"
+  },
+  {
+    "objectId": "CglI92NUEo",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "S4AnkfEBBS"
+    },
+    "title": "Biological alternatives instead of harmful substances",
+    "explanation": "If possible, give preference to products that are free of organic solvents. Always store products containing solvents tightly closed in a cool place; this prevents drying. As a general rule, do not use wood preservatives indoors. For chemical pesticides, there are often biological alternatives such as beneficial insects.",
+    "short": "If possible, prefer products that are free of organic solvents and look for biological alternatives.",
+    "language_code": "en",
+    "createdAt": "2022-09-27T20:41:09.888Z",
+    "updatedAt": "2022-09-27T20:41:09.888Z"
+  },
+  {
+    "objectId": "d9zlUlpJrE",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "BofK8RWRfF"
+    },
+    "language_code": "en",
+    "title": "All-purpose cleaners replace most cleaning products",
+    "explanation": "Do not use disinfectants in the home. These are unnecessary and can promote the development of allergies and skin eczema. Special products such as corrosive pipe cleaners or cleaning agents containing chlorine should also be avoided. In most cases, all-purpose cleaners are perfectly adequate. For stubborn stains, you can use a mild scouring agent. Odorless citric acid is very suitable for descaling.",
+    "short": "All-purpose cleaner, scouring milk and citric acid already cover the majority of household cleaning.",
+    "createdAt": "2022-09-27T20:42:26.954Z",
+    "updatedAt": "2022-09-27T20:42:26.954Z"
+  },
+  {
+    "objectId": "l17wgjWTkU",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "ESVBHwY6pC"
+    },
+    "language_code": "en",
+    "title": "Organic alternatives instead of pesticides",
+    "explanation": "For pesticides, there are often biological alternatives such as beneficial insects. Beneficial insects are mostly arachnids or insects that feed on other harmful insects. Wood preservatives are intended for outdoor use and not for preventative use in the home. If they are used outdoors, only tested products with RAL quality marks should be used. Wood preservatives are not suitable for indoor use.",
+    "short": "For pesticides, there are often biological alternatives such as beneficial insects. Wood preservatives are intended for outdoor use.",
+    "createdAt": "2022-09-27T20:44:25.611Z",
+    "updatedAt": "2022-09-27T20:44:25.611Z"
+  },
+  {
+    "objectId": "Lr20Z2AeQu",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "2uscxIGq1Z"
+    },
+    "language_code": "en",
+    "title": "Use energy-saving lamps from brand manufacturers",
+    "explanation": "The best energy-saving lamps, as shown by Stiftung Warentest, come from brand manufacturers. Cheap products from the supermarket often only have a short service life, but have the same pollutant content as higher-quality products. LED lamps are a sensible alternative to energy-saving lamps.",
+    "short": "The best energy-saving lamps, as shown by Stiftung Warentest, come from brand manufacturers.",
+    "createdAt": "2022-09-27T20:45:53.010Z",
+    "updatedAt": "2022-09-27T20:45:53.010Z"
+  },
+  {
+    "objectId": "vY8kH9cXSX",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "hYVXDtJGWf"
+    },
+    "title": "Extend the life of vehicle batteries",
+    "language_code": "en",
+    "explanation": "To achieve a long life of a vehicle battery, it should be checked regularly. Please use only distilled water for refilling! Grease the poles with acid-free and acid-resistant pole grease and ensure that the terminals are firmly seated. Avoid a so-called quick charge for charging. Prefer chargers in which the charging current decreases as the battery's state of charge increases.",
+    "short": "To achieve a long life of a vehicle battery, it should be checked regularly.",
+    "createdAt": "2022-09-27T20:47:49.494Z",
+    "updatedAt": "2022-09-27T20:47:49.494Z"
+  },
+  {
+    "objectId": "3MbFs4jVeA",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "aaGjUSHK5y"
+    },
+    "language_code": "en",
+    "title": "Use rechargeable batteries and solar-powered devices",
+    "explanation": "If possible, operate stationary devices from the main electrical power. Rechargeable batteries should always be used for mobile devices. Both are cheaper than using batteries and much more environmentally friendly. Use solar-powered calculators, toys, chargers, etc.",
+    "short": "Rechargeable batteries should always be used for mobile devices.",
+    "createdAt": "2022-09-27T20:49:02.239Z",
+    "updatedAt": "2022-09-27T20:49:02.239Z"
+  },
+  {
+    "objectId": "ytGOgy5JnA",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "5pcfXMJaoJ"
+    },
+    "language_code": "en",
+    "title": "Less disposable, more repairable items",
+    "explanation": "Avoid disposable products such as disposable cameras, disposable pocket calculators or disposable flashlights. Prefer durable and easily repairable equipment. Electrical appliances that are rarely used, such as carpet shampooers, Kärcher or special tools can usually be rented without any problems. Specialized rental companies and hardware stores offer a wide range of equipment. ",
+    "short": "Prefer durable equipment that can be repaired and borrow equipment that is rarely used.",
+    "createdAt": "2022-09-27T20:50:18.655Z",
+    "updatedAt": "2022-09-27T20:50:18.655Z"
+  },
+  {
+    "objectId": "rU9ALHgrMi",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "0lUTsvjHs9"
+    },
+    "title": "Use USB sticks and mobile hard drives",
+    "language_code": "en",
+    "explanation": "Preferrably use USB sticks and mobile hard drives for transporting data or use rewritable CDs. The use of DVDs allows a larger recording of data per CD.",
+    "short": "Prefer USB sticks and mobile hard drives for transporting data.",
+    "createdAt": "2022-09-27T20:51:28.560Z",
+    "updatedAt": "2022-09-27T20:51:28.560Z"
+  },
+  {
+    "objectId": "PBTvZiruBk",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "kO8ja1RkRT"
+    },
+    "language_code": "en",
+    "title": "Reduce textile consumption",
+    "explanation": "It is advisable to limit textile consumption or to consider second-hand clothing. This is because the production of textiles requires the finite raw material of petroleum in the case of synthetic fabrics, and cotton fibers require cultivable land and large quantities of water that are denied to food cultivation.",
+    "short": "It is advisable to limit textile consumption or to consider second-hand clothing.",
+    "createdAt": "2022-09-27T20:52:22.390Z",
+    "updatedAt": "2022-09-27T20:52:22.390Z"
+  },
+  {
+    "objectId": "wA5jw8ajCV",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "uOZP4FVmo3"
+    },
+    "language_code": "en",
+    "title": "Correctly sort textiles for further processing",
+    "explanation": "Used textiles must be clean and dry. Please pack and seal used textiles and shoes in separate bags. Please tie shoes together in pairs. Old textiles are also collected in conjunction with bulky waste collection. Please label the bags.",
+    "short": "Please pack and seal old textiles and shoes in separate bags.",
+    "createdAt": "2022-09-27T20:53:05.750Z",
+    "updatedAt": "2022-09-27T20:53:05.750Z"
+  },
+  {
+    "objectId": "03eVI0BAEB",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "GNLBrlDpnN"
+    },
+    "language_code": "en",
+    "title": "Use renewed tires",
+    "explanation": "Use renewed tires with the Blue Angel (http://www.blauer-engel.de). This saves money and conserves resources. When buying new tires, it's best to leave your old ones with the seller.",
+    "short": "When buying new tires, it's best to leave your old ones with the seller.",
+    "createdAt": "2022-09-27T20:57:33.182Z",
+    "updatedAt": "2022-09-27T20:57:33.182Z"
+  },
+  {
+    "objectId": "0ooWHoeLBY",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "11Sjd3SoBa"
+    },
+    "language_code": "en",
+    "title": "Use water as solvent",
+    "explanation": "Paints and especially lacquers can contain up to 70 percent organic solvents (nitro lacquers). Organic solvents can be harmful to health and are partly responsible for the formation of ozone (summer smog). In the do-it-yourself sector, water is therefore increasingly used as a solvent today (so-called acrylic resin paints). These products are often labeled with the \"Blue Angel\". For reasons of health and environmental protection, containers containing organic solvents should always be tightly closed (risk of evaporation).",
+    "short": "Water as a solvent for paints and varnishes is more environmentally friendly and healthier.",
+    "createdAt": "2022-09-27T20:58:36.924Z",
+    "updatedAt": "2022-09-27T20:58:36.924Z"
+  },
+  {
+    "objectId": "zS0dmwcTb3",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "RxML6GARyn"
+    },
+    "language_code": "en",
+    "title": "Buy regionally and use waste-avoiding refill packaging",
+    "explanation": "When buying beverages, you should prefer regional products (short transport distances) in returnable bottles. You can recognize these by the reduced deposit amount of 8 cents for beer bottles and 15 cents for other beverages such as mineral water or carbonated soft drinks. A deposit of 25 cents always refers to disposable packaging. An alternative is so-called ecologically advantageous packaging such as cardboard packaging (Tetrapak) or packaging tubes (e.g. for milk). These do not have a deposit. Furthermore, do not use portion packaging for jam or coffee cream, for example. Here, the ratio between packaging and contents is particularly unfavorable. Cleaning agents and other hygiene products are often offered in inexpensive, waste-avoiding refill packs.",
+    "short": "When buying beverages, you should prefer regional products (short transport distances) in returnable bottles.",
+    "createdAt": "2022-09-27T21:00:19.029Z",
+    "updatedAt": "2022-09-27T21:00:19.029Z"
+  },
+  {
+    "objectId": "41AcAD4Do2",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "vKRD5U635Z"
+    },
+    "language_code": "en",
+    "title": "Reusable bottles are more environmentally friendly",
+    "explanation": "In the case of beverages, you should always prefer reusable bottles, as these can be refilled up to 50 times. You can recognize reusable bottles by the lower deposit of 8 cents in the case of beer, and 15 cents for mineral water or soft drinks, for example. A bottle deposit of 25 cents always means that this is environmentally damaging disposable packaging, which you should leave on the shelf. If possible, choose products from the region to avoid long transport routes.",
+    "short": "In the case of beverages, you should always prefer reusable bottles, as these can be refilled up to 50 times. ",
+    "createdAt": "2022-09-27T21:01:00.848Z",
+    "updatedAt": "2022-09-27T21:01:00.848Z"
+  },
+  {
+    "objectId": "qR1zt4mrVw",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "bqJxT52YoA"
+    },
+    "title": "Use paper instead of throwing it away",
+    "language_code": "en",
+    "explanation": "Use paper products made from 100% recycled paper with the Blue Angel. Try to avoid unnecessary paper printouts and use both sides if possible.",
+    "short": "Use paper products made from 100% recycled paper with the Blue Angel.",
+    "createdAt": "2022-09-27T21:01:42.738Z",
+    "updatedAt": "2022-09-27T21:01:42.738Z"
+  },
+  {
+    "objectId": "FuZJZzvEy2",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "0QZ0mUO0CB"
+    },
+    "title": "Shred and fold cardboard and cartons",
+    "explanation": "Cartons and cardboard should always be torn up and shredded before being thrown into the trash can. In this way, the volume of the paper garbage can is optimally utilized.",
+    "short": "Cardboard boxes and cardboard should always be torn up and shredded before throwing them in the trash can.",
+    "language_code": "en",
+    "createdAt": "2022-09-27T21:02:37.108Z",
+    "updatedAt": "2022-09-27T21:02:37.108Z"
+  },
+  {
+    "objectId": "DxdEB2t4hO",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "sCnOz0Tclg"
+    },
+    "language_code": "en",
+    "title": "Do not throw away items in good condition",
+    "explanation": "Functional items that are too good to throw away can be offered for reuse via the Berlin Swap and Giveaway Market (https://www.bsr.de/verschenkmarkt\\) or other portals, or you can drop them off at the NochMall used goods store (https://www.nochmall.de/) or at one of the BSR recycling centers with a reuse acceptance point.",
+    "short": "Functioning items that are too good to throw away can be passed on on different platforms.",
+    "createdAt": "2022-09-27T21:03:28.910Z",
+    "updatedAt": "2022-09-27T21:03:28.910Z"
+  },
+  {
+    "objectId": "PpoFsd2M2F",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "n32JkR7Tik"
+    },
+    "language_code": "en",
+    "title": "Do not rinse cup",
+    "explanation": "There is no need to rinse empty yogurt pots before throwing them in the trash. Plastics are cleaned before recycling anyway. So it is enough to dispose of them spoon clean and avoid unnecessary water consumption.",
+    "short": "There is no need to rinse empty yogurt pots before throwing them in the trash.",
+    "createdAt": "2022-09-27T21:04:12.340Z",
+    "updatedAt": "2022-09-27T21:04:12.340Z"
+  },
+  {
+    "objectId": "UVPrmyBnOj",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "RUJEpf56de"
+    },
+    "title": "Separate the lid and paper roll from the cup",
+    "language_code": "en",
+    "explanation": "Lids are often made of a different material than the yogurt or margarine container and should be disposed of separately. Paper tape rolls on the yogurt cups should also be cut off and thrown in the paper waste.",
+    "short": "Lids are often made of a different material than the yogurt or margarine tub.",
+    "createdAt": "2022-09-27T21:05:03.027Z",
+    "updatedAt": "2022-09-27T21:05:03.027Z"
+  },
+  {
+    "objectId": "J8CuHN4WT9",
+    "tip_id": {
+      "__type": "Pointer",
+      "className": "Tip",
+      "objectId": "qCh3xARfNK"
+    },
+    "title": "Blue and red glass belongs in the green glass container",
+    "language_code": "en",
+    "explanation": "Green glass can absorb the most foreign colors without losing quality. Therefore, blue and red glass should be thrown into the green glass container.",
+    "short": "Green glass can absorb the most foreign colors without losing quality.",
+    "createdAt": "2022-09-27T21:05:49.693Z",
+    "updatedAt": "2022-09-27T21:05:49.693Z"
+  }
+]
+}

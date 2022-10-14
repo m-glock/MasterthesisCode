@@ -1,0 +1,369 @@
+{
+"results" : [
+
+  {
+    "objectId": "6heXTqixCA",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "70hUkfhGmG"
+    },
+    "language_code": "de",
+    "question": "Blaue oder rote Glasflaschen sollten im Braunglascontainer entsorgt werden?",
+    "answer": "Nur Grünglas darf in geringen Mengen andersfarbige Partikel enthalten, ohne Recycling und Qualität zu beeinträchtigen.",
+    "createdAt": "2022-09-24T17:36:46.069Z",
+    "updatedAt": "2022-09-24T17:37:01.133Z"
+  },
+  {
+    "objectId": "Ufy0VVtG26",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "70hUkfhGmG"
+    },
+    "language_code": "en",
+    "question": "Blue or red glass bottles belong in the brown glass container?",
+    "answer": "Only green glass may contain particles of a different color in small quantities without affecting recycling and quality.",
+    "createdAt": "2022-09-24T17:37:33.986Z",
+    "updatedAt": "2022-09-24T17:37:33.986Z"
+  },
+  {
+    "objectId": "Tx9Hy34ux3",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "bPqwHtccWP"
+    },
+    "language_code": "de",
+    "question": "Deckel von Glasflaschen sollten extra entsorgt werden?",
+    "answer": "Metall- und Kunststoff¬deckel gehören in die Wert¬stoff¬tonne. Falls sie doch einmal im Altglascontainer landen, können sie durch  Sortier¬verfahren wieder rausgeholt werden.",
+    "createdAt": "2022-09-24T17:39:04.100Z",
+    "updatedAt": "2022-10-13T17:03:45.764Z"
+  },
+  {
+    "objectId": "DtuHyvuG6S",
+    "answer": "Metal and plastic lids belong in the recyclables garbage can. If they do end up in the glass container, they can be removed during the recycling process.",
+    "question": "Lids of glass bottles should be disposed of separately?",
+    "language_code": "en",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "bPqwHtccWP"
+    },
+    "createdAt": "2022-09-24T17:40:02.257Z",
+    "updatedAt": "2022-10-13T17:04:48.926Z"
+  },
+  {
+    "objectId": "A6pguED7TG",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "uG5uAcfSKo"
+    },
+    "question": "Alle Altglascontainer werden sowieso in einem Fahrzeug ausgeleert?",
+    "answer": "Der Container auf dem Entsorgungsfahrzeug besteht aus mehreren Kammern, in die das Glas – nach Farben sortiert – geleert wird.",
+    "language_code": "de",
+    "createdAt": "2022-09-24T17:41:40.267Z",
+    "updatedAt": "2022-10-13T17:02:37.304Z"
+  },
+  {
+    "objectId": "BtvJJBEwa3",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "uG5uAcfSKo"
+    },
+    "language_code": "en",
+    "question": "All bottle banks are emptied in one vehicle?",
+    "answer": "The container on the disposal vehicle consists of several chambers into which the glass - sorted by color - is emptied.",
+    "createdAt": "2022-09-24T17:42:31.986Z",
+    "updatedAt": "2022-10-13T17:02:44.335Z"
+  },
+  {
+    "objectId": "5ebTankB9y",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "JE4bCMe12X"
+    },
+    "language_code": "de",
+    "question": "Gekochtes Essensreste und Zitronenschalen dürfen in die Biotonne?",
+    "answer": "Jegliche Art von Lebensmittel ist gutes „Futter“ für die Biogasanlage, auch hochkalorische und fettige Abfälle.",
+    "createdAt": "2022-09-25T07:25:47.860Z",
+    "updatedAt": "2022-10-13T17:01:52.726Z"
+  },
+  {
+    "objectId": "u4hULdhBk8",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "JE4bCMe12X"
+    },
+    "language_code": "en",
+    "question": "Cooked food scraps and lemon peels belong in the organic waste garbage can?",
+    "answer": "Any type of food is good \" fodder\" for the biogas plant, including high-caloric and fatty waste.",
+    "createdAt": "2022-09-25T07:26:38.603Z",
+    "updatedAt": "2022-10-13T17:02:13.881Z"
+  },
+  {
+    "objectId": "bsX67NDoln",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "nfTAEJhOIu"
+    },
+    "language_code": "de",
+    "question": "Plastik und Bioplastik gehören nicht in die Biotonne?",
+    "answer": "Die Anlagen können nicht dazwischen unterscheiden. Zudem zersetzt sich das Bioplastik zu langsam. In Form von Mikroplastik kann es in unseren Böden landen.",
+    "createdAt": "2022-09-25T07:27:15.797Z",
+    "updatedAt": "2022-09-25T07:27:15.797Z"
+  },
+  {
+    "objectId": "8d8MtZQwXc",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "nfTAEJhOIu"
+    },
+    "question": "Plastic and bioplastics do not belong in the organic waste garbage can?",
+    "answer": "The plants cannot distinguish between them. In addition, the bioplastics decompose too slowly. It can end up in our soil in the form of microplastics.",
+    "language_code": "en",
+    "createdAt": "2022-09-25T07:27:58.569Z",
+    "updatedAt": "2022-09-25T07:27:58.569Z"
+  },
+  {
+    "objectId": "Pe7DE3fMan",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "tA466gE9lQ"
+    },
+    "language_code": "de",
+    "question": "Papiertüten haben nichts in der Biotonne zu suchen?",
+    "answer": "Allerdings können sie ohne Weiteres mit in die Biotonne geworfen werden, wenn darin Biogut gesammelt wird. Bitte darauf achten, dass sie keine Kunststoff-Innenbeschichtung haben.",
+    "createdAt": "2022-09-25T07:28:53.770Z",
+    "updatedAt": "2022-09-25T07:28:53.770Z"
+  },
+  {
+    "objectId": "TsdC7yBuww",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "tA466gE9lQ"
+    },
+    "language_code": "en",
+    "question": "Paper bags do not belong in the organic waste garbage can?",
+    "answer": "However, they can be thrown into the organic waste garbage can without further ado if organic waste is collected in them. Please make sure that they do not have a plastic inner coating.",
+    "createdAt": "2022-09-25T07:29:35.140Z",
+    "updatedAt": "2022-09-25T07:29:35.140Z"
+  },
+  {
+    "objectId": "6Xiy62UHIz",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "EHTIHS81GY"
+    },
+    "language_code": "de",
+    "question": "Zerbrochenes Fensterglas und kaputte Getränkegläser gehören in den Restmüll?",
+    "answer": "Diese Glasarten haben einen anderen Schmelzpunkt und müssen statt im Glas¬container im Restmüll entsorgt werden. Das gleich gilt für Keramik, Spiegel und Porzellan.",
+    "createdAt": "2022-09-25T09:26:49.152Z",
+    "updatedAt": "2022-10-13T16:59:33.412Z"
+  },
+  {
+    "objectId": "v0GHkpBrmj",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "EHTIHS81GY"
+    },
+    "language_code": "en",
+    "question": "Broken window glass and broken drinking glasses belong in the residual waste?",
+    "answer": "These types of glass have a different melting point and must be disposed of in the residual waste instead of the glass container. The same applies to ceramics, mirrors and porcelain.",
+    "createdAt": "2022-09-25T09:27:38.002Z",
+    "updatedAt": "2022-10-13T16:59:49.765Z"
+  },
+  {
+    "objectId": "8ELWB4zSVN",
+    "question": "Am Ende wird sowieso alles zusammengekippt?",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "io8LBeasDg"
+    },
+    "answer": "Jede Abfallart geht einen anderen Entsorgungsweg. Mehr Informationen zu den Recyclingkreisläufen können auf den jeweiligen Seiten der Abfallarten gefunden werden.",
+    "language_code": "de",
+    "createdAt": "2022-09-25T09:38:16.219Z",
+    "updatedAt": "2022-09-25T09:38:16.219Z"
+  },
+  {
+    "objectId": "G74MF9BnD8",
+    "answer": "Each type of waste follows a different disposal route. More information about the recycling cycles can be found on the respective pages of the waste types.",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "io8LBeasDg"
+    },
+    "language_code": "en",
+    "question": "In the end, everything gets dumped in one place anyway?",
+    "createdAt": "2022-09-25T09:38:58.959Z",
+    "updatedAt": "2022-09-25T09:38:58.959Z"
+  },
+  {
+    "objectId": "lZStWJ2Cop",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "QreILdsATd"
+    },
+    "language_code": "de",
+    "question": "Briefumschläge mit Fenster gehören in die Papiertonne?",
+    "answer": "Solange der Briefumschlag überwiegend aus Papier besteht, darf er in die Papiertonne. Ein kleines Sichtfenster stört den Recyclingprozess dabei nicht.",
+    "createdAt": "2022-09-25T10:44:20.847Z",
+    "updatedAt": "2022-10-13T16:57:46.330Z"
+  },
+  {
+    "objectId": "w4qIcHWiUm",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "QreILdsATd"
+    },
+    "language_code": "en",
+    "question": "Envelopes with windows belong in the paper garbage can?",
+    "answer": "As long as the envelope is mainly made of paper, it can go into the paper garbage can. A small viewing window does not interfere with the recycling process.",
+    "createdAt": "2022-09-25T10:45:16.592Z",
+    "updatedAt": "2022-10-13T16:57:47.646Z"
+  },
+  {
+    "objectId": "8HxIeC8wNi",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "I62f1SHHfE"
+    },
+    "question": "Kassenbons gehören ins Altpapier?",
+    "answer": "Kassenbons bestehen häufig aus sogenanntem Thermopapier. Dieses ist speziell beschichtet und kann nicht mit dem restlichen Papier verarbeitet werden.",
+    "language_code": "de",
+    "createdAt": "2022-09-25T10:46:15.021Z",
+    "updatedAt": "2022-10-13T16:56:14.121Z"
+  },
+  {
+    "objectId": "TxuILtH4S6",
+    "language_code": "en",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "I62f1SHHfE"
+    },
+    "question": "Receipts belong in the paper waste?",
+    "answer": "Receipts are often made of so-called thermal paper. This is specially coated and cannot be recycled in the same way as normal paper.",
+    "createdAt": "2022-09-25T10:46:55.427Z",
+    "updatedAt": "2022-10-13T16:56:30.138Z"
+  },
+  {
+    "objectId": "dNJ1Evq6oz",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "xzr67tv0Fg"
+    },
+    "language_code": "de",
+    "question": "Leere Verpackungen müssen ausgewaschen werden?",
+    "answer": "Das Säubern der Verpackungen passiert während des Recyclingprozesses. Es reicht daher, Verpackungen löffelrein restentleert zu entsorgen und unnötigen Wasserverbrauch zu vermeiden.",
+    "createdAt": "2022-09-25T13:29:46.195Z",
+    "updatedAt": "2022-10-13T16:55:30.343Z"
+  },
+  {
+    "objectId": "Za17ggvejb",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "xzr67tv0Fg"
+    },
+    "language_code": "en",
+    "question": "Empty packaging must be washed out?",
+    "answer": "Cleaning of the packaging takes place during the recycling process. It is therefore sufficient to dispose of packaging emptied by spoon and to avoid unnecessary water consumption.",
+    "createdAt": "2022-09-25T13:31:12.232Z",
+    "updatedAt": "2022-10-13T16:55:35.490Z"
+  },
+  {
+    "objectId": "GYhAxvRmrL",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "vOctGTSejI"
+    },
+    "language_code": "de",
+    "question": "Nur ein Teil der Plastikverpackung wird recycelt?",
+    "answer": "Manche Gegenstände besteht aus Mischkunststoff, der nicht oder nur schwer wieder getrennt werden kann.",
+    "createdAt": "2022-09-25T13:31:47.692Z",
+    "updatedAt": "2022-10-13T16:53:12.834Z"
+  },
+  {
+    "objectId": "zV8ygauRhS",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "vOctGTSejI"
+    },
+    "language_code": "en",
+    "question": "Only part of the plastic packaging is recycled?",
+    "answer": "Some items are made of mixed plastic, which is impossible or difficult to separate again.",
+    "createdAt": "2022-09-25T13:32:42.032Z",
+    "updatedAt": "2022-10-13T16:53:25.543Z"
+  },
+  {
+    "objectId": "fH3kjXkD1R",
+    "question": "Verpackungen darf man nicht gestapelt entsorgen?",
+    "language_code": "de",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "uqs3O5WAUK"
+    },
+    "answer": "Gestapelte Verpackungen unterschiedlicher Plastikarten können während des Recyclingprozesses nicht maschinell voneinander getrennt werden. Daher bitte nicht stapeln.",
+    "createdAt": "2022-09-25T13:33:20.523Z",
+    "updatedAt": "2022-10-13T16:51:50.875Z"
+  },
+  {
+    "objectId": "fk6dswtAAR",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "uqs3O5WAUK"
+    },
+    "language_code": "en",
+    "question": "Packaging should not be stacked before being thrown away?",
+    "answer": "Stacked packaging of different plastic types cannot be separated from each other by machine during the recycling process. Therefore, please do not stack them.",
+    "createdAt": "2022-09-25T13:34:24.127Z",
+    "updatedAt": "2022-10-13T16:52:05.263Z"
+  },
+  {
+    "objectId": "RTtrjz3rTq",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "vGnZqQiqCs"
+    },
+    "question": "Taschentücher dürfen nicht in die Papiertonne?",
+    "answer": "Die Fasern von benutzten Taschentüchern sind sehr klein und meist stark verunreinigt.  Daher lieber in den Restmüll werfen, anstatt in die Papiertonne.",
+    "language_code": "de",
+    "createdAt": "2022-09-27T15:21:55.800Z",
+    "updatedAt": "2022-10-13T16:49:16.363Z"
+  },
+  {
+    "objectId": "35529z6NE0",
+    "category_myth_id": {
+      "__type": "Pointer",
+      "className": "CategoryMyth",
+      "objectId": "vGnZqQiqCs"
+    },
+    "language_code": "en",
+    "question": "Tissues are not allowed in the paper garbage can?",
+    "answer": "The fibers of used handkerchiefs are very small and usually heavily contaminated.  Therefore, it is better to throw them in the residual waste instead of in the paper garbage can.",
+    "createdAt": "2022-09-27T15:22:38.304Z",
+    "updatedAt": "2022-10-13T16:49:36.439Z"
+  }
+]
+}

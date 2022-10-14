@@ -1,0 +1,20 @@
+{
+"results" : [
+
+  {
+    "objectId": "LKq90wMks7",
+    "phone": "030 / 7592-4900",
+    "fax": "030 / 7592-2262",
+    "email": "service@BSR.de",
+    "createdAt": "2022-09-24T08:14:37.167Z",
+    "updatedAt": "2022-09-24T08:14:37.167Z"
+  },
+  {
+    "objectId": "Lmo9Wf0ZdE",
+    "phone": "030 / 3149330",
+    "website": "https://www.nochmall.de/",
+    "createdAt": "2022-09-24T09:15:15.937Z",
+    "updatedAt": "2022-09-24T09:15:15.937Z"
+  }
+]
+}

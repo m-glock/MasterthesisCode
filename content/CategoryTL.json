@@ -1,0 +1,179 @@
+{
+"results" : [
+
+  {
+    "objectId": "FTizcRxVmz",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "language_code": "de",
+    "title": "Wertstofftonne",
+    "createdAt": "2022-08-10T09:38:31.312Z",
+    "updatedAt": "2022-09-28T18:14:30.811Z",
+    "article": "die"
+  },
+  {
+    "objectId": "NW5uxF9vyh",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "language_code": "en",
+    "title": "Recyclables garbage can",
+    "createdAt": "2022-08-10T09:38:54.147Z",
+    "updatedAt": "2022-10-02T16:34:00.522Z"
+  },
+  {
+    "objectId": "ehwQnqlEZP",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "ZWHAaWY0YN"
+    },
+    "language_code": "en",
+    "title": "Disposal not possible at BSR",
+    "createdAt": "2022-08-13T17:31:27.393Z",
+    "updatedAt": "2022-08-13T17:31:27.393Z"
+  },
+  {
+    "objectId": "xoE0pn3qlM",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "ZWHAaWY0YN"
+    },
+    "language_code": "de",
+    "title": "Entsorgung über die BSR nicht möglich",
+    "createdAt": "2022-08-13T17:32:26.441Z",
+    "updatedAt": "2022-08-13T17:32:26.441Z"
+  },
+  {
+    "objectId": "Ii1v2ixFnv",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "language_code": "de",
+    "title": "Papiermüll",
+    "createdAt": "2022-08-13T17:33:14.468Z",
+    "updatedAt": "2022-09-28T18:14:24.148Z",
+    "article": "den"
+  },
+  {
+    "objectId": "G24Tf2rSCU",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "language_code": "en",
+    "title": "Paper waste",
+    "createdAt": "2022-08-13T17:33:29.808Z",
+    "updatedAt": "2022-08-13T17:33:29.808Z"
+  },
+  {
+    "objectId": "bgkEhaXKb3",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "language_code": "de",
+    "title": "Restmüll",
+    "createdAt": "2022-08-13T17:34:39.285Z",
+    "updatedAt": "2022-09-28T18:14:21.155Z",
+    "article": "den"
+  },
+  {
+    "objectId": "sUQRdhHVBc",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "language_code": "en",
+    "title": "Residual waste",
+    "createdAt": "2022-08-13T17:34:51.024Z",
+    "updatedAt": "2022-08-13T17:34:51.024Z"
+  },
+  {
+    "objectId": "aIxHQYpQP9",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "language_code": "de",
+    "title": "Glasmüll",
+    "createdAt": "2022-08-13T17:35:32.908Z",
+    "updatedAt": "2022-09-28T18:14:15.979Z",
+    "article": "den"
+  },
+  {
+    "objectId": "ry6DZh8pTD",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "language_code": "en",
+    "title": "Glass waste",
+    "createdAt": "2022-08-13T17:35:46.716Z",
+    "updatedAt": "2022-08-13T17:35:46.716Z"
+  },
+  {
+    "objectId": "eGWCXE9BO4",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "language_code": "de",
+    "title": "Biomüll",
+    "createdAt": "2022-08-13T17:36:52.768Z",
+    "updatedAt": "2022-09-28T18:14:12.514Z",
+    "article": "den"
+  },
+  {
+    "objectId": "1PkM0WndDE",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "language_code": "en",
+    "title": "Biological waste",
+    "createdAt": "2022-08-13T17:37:05.509Z",
+    "updatedAt": "2022-08-13T17:37:05.509Z"
+  },
+  {
+    "objectId": "BsQh4gR3vF",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "language_code": "de",
+    "title": "Recyclinghof",
+    "createdAt": "2022-08-13T17:39:36.867Z",
+    "updatedAt": "2022-09-28T18:14:03.016Z",
+    "article": "den"
+  },
+  {
+    "objectId": "uKD0LFQIO6",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "language_code": "en",
+    "title": "Collection point",
+    "createdAt": "2022-08-13T17:39:48.333Z",
+    "updatedAt": "2022-09-28T07:11:10.921Z"
+  }
+]
+}

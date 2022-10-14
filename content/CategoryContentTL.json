@@ -1,0 +1,533 @@
+{
+"results" : [
+
+  {
+    "objectId": "dKTmQmz33A",
+    "language_code": "de",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "SFoEPdPcAU"
+    },
+    "createdAt": "2022-09-25T07:41:20.584Z",
+    "updatedAt": "2022-09-25T08:33:41.838Z",
+    "item_list": {
+      "items": [
+        "Milch",
+        "Kunststoffe, Verpackungen, Folien, Tüten, Bioplastik",
+        "Metalle, Alufolien, Dosen",
+        "Hygieneartikel (Watte, Tampons, Binden, Windeln)",
+        "Staubsaugerbeutel",
+        "Textilien, Leder",
+        "Katzen- und Kleintierstreu",
+        "behandeltes Holz (imprägniert oder lackiert)",
+        "Asche",
+        "Erde, Sand, Kies, Steine, Glas"
+      ]
+    }
+  },
+  {
+    "objectId": "XLIW1o49ZE",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "SFoEPdPcAU"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T07:53:24.509Z",
+    "updatedAt": "2022-09-25T08:33:40.005Z",
+    "item_list": {
+      "items": [
+        "Milk",
+        "Plastics, packaging, foils, bags, bioplastics",
+        "Metals, aluminum foils, cans",
+        "Hygiene products (cotton, tampons, pads, diapers)",
+        "Vacuum Cleaner Bag",
+        "Textiles, leather",
+        "Cat litter and small animal litter",
+        "treated wood (impregnated or lacquered)",
+        "Ash",
+        "Earth, sand, gravel, stones, glass"
+      ]
+    }
+  },
+  {
+    "objectId": "MjoY1BY7H9",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "Wqel9r8a2K"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T07:54:58.757Z",
+    "updatedAt": "2022-09-25T08:33:37.557Z",
+    "item_list": {
+      "items": [
+        "Essensreste, auch Gekochtes",
+        "verschimmelte, verdorbene, verbrannte oder ungenießbare Lebensmittel",
+        "Obst-/Gemüsereste, Schalen, auch von Zitrusfrüchten",
+        "Knochen, Gräten",
+        "Milchprodukte",
+        "Kaffeesatz, -filter, Tee, Teebeutel",
+        "Eierschalen",
+        "Küchenpapier",
+        "Grünabfälle aus dem Garten",
+        "Blumen und Blumenerde"
+      ]
+    }
+  },
+  {
+    "objectId": "aRCOVZpEiN",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "Wqel9r8a2K"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T07:56:34.719Z",
+    "updatedAt": "2022-09-25T08:33:35.231Z",
+    "item_list": {
+      "items": [
+        "Food leftovers, even cooked ones",
+        "Molded, rotten, burned, or inedible food",
+        "Fruit and vegetable leftovers, peels, also from citrus fruits",
+        "(fish) bones",
+        "Dairy products",
+        "Coffee grounds, filters, tea, tea bags",
+        "Egg shells",
+        "Paper towels",
+        "Garden waste",
+        "Flowers and potting soil"
+      ]
+    }
+  },
+  {
+    "objectId": "HaTAtqNAPO",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "h7str9wROW"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T07:59:12.630Z",
+    "updatedAt": "2022-09-25T08:33:32.742Z",
+    "item_list": {
+      "items": [
+        "Glühlampen und Energiesparlampen",
+        "Geschirr, Porzellan und Keramik",
+        "Fensterglas- oder Spiegelscherben",
+        "Trink-, Kristall- oder Bleikristallglas",
+        "Auto- und Flachglas",
+        "feuerfeste Gläser",
+        "Korken"
+      ]
+    }
+  },
+  {
+    "objectId": "dN4cYqY7N7",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "h7str9wROW"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T08:00:18.860Z",
+    "updatedAt": "2022-09-25T08:33:30.587Z",
+    "item_list": {
+      "items": [
+        "Light bulbs and energy saving lamps",
+        "Tableware, porcelain and ceramics",
+        "Window glass or mirror shards",
+        "Drinking, crystal or lead crystal glass",
+        "Car and flat glass",
+        "Fireproof glass",
+        "Cork"
+      ]
+    }
+  },
+  {
+    "objectId": "leAFF3HxIc",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "Etlh8A9F9F"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T08:01:58.099Z",
+    "updatedAt": "2022-09-25T08:33:28.123Z",
+    "item_list": {
+      "items": [
+        "Saft-, Wein- und Essigflaschen (Einwegflaschen)",
+        "Babynahrungs- oder Marmeladengläser",
+        "Verpackungen aus Glas",
+        "Parfümflacons",
+        "Arzneimittelflaschen",
+        "zerbrochenes Glas der oben genannten Sorte"
+      ]
+    }
+  },
+  {
+    "objectId": "RdPpD24b9W",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "Etlh8A9F9F"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T08:02:57.075Z",
+    "updatedAt": "2022-09-25T08:33:25.560Z",
+    "item_list": {
+      "items": [
+        "Juice, wine and vinegar bottles (disposable)",
+        "Baby food or jam jars",
+        "Glass packaging",
+        "Perfume bottles",
+        "Medicine bottle",
+        "Broken glass of the above type"
+      ]
+    }
+  },
+  {
+    "objectId": "d0WFqC5s74",
+    "item_list": {
+      "items": [
+        "Hygieneartikel und -papiere (Binden, Windeln, Taschentücher)",
+        "Glühlampen (keine Energiesparlampen und LEDs)",
+        "Spiegel- und Fensterglas, Trinkgläser und Kristallgläser",
+        "kaputtes Geschirr, Porzellan und Keramik",
+        "Staubsaugerbeutel, Kehricht (Fegereste), Tierstreu",
+        "verschmutzte oder beschichtete Papiere, Folien, Fotos",
+        "Tapetenreste, eingetrocknete Farben",
+        "Asche und Aschenbecherinhalt",
+        "Schrauben, Dübel",
+        "Schlauch, Holzreste, Fahrradteile",
+        "Stark verschmutzte Pappe- und Papierverpackungen",
+        "Büroklammern, Druckerpatronen, leere Stifte oder das Klebeband"
+      ]
+    },
+    "language_code": "de",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "kmbcGDIYYi"
+    },
+    "createdAt": "2022-09-25T09:14:23.184Z",
+    "updatedAt": "2022-09-25T15:27:13.721Z"
+  },
+  {
+    "objectId": "XYQwkS9nKU",
+    "item_list": {
+      "items": [
+        "Hygiene articles and papers (sanitary pads, diapers, handkerchiefs)",
+        "Light bulbs (no energy-saving bulbs and LEDs)",
+        "Mirror and window glass, drinking glasses and crystal glasses",
+        "Broken tableware, porcelain and ceramics",
+        "Vacuum cleaner bag, sweepings (sweepings), animal litter",
+        "soiled or coated papers, foils, photos",
+        "Wallpaper remnants, dried paint",
+        "Ash and ashtray contents",
+        "Screws, dowels",
+        "Hose, wood scraps, bicycle parts",
+        "Heavily soiled cardboard and paper packaging",
+        "Paper clips, printer cartridges, empty pens, adhesive tape"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "kmbcGDIYYi"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T09:19:31.306Z",
+    "updatedAt": "2022-09-25T15:28:15.525Z"
+  },
+  {
+    "objectId": "YqsdFSJT2u",
+    "item_list": {
+      "items": [
+        "Sperrmüll, Elektroaltgeräte, Batterien sowie Schadstoffe",
+        "Kunststoffe, etwa Plastikbecher oder -flaschen, Metalle und Verbundstoffe",
+        "Gläser, Flaschen",
+        "Papier, Pappe",
+        "Obst- und Speisereste, Kaffeesatz",
+        "Batterien"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "UsGoKmmiZB"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T09:20:22.805Z",
+    "updatedAt": "2022-09-25T09:22:51.428Z"
+  },
+  {
+    "objectId": "IoG2yfpw1l",
+    "item_list": {
+      "items": [
+        "Bulky waste, electrical equipment, batteries and hazardous substances",
+        "Plastics, such as plastic cups or bottles, metals and composites",
+        "Glasses, bottles",
+        "Paper, cardboard",
+        "Fruit and food waste, coffee grounds",
+        "Batteries"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "UsGoKmmiZB"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T09:22:27.842Z",
+    "updatedAt": "2022-09-25T09:22:27.842Z"
+  },
+  {
+    "objectId": "0hzP1ASze0",
+    "item_list": {
+      "items": [
+        "Zeitungen, Zeitschriften, Magazine",
+        "Kataloge, Werbeprospekte, Flyer",
+        "Pappschachteln, Kartons, Eierkartons, Wellpappe",
+        "Papiertüten, Packpapier",
+        "Hefte, Bücher ohne Kunststoffeinband",
+        "Schreib-, Computer- und Briefpapier",
+        "Briefumschläge mit und ohne Sichtfenster"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "SZDlsbDQv4"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T10:37:04.256Z",
+    "updatedAt": "2022-09-25T10:38:48.203Z"
+  },
+  {
+    "objectId": "RKMUQKU4Th",
+    "item_list": {
+      "items": [
+        "Newspapers, journals, magazines",
+        "Catalogs, advertising leaflets, flyers",
+        "Cardboard boxes, cartons, egg cartons, corrugated cardboard",
+        "Paper bags, wrapping paper",
+        "Notebooks, books without plastic covers",
+        "Writing paper, computer paper and letter paper",
+        "Envelopes with and without window"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "SZDlsbDQv4"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T10:38:39.389Z",
+    "updatedAt": "2022-09-25T10:38:39.389Z"
+  },
+  {
+    "objectId": "1UdjOqlosj",
+    "item_list": {
+      "items": [
+        "nassfeste Papiere (To-Go-Becher)",
+        "beschichtete und imprägnierte Papiere (Backpapier, Kassenbons, z.T. Pizzakartons)",
+        "verschmutztes Papier (Kosmetik- und Taschentücher, Küchenpapier oder Papierservietten)",
+        "Getränkekartons",
+        "Fotos",
+        "Tapetenreste",
+        "Durchschreibpapier"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "REiF3OVDON"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T10:40:30.337Z",
+    "updatedAt": "2022-09-25T10:42:06.200Z"
+  },
+  {
+    "objectId": "yT370kW9Vn",
+    "item_list": {
+      "items": [
+        "Wet-strength papers (to-go cups)",
+        "Coated and impregnated papers (baking paper, receipts, some pizza boxes)",
+        "Soiled paper (cosmetic and handkerchiefs, kitchen paper or paper napkins)",
+        "Beverage cartons",
+        "Photos",
+        "Wallpaper scraps",
+        "Carbonless paper"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "REiF3OVDON"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T10:41:59.221Z",
+    "updatedAt": "2022-09-25T10:41:59.221Z"
+  },
+  {
+    "objectId": "prtjbr9rO3",
+    "item_list": {
+      "items": [
+        "Flaschen für Reinigungs- und Waschmittel",
+        "Behältnisse für Körperpflegemittel und Kosmetika",
+        "Jogurt-, Quark- und Margarinebecher",
+        "Kunststoffbeutel und -folien sowie Plastiktüten",
+        "Kunststoffschalen für Fleisch, Obst, Gemüse",
+        "Styroporverpackungen",
+        "Aluminiumschalen und Alufolie",
+        "Kronkorken",
+        "Metalldeckel und Aluminiumdeckel von Jogurtbechern",
+        "leere Metalltuben, leere Spraydosen ohne Gefahrstoffzeichen",
+        "Fertigsoßenkartons und Milchkartons",
+        "leere Arzneimittelblister",
+        "Eimer, Schüsseln, Kunststoffspielzeug, Töpfe, Besteck, Schrauben"
+      ]
+    },
+    "language_code": "de",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "bovAP2I3IW"
+    },
+    "createdAt": "2022-09-25T11:50:00.579Z",
+    "updatedAt": "2022-09-25T15:25:06.175Z"
+  },
+  {
+    "objectId": "zF192OB4By",
+    "item_list": {
+      "items": [
+        "bottles for cleaning agents",
+        "containers for personal care products and cosmetics",
+        "yogurt, cream cheese and margarine tubs",
+        "plastic bags and films, plastic bags",
+        "plastic trays (also styrofoam) for meat, fruit, vegetables",
+        "styrofoam packaging",
+        "aluminum trays and aluminum foil",
+        "crown caps",
+        "metal lids and aluminum lids of yogurt cups",
+        "empty metal tubes, empty aerosol cans without hazardous material labels",
+        "ready-made sauce cartons and milk cartons",
+        "empty medicine blisters",
+        "buckets, bowls, plastic toys, pots, cutlery, screws."
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "bovAP2I3IW"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T11:52:04.528Z",
+    "updatedAt": "2022-09-25T15:23:48.916Z"
+  },
+  {
+    "objectId": "x1xpCqXTNz",
+    "item_list": {
+      "items": [
+        "Altholz",
+        "Elektrogeräte",
+        "Videokassetten, Disketten oder CDs",
+        "Glühbirnen, Leuchtstoffröhren und Energiesparlampen",
+        "Batterien und Akkus",
+        "Textilien",
+        "Papier",
+        "Glas",
+        "Schadstoffe"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "JGKtSGB5LV"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T11:52:44.932Z",
+    "updatedAt": "2022-09-25T11:52:44.932Z"
+  },
+  {
+    "objectId": "RXGl6NodPc",
+    "item_list": {
+      "items": [
+        "Scrap wood",
+        "Electrical appliances",
+        "Video cassettes, floppy disks or CDs",
+        "Light bulbs, fluorescent tubes and energy saving lamps",
+        "Batteries and accumulators",
+        "Textiles",
+        "Paper",
+        "Glass",
+        "Harmful substances"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "JGKtSGB5LV"
+    },
+    "language_code": "en",
+    "createdAt": "2022-09-25T11:57:37.190Z",
+    "updatedAt": "2022-09-25T11:57:37.190Z"
+  },
+  {
+    "objectId": "ydKa3Tq2rr",
+    "item_list": {
+      "items": [
+        "Zerlegte große und kleine Möbel (Sperrmüll)",
+        "Teppiche, Matratzen (Sperrmüll)",
+        "Alte Fahrräder, Kinderwagen und Ähnliches (Sperrmüll)",
+        "Laminat, Türrahmen, Türblätter und Fensterrahmen aus Kunststoff ohne Glas (Sperrmüll)",
+        "Kunststoffteile wie Dachrinnen, Rohre, Spülkästen und Badewannen (Sperrmüll)",
+        "Elektrogeräte (Sperrmüll, Recyclinghof)",
+        "Alttextilien (in Säcken) (Sperrmüll)",
+        "Hausmüll wie z.B. Renovierungsabfälle in Säcken oder Kartons (in begrenztem Umfang) (Sperrmüll)",
+        "Farben, Lacke, Lösungsmittel (Schafstoffannahmestelle)",
+        "Haushalts- und Autobatterien (Schafstoffannahmestelle)",
+        "Laugen und Säuren (Schafstoffannahmestelle)",
+        "Spraydosen (Schafstoffannahmestelle)"
+      ]
+    },
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "rLWlpk6DkZ"
+    },
+    "language_code": "de",
+    "createdAt": "2022-09-25T15:11:07.688Z",
+    "updatedAt": "2022-09-25T15:11:07.688Z"
+  },
+  {
+    "objectId": "eaCpR3rfs6",
+    "item_list": {
+      "items": [
+        "Disassembled large and small furniture (bulky waste)",
+        "Carpets, mattresses (bulky waste)",
+        "Old bicycles, baby carriages (bulky waste)",
+        "Laminate, door frames, door leaves and window frames made of plastic without glass (bulky waste)",
+        "Plastic parts such as gutters, pipes, cisterns and bathtubs (bulky waste)",
+        "Electrical appliances (bulky waste, recycling yard)",
+        "old textiles (in bags) (bulky waste)",
+        "Household waste such as renovation waste in bags or boxes (in limited quantities) (bulky waste)",
+        "Paints, varnishes, solvents (sheep waste collection point)",
+        "Household and car batteries (sheep waste collection point)",
+        "Lyes and acids (sheep waste collection point)",
+        "Aerosol cans (sheep waste collection point)"
+      ]
+    },
+    "language_code": "en",
+    "category_content_id": {
+      "__type": "Pointer",
+      "className": "CategoryContent",
+      "objectId": "rLWlpk6DkZ"
+    },
+    "createdAt": "2022-09-25T15:12:03.258Z",
+    "updatedAt": "2022-09-25T15:12:03.258Z"
+  }
+]
+}

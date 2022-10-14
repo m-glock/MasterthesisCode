@@ -1,0 +1,126 @@
+{
+"results" : [
+
+  {
+    "objectId": "Etlh8A9F9F",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "does_belong": true,
+    "createdAt": "2022-09-24T17:47:47.911Z",
+    "updatedAt": "2022-09-24T17:47:47.911Z"
+  },
+  {
+    "objectId": "h7str9wROW",
+    "does_belong": false,
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "gjAQz06iEy"
+    },
+    "createdAt": "2022-09-24T17:48:24.888Z",
+    "updatedAt": "2022-09-24T17:53:39.575Z"
+  },
+  {
+    "objectId": "Wqel9r8a2K",
+    "does_belong": true,
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "createdAt": "2022-09-25T07:30:38.017Z",
+    "updatedAt": "2022-09-25T07:30:38.017Z"
+  },
+  {
+    "objectId": "SFoEPdPcAU",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "d1SHnrqu1F"
+    },
+    "does_belong": false,
+    "createdAt": "2022-09-25T07:42:20.623Z",
+    "updatedAt": "2022-09-25T07:42:20.623Z"
+  },
+  {
+    "objectId": "kmbcGDIYYi",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "does_belong": true,
+    "createdAt": "2022-09-25T09:13:47.392Z",
+    "updatedAt": "2022-09-25T09:13:47.392Z"
+  },
+  {
+    "objectId": "UsGoKmmiZB",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "IJ26sqG4kH"
+    },
+    "does_belong": false,
+    "createdAt": "2022-09-25T09:14:44.361Z",
+    "updatedAt": "2022-09-25T09:14:44.361Z"
+  },
+  {
+    "objectId": "SZDlsbDQv4",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "does_belong": true,
+    "createdAt": "2022-09-25T10:36:50.126Z",
+    "updatedAt": "2022-09-25T10:36:50.126Z"
+  },
+  {
+    "objectId": "REiF3OVDON",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "WYsiV8cQIW"
+    },
+    "does_belong": false,
+    "createdAt": "2022-09-25T10:36:55.639Z",
+    "updatedAt": "2022-09-25T10:36:55.639Z"
+  },
+  {
+    "objectId": "bovAP2I3IW",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "does_belong": true,
+    "createdAt": "2022-09-25T11:49:35.676Z",
+    "updatedAt": "2022-09-25T11:49:35.676Z"
+  },
+  {
+    "objectId": "JGKtSGB5LV",
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "GWiuEKUn2B"
+    },
+    "does_belong": false,
+    "createdAt": "2022-09-25T11:49:40.376Z",
+    "updatedAt": "2022-09-25T11:49:40.376Z"
+  },
+  {
+    "objectId": "rLWlpk6DkZ",
+    "does_belong": true,
+    "category_id": {
+      "__type": "Pointer",
+      "className": "Category",
+      "objectId": "sxmLVWMf11"
+    },
+    "createdAt": "2022-09-25T15:04:15.979Z",
+    "updatedAt": "2022-09-25T15:04:15.979Z"
+  }
+]
+}

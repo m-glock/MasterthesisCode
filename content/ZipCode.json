@@ -1,0 +1,3109 @@
+{
+"results" : [
+
+  {
+    "objectId": "NWHcdBqhFq",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10115",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5323,
+      "longitude": 13.3846
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "NvONbVTLWT",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10117",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.517,
+      "longitude": 13.3872
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "u2gukgMooe",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10119",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5305,
+      "longitude": 13.4053
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "4jTilGVudT",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10178",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5213,
+      "longitude": 13.4096
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "MDLfyzhZ9V",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10179",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5122,
+      "longitude": 13.4164
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "vECYSvgKy5",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10243",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5123,
+      "longitude": 13.4394
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "8QbDGnY4t5",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10245",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5007,
+      "longitude": 13.4647
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "AWUT5ebUaY",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10247",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5161,
+      "longitude": 13.4656
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "Od3pCjRjPj",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10249",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5238,
+      "longitude": 13.4428
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "h4OduV87iI",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10315",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5132,
+      "longitude": 13.5148
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "R9zW3VDbkw",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10317",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4979,
+      "longitude": 13.4908
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "wHDmrPqIvJ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10318",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4835,
+      "longitude": 13.5287
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "KZO3bEA16C",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10319",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4992,
+      "longitude": 13.5188
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "MLMMhduq1A",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10365",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5206,
+      "longitude": 13.4969
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "nWE08oT49x",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10367",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5246,
+      "longitude": 13.4821
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "Eyt6EBcruV",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10369",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5295,
+      "longitude": 13.4695
+    },
+    "createdAt": "2022-09-24T07:37:33.182Z",
+    "updatedAt": "2022-09-24T07:37:33.182Z"
+  },
+  {
+    "objectId": "UkT1AC98bI",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10405",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5352,
+      "longitude": 13.4257
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "nLbwkqIjWJ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10407",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5336,
+      "longitude": 13.4492
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "grTAymBJxz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10409",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5443,
+      "longitude": 13.4414
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "pxkkR5tmER",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10435",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5378,
+      "longitude": 13.4112
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "zvts6r6XGs",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10437",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5449,
+      "longitude": 13.4126
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "RXjVUSAZRA",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10439",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5522,
+      "longitude": 13.4121
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "rDy7UyzWQ7",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10551",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5307,
+      "longitude": 13.3372
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "XYaMHEa5PH",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10553",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5305,
+      "longitude": 13.3215
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "umEuCwA49m",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10555",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5215,
+      "longitude": 13.3355
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "DckZbuyRG0",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10557",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5233,
+      "longitude": 13.3594
+    },
+    "createdAt": "2022-09-24T07:37:33.183Z",
+    "updatedAt": "2022-09-24T07:37:33.183Z"
+  },
+  {
+    "objectId": "1lb9ANjn3P",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10559",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5301,
+      "longitude": 13.3499
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "33acS2bbf1",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10585",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5152,
+      "longitude": 13.3057
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "kZB25xffJk",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10587",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5184,
+      "longitude": 13.3195
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "PYbQqU65zT",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10589",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5276,
+      "longitude": 13.3057
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "Ds3fx3wPoA",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10623",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5088,
+      "longitude": 13.3274
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "lQMVlSMwlX",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10625",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5095,
+      "longitude": 13.3147
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "sDIT5UG1Pz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10627",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.508,
+      "longitude": 13.303
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "DpIB4ZAeif",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10629",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5028,
+      "longitude": 13.3086
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "38hTyCHTEa",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10707",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4967,
+      "longitude": 13.3138
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "gmwEfw5VOS",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10709",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4939,
+      "longitude": 13.3031
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "O50gBLUzDl",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10711",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4981,
+      "longitude": 13.2905
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "ngCQd62lIW",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10713",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4851,
+      "longitude": 13.3133
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "SIhERkvIrJ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10715",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4824,
+      "longitude": 13.3289
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "9zntTbHcpD",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10717",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4908,
+      "longitude": 13.3275
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "xBLyaUyy6f",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10719",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4988,
+      "longitude": 13.3257
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "XudMsCRxDE",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10777",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4975,
+      "longitude": 13.3427
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "49RBUZ07eM",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10779",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4921,
+      "longitude": 13.3395
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "LrjH9OqMcS",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10781",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4936,
+      "longitude": 13.3529
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "xyoeqivLAE",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10783",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4964,
+      "longitude": 13.3624
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "15dl7YA9ib",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10785",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5073,
+      "longitude": 13.3643
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "XCzAqpvTTV",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10787",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5078,
+      "longitude": 13.3439
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "SH0ulj3vOZ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10789",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5017,
+      "longitude": 13.3377
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "WUFo7thGIk",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10823",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4873,
+      "longitude": 13.3509
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "qgUNVHBwVW",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10825",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4838,
+      "longitude": 13.3413
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "bKkwUkVxTz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10827",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4838,
+      "longitude": 13.3543
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "bibaz7GeXD",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10829",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4761,
+      "longitude": 13.3607
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "omZgvgn9CV",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10961",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4926,
+      "longitude": 13.3975
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "1uxVB0Auyj",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10963",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5003,
+      "longitude": 13.3813
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "JvJQG1AW93",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10965",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4855,
+      "longitude": 13.3946
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "6MkDd9AnxS",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10967",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4905,
+      "longitude": 13.4164
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "Q6ibCM913G",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10969",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5025,
+      "longitude": 13.4012
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "rVuA9xgL0F",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10997",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5009,
+      "longitude": 13.4356
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "f8L416zT0O",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "10999",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4969,
+      "longitude": 13.4266
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "ZLKgSI9k9X",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "11011",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5179,
+      "longitude": 13.3759
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "CiZuaF2T3E",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12043",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4799,
+      "longitude": 13.4371
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "QXEQMq3vF0",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12045",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4855,
+      "longitude": 13.4392
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "W3ehQ1NQEE",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12047",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4905,
+      "longitude": 13.4285
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "F485Oq1tga",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12049",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4764,
+      "longitude": 13.422
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "wcewuyGTIJ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12053",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4768,
+      "longitude": 13.4325
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "MBWQDwK4od",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12055",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4712,
+      "longitude": 13.4486
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "Hrtbzgf3RM",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12057",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4684,
+      "longitude": 13.4633
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "rIjVhFoafL",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12099",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4644,
+      "longitude": 13.4023
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "IdclhjN9Yd",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12101",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4785,
+      "longitude": 13.3791
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "lEbxXF2JLC",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12051",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4669,
+      "longitude": 13.4298
+    },
+    "createdAt": "2022-09-24T07:37:33.184Z",
+    "updatedAt": "2022-09-24T07:37:33.184Z"
+  },
+  {
+    "objectId": "dYlUABUXZj",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12059",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4809,
+      "longitude": 13.4513
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "aVY62QKTOC",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12103",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4641,
+      "longitude": 13.3747
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "C0Cb6opkRm",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12105",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4492,
+      "longitude": 13.3714
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "Qes1kPrgeJ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12107",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4312,
+      "longitude": 13.3917
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "4FJr7RmxSa",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12109",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4465,
+      "longitude": 13.3993
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "WQUSeUVadC",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12157",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4653,
+      "longitude": 13.3462
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "bIeExH3TsC",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12159",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4737,
+      "longitude": 13.3369
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "DHhwizlHYp",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12161",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4704,
+      "longitude": 13.327
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "BB2GgCjzfb",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12163",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4626,
+      "longitude": 13.3185
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "LGNFvK85LD",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12165",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4557,
+      "longitude": 13.3148
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "emya4r1QU0",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12167",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4486,
+      "longitude": 13.3338
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "cey7P1BGJD",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12169",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4548,
+      "longitude": 13.3435
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "Z0HmhjTLKe",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12203",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4444,
+      "longitude": 13.3096
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "SbyyUkKOm1",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12205",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.434,
+      "longitude": 13.2945
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "7o9GJKB1yY",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12207",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4199,
+      "longitude": 13.3133
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "tZTthBF1Eo",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12209",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4179,
+      "longitude": 13.3291
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "D4yCYyxwWt",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12247",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4395,
+      "longitude": 13.3462
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "TFplxxmB0Y",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12249",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4264,
+      "longitude": 13.3518
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "7L6pXANlI0",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12277",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4134,
+      "longitude": 13.375
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "oaH9LHTQgX",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12279",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4106,
+      "longitude": 13.3531
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "ie8NkA5B2s",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12305",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4033,
+      "longitude": 13.4021
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "O9GKEoSC80",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12307",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.3886,
+      "longitude": 13.3907
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "FE2B6Z1VJi",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12309",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.3905,
+      "longitude": 13.4171
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "Z2bp8ztFbd",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12349",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4253,
+      "longitude": 13.4221
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "VmRIN68q14",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12351",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4328,
+      "longitude": 13.4555
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "gidYRF9cWq",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12353",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4227,
+      "longitude": 13.4589
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "F4HDOQbEca",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12357",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4293,
+      "longitude": 13.4905
+    },
+    "createdAt": "2022-09-24T07:37:33.186Z",
+    "updatedAt": "2022-09-24T07:37:33.186Z"
+  },
+  {
+    "objectId": "V2mzPPdE18",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12359",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4473,
+      "longitude": 13.4531
+    },
+    "createdAt": "2022-09-24T07:37:33.186Z",
+    "updatedAt": "2022-09-24T07:37:33.186Z"
+  },
+  {
+    "objectId": "PXdyMBewm3",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12435",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4866,
+      "longitude": 13.4672
+    },
+    "createdAt": "2022-09-24T07:37:33.186Z",
+    "updatedAt": "2022-09-24T07:37:33.186Z"
+  },
+  {
+    "objectId": "EzudotG54E",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12347",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4509,
+      "longitude": 13.4281
+    },
+    "createdAt": "2022-09-24T07:37:33.185Z",
+    "updatedAt": "2022-09-24T07:37:33.185Z"
+  },
+  {
+    "objectId": "CjDDixT5OH",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12355",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.411,
+      "longitude": 13.4978
+    },
+    "createdAt": "2022-09-24T07:37:33.186Z",
+    "updatedAt": "2022-09-24T07:37:33.186Z"
+  },
+  {
+    "objectId": "GoHVaLGYFi",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12437",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4624,
+      "longitude": 13.4817
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "92NF9mHaN7",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12459",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4656,
+      "longitude": 13.528
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "4afDhD1pVo",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12487",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4437,
+      "longitude": 13.5052
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "PiXESZta6p",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12489",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4356,
+      "longitude": 13.5432
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "sDcwsieMCz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12439",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4528,
+      "longitude": 13.5286
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "jX3WETF20Y",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12526",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.3976,
+      "longitude": 13.5642
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "pjvd1vQYPx",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12527",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.3856,
+      "longitude": 13.6339
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "ImQlDgof6B",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12529",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5167,
+      "longitude": 13.4
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "K8g1EOaxT8",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12524",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4128,
+      "longitude": 13.5417
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "2PUFs0kAP0",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12555",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4627,
+      "longitude": 13.5791
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "Td6n1K8s0E",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12557",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4303,
+      "longitude": 13.592
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "EndVSjtH4I",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12559",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4149,
+      "longitude": 13.6634
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "BGbhT1pQ7D",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12587",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4586,
+      "longitude": 13.6362
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "zHnYfuRARV",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12589",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4438,
+      "longitude": 13.7034
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "pDe7FympDt",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12619",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5235,
+      "longitude": 13.5883
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "FN7r7uVA19",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12621",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5027,
+      "longitude": 13.5878
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "brzvefM0MX",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12623",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5026,
+      "longitude": 13.6165
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "ckjnzW8eym",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12627",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5372,
+      "longitude": 13.6135
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "pOcEGBojq7",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12629",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5413,
+      "longitude": 13.5901
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "KTC4WgDKqV",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12679",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5501,
+      "longitude": 13.566
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "n8Hv15kMKb",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12681",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5369,
+      "longitude": 13.5367
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "Qm8OOCuQJi",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12683",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5075,
+      "longitude": 13.5591
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "MnusaXH747",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12685",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5391,
+      "longitude": 13.565
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "udQtgThPGz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12687",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5564,
+      "longitude": 13.5645
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "MY6kWG03n2",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "12689",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5665,
+      "longitude": 13.5675
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "q2FHQygA9N",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13047",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5667,
+      "longitude": 13.3333
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "EGwErAbkmF",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13051",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5815,
+      "longitude": 13.4908
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "uxK5gZ0eu6",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13053",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.55,
+      "longitude": 13.5046
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "tEcjvl5oSn",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13055",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5401,
+      "longitude": 13.496
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "FeiSwm1N7B",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13057",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5711,
+      "longitude": 13.5415
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "psSnw8v1Z9",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13059",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5809,
+      "longitude": 13.5217
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "So8kZQxpWz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13086",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5565,
+      "longitude": 13.4482
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "oBQuuDRGjp",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13088",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5603,
+      "longitude": 13.4708
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "Pie9qmqpvS",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13089",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5707,
+      "longitude": 13.441
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "uDMkONxDFp",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13125",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.6329,
+      "longitude": 13.4829
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "WZ9jpVXYPg",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13127",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.62,
+      "longitude": 13.438
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "BDBP8GEaj9",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13129",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5921,
+      "longitude": 13.4579
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "6eX8hlA3Gz",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13156",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5824,
+      "longitude": 13.3997
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "UqGjrt0cHI",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13158",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5932,
+      "longitude": 13.3835
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "XZsInSjp3K",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13159",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.623,
+      "longitude": 13.3978
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "dl9i8WKXN1",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13187",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5695,
+      "longitude": 13.4084
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "yg9YAnlsfp",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13189",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5643,
+      "longitude": 13.4219
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "bU4AjRndy9",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13347",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5491,
+      "longitude": 13.3655
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "j83gAGNKKR",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13349",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.558,
+      "longitude": 13.3473
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "2zupkZ2YIf",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13351",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5507,
+      "longitude": 13.3328
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "cV3qIXvVTV",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13353",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5416,
+      "longitude": 13.3495
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "K0zvMOoV1m",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13355",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5416,
+      "longitude": 13.3904
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "mFScioSyPq",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13357",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5502,
+      "longitude": 13.3828
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "GMP5I5BpxY",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13359",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5599,
+      "longitude": 13.3851
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "GrhdnyHADX",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13403",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5739,
+      "longitude": 13.3224
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "3NZAymhDr9",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13405",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5596,
+      "longitude": 13.2967
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "mFGWPXHa3O",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13407",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5727,
+      "longitude": 13.3512
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "8bgvH87bKb",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13409",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5679,
+      "longitude": 13.3714
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "qfbUmJMGcX",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13435",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.602,
+      "longitude": 13.3456
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "pqddpOYynM",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13437",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5905,
+      "longitude": 13.3284
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "ViqUflvzfa",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13439",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5976,
+      "longitude": 13.3584
+    },
+    "createdAt": "2022-09-24T07:37:33.260Z",
+    "updatedAt": "2022-09-24T07:37:33.260Z"
+  },
+  {
+    "objectId": "ZkMBcZqfJa",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13465",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.6399,
+      "longitude": 13.2896
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "E7F2TGSfPm",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13467",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.6171,
+      "longitude": 13.3075
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "sEF3DEX2E2",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13469",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.6119,
+      "longitude": 13.3422
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "xfwHYR2EBQ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13503",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.6122,
+      "longitude": 13.2488
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "jt4HxaR4kN",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13505",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5839,
+      "longitude": 13.2404
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "10PGHgBR6a",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13507",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5765,
+      "longitude": 13.2717
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "VQd9nKEq0M",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13509",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5892,
+      "longitude": 13.3006
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "qhsI2hjSN3",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13581",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.531,
+      "longitude": 13.1794
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "oBetmJd2b2",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13583",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5437,
+      "longitude": 13.1824
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "OSzXipNPGQ",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13585",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5477,
+      "longitude": 13.2049
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "OjgXw32YkM",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13587",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5767,
+      "longitude": 13.1854
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "7FE1rkcwtA",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13589",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.557,
+      "longitude": 13.1676
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "avu4VOqq6f",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13591",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5345,
+      "longitude": 13.1405
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "mYb8zVARGy",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13593",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5148,
+      "longitude": 13.1672
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "kRspJvI33B",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13595",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5116,
+      "longitude": 13.1962
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "uleXqONnfX",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13597",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5272,
+      "longitude": 13.2195
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "VEFAXBLMdk",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13599",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5463,
+      "longitude": 13.235
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "YmCTLzNXDG",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13627",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5398,
+      "longitude": 13.2991
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "D1htaOJzxW",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "13629",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5422,
+      "longitude": 13.2661
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "P8BqcBuAgN",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14050",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5208,
+      "longitude": 13.2683
+    },
+    "createdAt": "2022-09-24T07:37:33.261Z",
+    "updatedAt": "2022-09-24T07:37:33.261Z"
+  },
+  {
+    "objectId": "JdRQ5IoGuE",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14052",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5156,
+      "longitude": 13.2569
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "bjg7K88jbF",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14053",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5159,
+      "longitude": 13.2387
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "QEVrORqEGt",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14055",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.502,
+      "longitude": 13.2447
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "wHnrCBlbwe",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14057",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5073,
+      "longitude": 13.2879
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "WYJhIiKFsC",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14059",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.5205,
+      "longitude": 13.2878
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "LuzKxHFppM",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14089",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4708,
+      "longitude": 13.1516
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "hDXHavtlAW",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14109",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4197,
+      "longitude": 13.144
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "ktu8fYxLn5",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14129",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4463,
+      "longitude": 13.2026
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "ObfigLPCo8",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14131",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.517,
+      "longitude": 13.4
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "0y15PjfQL2",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14163",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4368,
+      "longitude": 13.2385
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "Rkk0uG3WR6",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14165",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4175,
+      "longitude": 13.2536
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "EcGCBEQOgS",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14167",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4212,
+      "longitude": 13.2765
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "bAVxuoM5gv",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14169",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4496,
+      "longitude": 13.2573
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "ShhxVpREFB",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14193",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4831,
+      "longitude": 13.2365
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "Bmi3nwCDzU",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14195",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4589,
+      "longitude": 13.2829
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "RSGsSpGHtk",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14197",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4734,
+      "longitude": 13.3118
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  },
+  {
+    "objectId": "wYZGFMxXBU",
+    "municipality_id": {
+      "__type": "Pointer",
+      "className": "Municipality",
+      "objectId": "PMJEteBu4m"
+    },
+    "zip_code": "14199",
+    "lat_lng": {
+      "__type": "GeoPoint",
+      "latitude": 52.4777,
+      "longitude": 13.2951
+    },
+    "createdAt": "2022-09-24T07:37:33.262Z",
+    "updatedAt": "2022-09-24T07:37:33.262Z"
+  }
+]
+}

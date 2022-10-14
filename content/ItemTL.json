@@ -1,0 +1,5800 @@
+{
+"results" : [
+
+  {
+    "objectId": "pen2SZHxQK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uAhNK7oMWB"
+    },
+    "language_code": "de",
+    "title": "Asbest",
+    "synonyms": "Asbesthandschuhe, Asbestpappen, Asbestschnüre, Asbeststäube, Spritzasbest",
+    "createdAt": "2022-09-26T10:48:17.236Z",
+    "updatedAt": "2022-09-26T10:48:17.236Z"
+  },
+  {
+    "objectId": "5zdmmPkWG1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "swsBD74npW"
+    },
+    "language_code": "de",
+    "title": "Fahrzeugteile",
+    "synonyms": "Auto, Autoteile, Motorrad",
+    "createdAt": "2022-09-26T10:48:17.236Z",
+    "updatedAt": "2022-09-26T10:48:17.236Z"
+  },
+  {
+    "objectId": "xwD6QNQriM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oY0DnPuMsS"
+    },
+    "language_code": "de",
+    "title": "Gasflasche",
+    "synonyms": "Butangasflasche, Druckgasflasche, Propangasflaschen",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "9dK3AIIPPU",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "iCjsE12jHX"
+    },
+    "language_code": "de",
+    "title": "Feuerschutzmaterialien",
+    "synonyms": "Feuerschutztüren",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "XjBF31z2K3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "feZpLFQf1L"
+    },
+    "language_code": "de",
+    "title": "Feuerwerkskörper",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "2zS5sltf2B",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "fAPvESzCuE"
+    },
+    "language_code": "de",
+    "title": "Fußboden-Flexplatte mit Asbest",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "0JkWpnKdC4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ZELX1A8zs7"
+    },
+    "language_code": "de",
+    "title": "infektiöse Abfälle",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "zD3kGlclKl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "V3c4xnBUtJ"
+    },
+    "language_code": "de",
+    "title": "Waffen",
+    "synonyms": "Munition, Patronenhülsen",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "KbpMJ0guU0",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QHNMu7lQ1s"
+    },
+    "language_code": "de",
+    "title": "radioaktive Stoffe",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "10zhDrWmOD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "KtsiDwB2U6"
+    },
+    "language_code": "de",
+    "title": "Signalrakete",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "Z9Ao7NXhKa",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HHo0IUKIHt"
+    },
+    "language_code": "de",
+    "title": "Sprengstoffe",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "zyFaMIDjG2",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ArilESZC4R"
+    },
+    "language_code": "de",
+    "title": "Tierkadaver",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "bYSg8l2OjS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uAhNK7oMWB"
+    },
+    "language_code": "en",
+    "title": "Asbestos",
+    "synonyms": "Asbestos gloves, Asbestos boards, Asbestos cords, Asbestos dusts, Spray asbestos",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "1LE9DlwDF8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "swsBD74npW"
+    },
+    "language_code": "en",
+    "title": "Vehicle parts",
+    "synonyms": "Car, Car parts, Motorcycle",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "rlsyEh2Sqz",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oY0DnPuMsS"
+    },
+    "language_code": "en",
+    "title": "Gas cylinder",
+    "synonyms": "Butane gas cylinder, Compressed gas cylinder, Propane gas cylinders",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "ckCjtvKNL3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "iCjsE12jHX"
+    },
+    "language_code": "en",
+    "title": "Fire protection materials",
+    "synonyms": "Fire protection doors",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "ZkVligUi4i",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "feZpLFQf1L"
+    },
+    "language_code": "en",
+    "title": "Fireworks",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "9qplhB4Zjz",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "fAPvESzCuE"
+    },
+    "language_code": "en",
+    "title": "Floor plywood with asbestos",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "B6zHRBqTbS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ZELX1A8zs7"
+    },
+    "language_code": "en",
+    "title": "infectious waste",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "7QornHRtux",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "V3c4xnBUtJ"
+    },
+    "language_code": "en",
+    "title": "Weapons",
+    "synonyms": "Ammunition, bullet casings",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "2nPTOf8BKh",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QHNMu7lQ1s"
+    },
+    "language_code": "en",
+    "title": "Radioactive material",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "5V8rOCWiDD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "KtsiDwB2U6"
+    },
+    "language_code": "en",
+    "title": "Signal rocket",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "uluExVLQdd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HHo0IUKIHt"
+    },
+    "language_code": "en",
+    "title": "Explosives",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "JXYhz0paLN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ArilESZC4R"
+    },
+    "language_code": "en",
+    "title": "Animal carcasses",
+    "createdAt": "2022-09-26T10:48:17.237Z",
+    "updatedAt": "2022-09-26T10:48:17.237Z"
+  },
+  {
+    "objectId": "AfzZNL20a5",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kpix8hPDZ0"
+    },
+    "language_code": "de",
+    "title": "Akten",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "XIUQCj0OoD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "f8WsWJAYJT"
+    },
+    "language_code": "de",
+    "title": "Papier",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "G0oZ02qozN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "aCtw7ysVPa"
+    },
+    "language_code": "de",
+    "title": "Brief",
+    "synonyms": "Briefpapier, Schreibpapier, Briefumschlag, Briefumschlag mit Sichtfenster",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "YYnQxXcfAb",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "KLioxQhO2H"
+    },
+    "language_code": "de",
+    "title": "Notizzettel",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "36SijVrbVG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "6F8aJP7Ajm"
+    },
+    "language_code": "de",
+    "title": "Computerpapier",
+    "synonyms": "Faxpapier",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "9wD1VntTyn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "35FTrkGe7D"
+    },
+    "language_code": "de",
+    "title": "Geschenkpapier",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "s2LfyrNqHP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uYApwNbyen"
+    },
+    "language_code": "de",
+    "title": "Papiertüte",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "PsbLJTePz6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "2LupUDNlpy"
+    },
+    "language_code": "de",
+    "title": "Postkarte",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "tIooTEKkxT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "nRFFZzDV5Z"
+    },
+    "language_code": "de",
+    "title": "Spielkarten",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "mJueEUA2Jb",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "wS1EZj4xKX"
+    },
+    "language_code": "de",
+    "title": "Buch",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "CJCJ6nhGjM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "dNxpDgzwY0"
+    },
+    "language_code": "de",
+    "title": "Telefonbuch",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "b31pbcnmY7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YYRe1zB9Wu"
+    },
+    "language_code": "de",
+    "title": "Zeitungen",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "mGJ50kD7X7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "39ZwV9JHGd"
+    },
+    "language_code": "de",
+    "title": "Eierkartons",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "d9lFtnGTFV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "f8WsWJAYJT"
+    },
+    "language_code": "en",
+    "title": "Paper",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "5jsGZnwYnE",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "aCtw7ysVPa"
+    },
+    "language_code": "en",
+    "title": "Letter",
+    "synonyms": "Letterhead, Writing paper, Envelope, Envelope with window",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "1eKuwQqBCy",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "KLioxQhO2H"
+    },
+    "language_code": "en",
+    "title": "Notepad",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "3bCRdu0Sej",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "O4SE2IqoPK"
+    },
+    "language_code": "de",
+    "title": "Pizzakartons",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "du9wfZQhk7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "6F8aJP7Ajm"
+    },
+    "language_code": "en",
+    "title": "Computer paper",
+    "synonyms": "Fax paper",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "h7UPr7C2V8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kpix8hPDZ0"
+    },
+    "language_code": "en",
+    "title": "Files",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "FfPz0oB8Wv",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uYApwNbyen"
+    },
+    "language_code": "en",
+    "title": "Paper bag",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "ufLHbG6Haw",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "2LupUDNlpy"
+    },
+    "language_code": "en",
+    "title": "Post card",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "0WHmVAMbYn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "wS1EZj4xKX"
+    },
+    "language_code": "en",
+    "title": "Book",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "S5rvZAhimD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "nRFFZzDV5Z"
+    },
+    "language_code": "en",
+    "title": "Playing cards",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "ROTUyVYfo9",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "35FTrkGe7D"
+    },
+    "language_code": "en",
+    "title": "Wrapping paper",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "i6Zj0mMaJi",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "dNxpDgzwY0"
+    },
+    "language_code": "en",
+    "title": "Telephone book",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "OA3CP0AnNZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YYRe1zB9Wu"
+    },
+    "language_code": "en",
+    "title": "Newspaper",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T11:44:53.285Z"
+  },
+  {
+    "objectId": "LdbJoBPX5w",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "O4SE2IqoPK"
+    },
+    "language_code": "en",
+    "title": "Pizza box",
+    "createdAt": "2022-09-26T11:44:53.286Z",
+    "updatedAt": "2022-09-26T11:44:53.286Z"
+  },
+  {
+    "objectId": "IaLX3NVwu4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "39ZwV9JHGd"
+    },
+    "language_code": "en",
+    "title": "Egg carton",
+    "createdAt": "2022-09-26T11:44:53.286Z",
+    "updatedAt": "2022-09-26T11:44:53.286Z"
+  },
+  {
+    "objectId": "AJCIEDOZSt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Qfq0YoCKS7"
+    },
+    "language_code": "de",
+    "title": "Heft",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T16:01:30.062Z",
+    "synonyms": "Schulheft"
+  },
+  {
+    "objectId": "ds6MHKM7uN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Mz05Ey68WD"
+    },
+    "language_code": "de",
+    "title": "Katalog",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T16:01:14.342Z",
+    "synonyms": "Prospekt"
+  },
+  {
+    "objectId": "UwTLn8jK6F",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DeIemjVy4v"
+    },
+    "language_code": "de",
+    "title": "Zeitschrift",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T11:44:53.284Z"
+  },
+  {
+    "objectId": "YRHqHDYdPS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EcDjJdnCuK"
+    },
+    "language_code": "de",
+    "title": "Karton",
+    "createdAt": "2022-09-26T11:44:53.284Z",
+    "updatedAt": "2022-09-26T16:01:17.895Z",
+    "synonyms": "Kartonage, Pappe, Pappschachteln, Wellpappe"
+  },
+  {
+    "objectId": "Ol9h0eL0Br",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Qfq0YoCKS7"
+    },
+    "language_code": "en",
+    "title": "Booklet",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T16:01:09.798Z",
+    "synonyms": "Exercise book"
+  },
+  {
+    "objectId": "Znk7AIcirU",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Mz05Ey68WD"
+    },
+    "language_code": "en",
+    "title": "Catalog",
+    "createdAt": "2022-09-26T11:44:53.285Z",
+    "updatedAt": "2022-09-26T16:01:04.490Z",
+    "synonyms": "Leaflet, Brochure"
+  },
+  {
+    "objectId": "2BnBXNGQ0D",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DeIemjVy4v"
+    },
+    "language_code": "en",
+    "title": "Magazine",
+    "createdAt": "2022-09-26T11:44:53.286Z",
+    "updatedAt": "2022-09-26T16:01:01.190Z",
+    "synonyms": "Illustrated"
+  },
+  {
+    "objectId": "UBpDuFyl8k",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EcDjJdnCuK"
+    },
+    "language_code": "en",
+    "title": "Cardboard",
+    "createdAt": "2022-09-26T11:44:53.286Z",
+    "updatedAt": "2022-09-26T16:00:57.043Z",
+    "synonyms": "Cardboard box, Cardboard packaging, Corrugated cardboard"
+  },
+  {
+    "objectId": "P6xZJEKrX6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "0qtZpHnQvR"
+    },
+    "language_code": "de",
+    "title": "Babynahrungsgläser",
+    "createdAt": "2022-09-26T12:53:01.107Z",
+    "updatedAt": "2022-09-26T12:53:01.107Z"
+  },
+  {
+    "objectId": "3OMXEdlMc9",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Tafi4hbtyQ"
+    },
+    "language_code": "de",
+    "title": "Konservenglas",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T12:53:01.108Z"
+  },
+  {
+    "objectId": "r2pVSFlPKt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TfN9qNznaH"
+    },
+    "language_code": "de",
+    "title": "Senfglas",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T12:53:01.108Z"
+  },
+  {
+    "objectId": "WBQiM7fFGB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Tafi4hbtyQ"
+    },
+    "language_code": "en",
+    "title": "Canning jar",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T12:53:01.108Z"
+  },
+  {
+    "objectId": "KnJrnEK5dG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TfN9qNznaH"
+    },
+    "language_code": "en",
+    "title": "Mustard jar",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T12:53:01.108Z"
+  },
+  {
+    "objectId": "jE7rY7JZGb",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "0qtZpHnQvR"
+    },
+    "language_code": "en",
+    "title": "Baby food jars",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T12:53:01.108Z"
+  },
+  {
+    "objectId": "dmKdqn4hms",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8vVbmLaO4U"
+    },
+    "language_code": "de",
+    "title": "Glasflasche",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T16:01:56.403Z",
+    "synonyms": "Ölflasche"
+  },
+  {
+    "objectId": "bbii0u2OCk",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LGUMyy3AhJ"
+    },
+    "language_code": "en",
+    "title": "Glass",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T16:02:00.219Z",
+    "synonyms": "Container glass"
+  },
+  {
+    "objectId": "flIxFBxDD3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LGUMyy3AhJ"
+    },
+    "language_code": "de",
+    "title": "Glas",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T16:01:53.651Z",
+    "synonyms": "Behälterglas"
+  },
+  {
+    "objectId": "UGLxGHEfv0",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8vVbmLaO4U"
+    },
+    "language_code": "en",
+    "title": "Glass bottle",
+    "createdAt": "2022-09-26T12:53:01.108Z",
+    "updatedAt": "2022-09-26T16:02:06.707Z",
+    "synonyms": "Oil bottle (glass)"
+  },
+  {
+    "objectId": "MZI42ogtQH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "0xlB2dS5Oi"
+    },
+    "language_code": "de",
+    "title": "Abdeckfolie",
+    "explanation": "Abdeckfolie besteht aus einem Kunststoff, welcher nicht Teil des Recyclingprozesses ist und somit nicht wie andere Kunststoffe wiederverwendet werden kann. Daher gehört dieser Gegenstand in den Restmüll",
+    "createdAt": "2022-09-26T16:31:35.280Z",
+    "updatedAt": "2022-09-26T16:31:35.280Z"
+  },
+  {
+    "objectId": "7pNOO1Zn3l",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "2zJxqaVUpw"
+    },
+    "language_code": "de",
+    "title": "Aktenordner",
+    "createdAt": "2022-09-26T16:31:35.280Z",
+    "updatedAt": "2022-09-26T16:31:35.280Z"
+  },
+  {
+    "objectId": "4PFr4W07tV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "4lfXYH4PRj"
+    },
+    "language_code": "de",
+    "title": "Asche",
+    "synonyms": "Grillasche",
+    "createdAt": "2022-09-26T16:31:35.280Z",
+    "updatedAt": "2022-09-26T16:31:35.280Z"
+  },
+  {
+    "objectId": "INsSVnvHoF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DcR2kFMzfv"
+    },
+    "language_code": "de",
+    "title": "Backpapier",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "QzUrGqso9K",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YUli6Tt7DK"
+    },
+    "language_code": "de",
+    "title": "Brillen",
+    "synonyms": "Sonnenbrillen",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "bCwH33hen3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "S9oDR6vHSJ"
+    },
+    "language_code": "de",
+    "title": "Ball (leder)",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "ceByBweozd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "bTu4i56d6P"
+    },
+    "language_code": "de",
+    "title": "Fahrradreifen",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "J2bOKuGB43",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Ws6BMdtHDC"
+    },
+    "language_code": "de",
+    "title": "Stifte",
+    "synonyms": "Bleistifte, Buntstifte, Wachsstifte",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "9xUCKkyryK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "eqdIJe3WLs"
+    },
+    "language_code": "de",
+    "title": "Filterpatronen für Wasserfilter",
+    "synonyms": "Kartuschen für Wasserfilter",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "AwpBldxXtm",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "aeqzIc7FmY"
+    },
+    "language_code": "de",
+    "title": "Durchschreibpapier",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "KhLCFJtnYn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gAbNSzB6lc"
+    },
+    "language_code": "de",
+    "title": "Frittieröle",
+    "synonyms": "Speiseöl",
+    "createdAt": "2022-09-26T16:31:35.281Z",
+    "updatedAt": "2022-09-26T16:31:35.281Z"
+  },
+  {
+    "objectId": "5JgtCvzBXF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kRCwgb65Dp"
+    },
+    "language_code": "de",
+    "title": "Glühlampen",
+    "synonyms": "Halogenlampen",
+    "explanation": "Anders als Energiesparlampen und LED enthalten normale Glühlampen keine gefährlichen Stoffe und können daher im Restmüll entsorgt werden.",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "QBab2uAjHl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "lY8YZW8mKR"
+    },
+    "language_code": "de",
+    "title": "Gummi",
+    "synonyms": "Gummihandschuhe",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "S4LDxuyFHV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "nXBYOe7D3o"
+    },
+    "language_code": "de",
+    "title": "Verbandsmaterial",
+    "synonyms": "Heftpflaster",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "IFOP1ETSoR",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "scNpiBYvEh"
+    },
+    "language_code": "de",
+    "title": "Kaffeekapsel",
+    "synonyms": "Kaffeekapsel aus Bioplastik",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "JG9zFcMnbA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uNeSK9F011"
+    },
+    "language_code": "de",
+    "title": "beschichteter Kassenbon",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "93yY3JCxtW",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vPUd0DobNT"
+    },
+    "language_code": "de",
+    "title": "Kaugummi",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "qqWzOtjjB0",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "usqIJohLjW"
+    },
+    "language_code": "de",
+    "title": "Kleintierstreu",
+    "synonyms": "Katzenstreu, Tierstreu",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "m9GDDtlc7N",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vQgBH2aLSh"
+    },
+    "language_code": "de",
+    "title": "Kerzen",
+    "synonyms": "Kerzenreste, Wachs",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "4E71z8wGBg",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BNE4IQ954L"
+    },
+    "language_code": "de",
+    "title": "Koffer, klein",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "3IsMeSE0Xu",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YC6CFzHBBc"
+    },
+    "language_code": "de",
+    "title": "Lampenschirme",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "CI02lXy10T",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TfNdHK9lCK"
+    },
+    "language_code": "de",
+    "title": "Kondome",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "CiCDVjsUuo",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "iAvAQfvaGF"
+    },
+    "language_code": "de",
+    "title": "Luftballons",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "SKByrO3Y8i",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "n1VWJ1IkEI"
+    },
+    "language_code": "de",
+    "title": "Luftfilter",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "WHTFd6Rt4p",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "trRWwongh7"
+    },
+    "language_code": "de",
+    "title": "Papierhandtücher",
+    "synonyms": "Papiertaschentücher, Servietten",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "LLohREcJq7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "2OqjtJY6km"
+    },
+    "language_code": "de",
+    "title": "Pinsel",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "5RpiQo4EXs",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "renbwwCs5B"
+    },
+    "language_code": "de",
+    "title": "Messer",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "mVdqLs1vVn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "4U7U4QNe7O"
+    },
+    "language_code": "de",
+    "title": "Renovierungsabfall",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "KQVRuGOJOl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kysZvLt1q9"
+    },
+    "language_code": "de",
+    "title": "Thermopapier",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "DeIKSZ2shX",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "AL4OXeaYWE"
+    },
+    "language_code": "de",
+    "title": "Trinkhalm",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "zSSWvkeVWy",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "B0YrpcoUVd"
+    },
+    "language_code": "de",
+    "title": "Vase",
+    "synonyms": "Blumenvase",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "2MOnfXpEVP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "7T93A5J8Ip"
+    },
+    "language_code": "de",
+    "title": "Tapeten",
+    "synonyms": "Tapetenreste",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "K2sYCgkAaH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "C37heDDR2D"
+    },
+    "language_code": "de",
+    "title": "Zigaretten",
+    "synonyms": "Zigarettenkippen, Zigarettenstummel",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "UJWX1S2ZPq",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EKQpsnHCBF"
+    },
+    "language_code": "de",
+    "title": "Sägespäne",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "RC3WzOYuyP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FxXWLVGDOp"
+    },
+    "language_code": "de",
+    "title": "Sicherungen",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "xGvLv3CF3C",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "F1mF20UMIV"
+    },
+    "language_code": "de",
+    "title": "Schleifpapier",
+    "synonyms": "Schleifscheiben",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "U3oxGcIywY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "J9IRHdm7mH"
+    },
+    "language_code": "de",
+    "title": "Spritzen",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "MxvDtDYUQC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "MxpBU45xUZ"
+    },
+    "language_code": "de",
+    "title": "Staubsaugerbeutel",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "OWY6qOTXCq",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QRVFF40GcW"
+    },
+    "language_code": "de",
+    "title": "Fotos",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "OXD397H4iA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "UsRDsvUN50"
+    },
+    "language_code": "de",
+    "title": "Blumentopf (Ton)",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "yXS8mUE2ri",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "XVQzfDQS0Q"
+    },
+    "language_code": "de",
+    "title": "Holzspielzeug",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "6FkNIJuyZF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ZZm8VRpwBK"
+    },
+    "language_code": "de",
+    "title": "Bilderrahmen, klein (Holz)",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "smGsTUxcXu",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "20ALSepyLI"
+    },
+    "language_code": "de",
+    "title": "Verpackungen, verschmutzt",
+    "createdAt": "2022-09-26T16:31:35.282Z",
+    "updatedAt": "2022-09-26T16:31:35.282Z"
+  },
+  {
+    "objectId": "hEWTk9EdPl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "XkTBgUXoR2"
+    },
+    "language_code": "de",
+    "title": "Versandtaschen, gefüttert",
+    "createdAt": "2022-09-26T16:31:35.283Z",
+    "updatedAt": "2022-09-26T16:31:35.283Z"
+  },
+  {
+    "objectId": "EnN9oAFI8r",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8eB223RYuL"
+    },
+    "language_code": "de",
+    "title": "Klebeband",
+    "createdAt": "2022-09-26T16:31:35.283Z",
+    "updatedAt": "2022-09-26T16:31:35.283Z"
+  },
+  {
+    "objectId": "eS7VFO6GFn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "RQHW00LXEx"
+    },
+    "language_code": "de",
+    "title": "Parkettschleifstaub",
+    "createdAt": "2022-09-26T16:31:35.283Z",
+    "updatedAt": "2022-09-26T16:31:35.283Z"
+  },
+  {
+    "objectId": "yOJyy88giD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "0tl1fduoYT"
+    },
+    "language_code": "de",
+    "title": "Hygienepapier",
+    "synonyms": "Kosmetiktuch",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "6656YOvWmp",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BFcB04024R"
+    },
+    "language_code": "de",
+    "title": "Rasierer (manuell)",
+    "synonyms": "Rasierklinge",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "Rh58IXqpqD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "R2OD8vdXqI"
+    },
+    "language_code": "de",
+    "title": "Einweghandschuhe",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "6QBG0t1AwM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "SrG1GVHHEo"
+    },
+    "language_code": "de",
+    "title": "Wattestäbchen",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "tDipfZMDcF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "IS0KwlyEPb"
+    },
+    "language_code": "de",
+    "title": "Damenhygieneartikel",
+    "synonyms": "Tampons, Binden, Damenbinden, Slipeinlagen",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "3EEPGsZNz6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "s48o39YHoM"
+    },
+    "language_code": "de",
+    "title": "Dia",
+    "synonyms": "Dias, Diabilder",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "3q0SPlZC0K",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "NEIfoWGxTi"
+    },
+    "language_code": "de",
+    "title": "Diskette",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "WIHOYLhkmI",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LYcc7XHcnv"
+    },
+    "language_code": "de",
+    "title": "Film",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "gpd7kYGMVO",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "UMZV4l7rRi"
+    },
+    "language_code": "de",
+    "title": "Windeln (Einweg)",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "qkAZyJ0eFF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "CZiIFl205y"
+    },
+    "language_code": "de",
+    "title": "Kassette",
+    "synonyms": "Videokassette, Audiokasette",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "W8e3sg2loY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "4REvr9n3XW"
+    },
+    "language_code": "de",
+    "title": "Schallplatte",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "7ZYOODZ2B8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "07XnaGGhnf"
+    },
+    "language_code": "de",
+    "title": "Tonband",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "4gP1jA5Qgs",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "11WfZCVJfN"
+    },
+    "language_code": "de",
+    "title": "Daunendecken",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "WQ1rWmsZ8E",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BxeEF0Nt3k"
+    },
+    "language_code": "de",
+    "title": "Stofftier",
+    "createdAt": "2022-09-26T16:31:35.284Z",
+    "updatedAt": "2022-09-26T16:31:35.284Z"
+  },
+  {
+    "objectId": "sBAFlvgp8c",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Qv43WUHVAH"
+    },
+    "language_code": "de",
+    "title": "Maske",
+    "synonyms": "FFP2-Maske, Mund-Nasen-Maske, OP-Masken",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "Yk8xrffieF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "bodCcoMm3Q"
+    },
+    "language_code": "de",
+    "title": "Handtasche",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "t8KGNYspkH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "z07VaCL1vd"
+    },
+    "language_code": "de",
+    "title": "Rucksack",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "poqK9LJV7l",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "JTTZ5BGHHD"
+    },
+    "language_code": "de",
+    "title": "Scherben",
+    "synonyms": "Glasscherben, Fensterglasscherben, Spiegelscherben",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "RzHxLVmigd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FvbzBPQkSg"
+    },
+    "language_code": "de",
+    "title": "Feuerfestes Glas",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "BGDfRbupsL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9mJS60W5za"
+    },
+    "language_code": "de",
+    "title": "Geschirr",
+    "synonyms": "Keramikgeschirr, Küchengeschirr",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "7fz4HogySm",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "v5WITaZxQY"
+    },
+    "language_code": "de",
+    "title": "Kristallglas",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "xY4NsoRRJl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "pWe3BlsNBr"
+    },
+    "language_code": "de",
+    "title": "Laborglas",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "bvFmOrlrm1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "XODGu4xK9P"
+    },
+    "language_code": "de",
+    "title": "Porzellan",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "3GAImSZnZT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "04tjoyhCHt"
+    },
+    "language_code": "de",
+    "title": "Trinkglas",
+    "createdAt": "2022-09-26T16:31:35.285Z",
+    "updatedAt": "2022-09-26T16:31:35.285Z"
+  },
+  {
+    "objectId": "aKxF0TvwFb",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "UbFCFhfCyF"
+    },
+    "language_code": "de",
+    "title": "Ast",
+    "synonyms": "Äste, Reisig, Zweige",
+    "createdAt": "2022-09-26T17:30:07.658Z",
+    "updatedAt": "2022-09-26T17:32:19.694Z"
+  },
+  {
+    "objectId": "9WpYpTxJ8u",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8UatlMlXW7"
+    },
+    "language_code": "de",
+    "title": "Gartenabfälle",
+    "createdAt": "2022-09-26T17:30:07.658Z",
+    "updatedAt": "2022-09-26T17:30:07.658Z"
+  },
+  {
+    "objectId": "5f5Gg1hCJv",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "UGepDF9yvk"
+    },
+    "language_code": "de",
+    "title": "Grünschnitt",
+    "synonyms": "Heckenschnitt, Strauchschnitt, Baumschnitt, Grasschnitt, Rasenschnitt",
+    "createdAt": "2022-09-26T17:30:07.658Z",
+    "updatedAt": "2022-09-26T17:30:07.658Z"
+  },
+  {
+    "objectId": "iCoHfNHLBt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LJjgc63YQC"
+    },
+    "language_code": "de",
+    "title": "Stammholz",
+    "createdAt": "2022-09-26T17:30:07.658Z",
+    "updatedAt": "2022-09-26T17:30:07.658Z"
+  },
+  {
+    "objectId": "bkNqbUoWvv",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "NmSUB8Lm2b"
+    },
+    "language_code": "de",
+    "title": "Wurzeln",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "moY1TWWL9T",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "RRpP5vr3fB"
+    },
+    "language_code": "de",
+    "title": "Laub",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "4JtbbRSjQF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "WY11OB5zo2"
+    },
+    "language_code": "de",
+    "title": "Rindenmulch",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "p2BVWdPPEy",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "hf7uFVVzdo"
+    },
+    "language_code": "de",
+    "title": "Unkraut",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "1VO1u9N5ra",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vPo5voVrHJ"
+    },
+    "language_code": "de",
+    "title": "Aufschnitt",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "GGjIzvgSJS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "mWxAAyvtUh"
+    },
+    "language_code": "de",
+    "title": "Käse",
+    "synonyms": "Käserinde (unbehandelt)",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "eSpXINmH99",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "tcJX6PN5yJ"
+    },
+    "language_code": "de",
+    "title": "Backwaren",
+    "synonyms": "Brot, Brötchen, Baguette",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "oHm6K1tlad",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vOz2SNtLqM"
+    },
+    "language_code": "de",
+    "title": "Lebensmittel",
+    "synonyms": "Gekochte Lebensmittel, verdorbene Lebensmittel, verschimmelte Lebensmittel",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "hiWAh95fDg",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "k6VdJrhELq"
+    },
+    "language_code": "de",
+    "title": "Wildkräuter",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "Rs8zC8kiC8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "eE1amj6xKp"
+    },
+    "language_code": "de",
+    "title": "Wurst",
+    "synonyms": "Wurstreste",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "0CE4AF5Xjt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "qHLXYWIb4X"
+    },
+    "language_code": "de",
+    "title": "Essensreste",
+    "synonyms": "Lebensmittelreste, Speisereste, Fleischreste, Fischreste",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "QRmCGmETUZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "chM6dRY9Sa"
+    },
+    "language_code": "de",
+    "title": "Gemüse",
+    "synonyms": "Gemüsereste",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "AtiEjfBjFN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LHiIDD05S1"
+    },
+    "language_code": "de",
+    "title": "Nüsse",
+    "synonyms": "Nuss, Nussschale",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "tdzhQJQ2EG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "lcJkFohYGy"
+    },
+    "language_code": "de",
+    "title": "Kuchen",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "RljuGziqWX",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "X3HQ9KTlfl"
+    },
+    "language_code": "de",
+    "title": "Eierschalen",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "KpKgKKVYSV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "E5aowMEk1r"
+    },
+    "language_code": "de",
+    "title": "Blumen",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "AwHJd6w15L",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "AB9VVBwv3N"
+    },
+    "language_code": "de",
+    "title": "Biogut",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "JMfUoUz3wY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QN0pMqRT8S"
+    },
+    "language_code": "de",
+    "title": "Zimmerpflanzen",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "ffJMBUC34G",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ExylAgBtbn"
+    },
+    "language_code": "de",
+    "title": "Pflanzen",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "VUBXnDDGel",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "SxNjdkvrig"
+    },
+    "language_code": "de",
+    "title": "Kaffeefilter",
+    "synonyms": "Kaffeefiltertüten, Kaffeesatz",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "ljCgPt8gi3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "e2venngd8p"
+    },
+    "language_code": "de",
+    "title": "Knochen",
+    "synonyms": "Gräte",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "TiU7jAwqF4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "WE7xj905bJ"
+    },
+    "language_code": "de",
+    "title": "Kräuter",
+    "synonyms": "Küchenkräuter",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "2Sbms6AfFG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LPDEG3rao4"
+    },
+    "language_code": "de",
+    "title": "benutztes Küchenkrepp",
+    "synonyms": "benutzte Küchenrolle",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "32FaO9UYvo",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "dFdoUXZM4N"
+    },
+    "language_code": "de",
+    "title": "Küchenabfall",
+    "synonyms": "Küchenabfälle",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "qqfAtB6t8w",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kDLzboCPyX"
+    },
+    "language_code": "de",
+    "title": "Nudeln",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "aoJBg8Pf10",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "dkBSzMgUbq"
+    },
+    "language_code": "de",
+    "title": "Obst",
+    "synonyms": "Obstreste, Obstschale",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "vSS4AjRjVB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "JBO7nHc7ag"
+    },
+    "language_code": "de",
+    "title": "Schalen von Zitrusfrüchten",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "oEQd3h2urv",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "eDErP85is5"
+    },
+    "language_code": "de",
+    "title": "Fett (fest)",
+    "synonyms": "Speisefett (fest), Frittierfett (fest)",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "fodSCDAydX",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "G2VxEfFGBD"
+    },
+    "language_code": "de",
+    "title": "Teebeutel",
+    "createdAt": "2022-09-26T17:30:07.659Z",
+    "updatedAt": "2022-09-26T17:30:07.659Z"
+  },
+  {
+    "objectId": "rZtns7EJMA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xRRa9qBydX"
+    },
+    "language_code": "de",
+    "title": "Besteck",
+    "synonyms": "Messer, Gabel, Löffel",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "4nz2LUBigG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YbqhzNRA9W"
+    },
+    "language_code": "de",
+    "title": "Kochtopf",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "vwGtReCunP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oQlANlrEz6"
+    },
+    "language_code": "de",
+    "title": "Armaturen",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "bLQht6Er3Q",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "PljUKAbmhA"
+    },
+    "language_code": "de",
+    "title": "Regenschirm",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "3ib0Bdgddh",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "l5XbaTLHMN"
+    },
+    "language_code": "de",
+    "title": "Blechteile",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "CMsq0CdgT9",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Sfv0Ua2tGp"
+    },
+    "language_code": "de",
+    "title": "Messingteile",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "BYzXgqBeYl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "RS1B36QCtW"
+    },
+    "language_code": "de",
+    "title": "Pfanne",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "e5JONe4TnC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FcRFTuSCj2"
+    },
+    "language_code": "de",
+    "title": "Rohre",
+    "synonyms": "Rohrabschnitte",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "a52FUzbvTI",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "lmPUduLCik"
+    },
+    "language_code": "de",
+    "title": "Eimer",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "SF218noNVQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "guFG3DQ9Wx"
+    },
+    "language_code": "de",
+    "title": "Stifte (Kunststoff)",
+    "synonyms": "Textmarker, Filzstift, Kugelschreiber",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "39mkDAzah4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "g6OZ3I7yEA"
+    },
+    "language_code": "de",
+    "title": "Frischhaltefolie",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "BJV6PhxQSL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QrYEIQNCTy"
+    },
+    "language_code": "de",
+    "title": "Klarsichthülle",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "arBKkZlo3w",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "aeqHYQfzgG"
+    },
+    "language_code": "de",
+    "title": "Gießkanne",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "xpm3p5KwIP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EemQW2AoRc"
+    },
+    "language_code": "de",
+    "title": "Waage (mechanisch)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "JR3t1zhajP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "GS1ZfvqPXX"
+    },
+    "language_code": "de",
+    "title": "Folie",
+    "synonyms": "Overheadfolie, Kopierfolie",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "lNJtAYxTS4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Bf0CZsy5SL"
+    },
+    "language_code": "de",
+    "title": "Thermoskanne",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "j42LHYqEn7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BQeIljzh6O"
+    },
+    "language_code": "de",
+    "title": "Plexiglas",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "OXA2vzxNb7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9UzmdPRTGc"
+    },
+    "language_code": "de",
+    "title": "Wärmflasche",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "eyAVwaoFgG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "4NuUAbH23x"
+    },
+    "language_code": "de",
+    "title": "manuelle Zahnbürste",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "Q4PM6ZstM2",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TRhOWruOcQ"
+    },
+    "language_code": "de",
+    "title": "Kunststoffflasche",
+    "synonyms": "Plastikflasche",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "17K0O5PLUN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "rthBAm7Jsw"
+    },
+    "language_code": "de",
+    "title": "Kunststoffgegenstand",
+    "synonyms": "Kunststoffdeckel, Kunststofftube, Kunststoffverschluss, Kunststoffkanister, Kanister (Kunststoff), Kunststoffschüssel, Kunststoffspielzeug",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "OXRbf7F6MQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QBMIeaaiH7"
+    },
+    "language_code": "de",
+    "title": "Kleiderbügel (Kunststoff)",
+    "synonyms": "Kunststoffbügel, Plastikbügel",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "UeVzIlgt6r",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "SJS5zc8oyC"
+    },
+    "language_code": "de",
+    "title": "Plastiktüten",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "P4gAIgcxEh",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xMSV0rC9yv"
+    },
+    "language_code": "de",
+    "title": "Luftpumpe (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "UeHZ6CH0CI",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "hnHHZvde2X"
+    },
+    "language_code": "de",
+    "title": "Besteck (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "KkthDvkVB1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "njww20wUZP"
+    },
+    "language_code": "de",
+    "title": "Spielzeug (Kunststoff)",
+    "synonyms": "Puppen (Kunststoff), Ball (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "Pv5ZN0lO0l",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YEYPP6adLc"
+    },
+    "language_code": "de",
+    "title": "Bilderrahmen (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "EAq8WnuHS4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "VLe3ZkuOsd"
+    },
+    "language_code": "de",
+    "title": "Blumenkasten (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "XGUt9QVkQV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Uj5G5G0le9"
+    },
+    "language_code": "de",
+    "title": "Blumentopf (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "TseCb2FFeP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Q7JWRblE98"
+    },
+    "language_code": "de",
+    "title": "Bürsten (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "AEoBLO3Xo7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "NTcbm4PHGM"
+    },
+    "language_code": "de",
+    "title": "Duschvorhang (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "jAfDPnLe8F",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "NPt2Oyxksp"
+    },
+    "language_code": "de",
+    "title": "Gartenzwerge (Kunststoff)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "wZNtJkUsPq",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "KAvRQmAJD1"
+    },
+    "language_code": "de",
+    "title": "Biokunststoff",
+    "synonyms": "Bioplastik",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "5ytB6kjVCa",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oHbUcy0fzI"
+    },
+    "language_code": "de",
+    "title": "Coffee-to-go Becher",
+    "synonyms": "Einwegbecher, Kaffeebecher (to go), Trinkbecher, Pappbecher (beschichtet)",
+    "createdAt": "2022-09-26T18:33:50.348Z",
+    "updatedAt": "2022-09-26T18:33:50.348Z"
+  },
+  {
+    "objectId": "Xzm1YFzNXA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "np14Uv4bCH"
+    },
+    "language_code": "de",
+    "title": "Einweggeschirr (Teller, Bestecke etc.)",
+    "synonyms": "Plastikgeschirr (Einweg)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "EivrPI7Npd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "OWxswUBHWi"
+    },
+    "language_code": "de",
+    "title": "Einwegbesteck",
+    "synonyms": "Plastikbesteck",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "L8dABBl2Nf",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HGjGvrLgd7"
+    },
+    "language_code": "de",
+    "title": "Einwegrasierer",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "IRDk5HEYTd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "g4yWb5qxWF"
+    },
+    "language_code": "de",
+    "title": "Kanister (Metall)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "4oHU8DC0rK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "tglvY1fDD8"
+    },
+    "language_code": "de",
+    "title": "Luftpumpe (Metall)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "mKD3fyzLYO",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gU6JI9BRL0"
+    },
+    "language_code": "de",
+    "title": "Heftklammer",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "WwYJDNvWoL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xjPBuaPJWK"
+    },
+    "language_code": "de",
+    "title": "Bilderrahmen (Metall)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "tyTW3cYXxW",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9VOPaLE5xA"
+    },
+    "language_code": "de",
+    "title": "Feuerzeug (Einweg)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "hcaUTdaXEB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "NTIIXVPr4a"
+    },
+    "language_code": "de",
+    "title": "Nägel",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "C9xkPSPE2X",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "qIh8r6zbkQ"
+    },
+    "language_code": "de",
+    "title": "Draht",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "8fjsMtxad1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "MpAGy7x9mB"
+    },
+    "language_code": "de",
+    "title": "Schlüssel",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "iVitRClv2j",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HlKiiFSxCa"
+    },
+    "language_code": "de",
+    "title": "Schrauben",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "ZQ30xjoSGQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "6v3A33ZoEU"
+    },
+    "language_code": "de",
+    "title": "Aluminium",
+    "synonyms": "Aluminiumdeckel, Alufolie, Aluminiumfolie",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "hSC4njvEBp",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FPuj25AO61"
+    },
+    "language_code": "de",
+    "title": "Spielzeug (Metall)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "SgENOb08A5",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "CSg9EFDaGC"
+    },
+    "language_code": "de",
+    "title": "Werkzeuge",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "4HHrb5VSzV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "59fEqyDE1Q"
+    },
+    "language_code": "de",
+    "title": "Teelichthalter (Aluminium)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "2Wp6JEBtMZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "4NKb0CalCk"
+    },
+    "language_code": "de",
+    "title": "Dose",
+    "synonyms": "Getränkedose, Konservendose",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "gbhswPzbzL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vwReHv6laL"
+    },
+    "language_code": "de",
+    "title": "Folie",
+    "synonyms": "Verpackungsfolie",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "1fFBBx44ko",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "XsTWyQHMfu"
+    },
+    "language_code": "de",
+    "title": "Gaskartusche",
+    "synonyms": "Campingaskartusche",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "HGYYJwfLrk",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "RAXCNFsYZS"
+    },
+    "language_code": "de",
+    "title": "Getränkeverpackung",
+    "synonyms": "Milchkarton, Tetrapak, Saftkarton",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "EanQeMHHR1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BOAub8LGgi"
+    },
+    "language_code": "de",
+    "title": "Verpackungsbecher",
+    "synonyms": "Margarinebecher, Joghurtbecher",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "ihgWhPEuag",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "rLo9Cf46y8"
+    },
+    "language_code": "de",
+    "title": "Kronkorken",
+    "synonyms": "Flaschendeckel, Bierflaschendeckel",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "xb6NWgPEFr",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "k9LqQSIpBA"
+    },
+    "language_code": "de",
+    "title": "Menüschale",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "jQlFBStcdm",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "jDTsGGHA8w"
+    },
+    "language_code": "de",
+    "title": "Ölkanister (Speiseöl)",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "5PzrLoPXGJ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "b4IFRQWlFF"
+    },
+    "language_code": "de",
+    "title": "Pizzakarton mit Alufolie",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "MkMqd9Tmcr",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "KF6LT2BEmR"
+    },
+    "language_code": "de",
+    "title": "Schaumstoffverpackungen",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "4wjbMBFTYc",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "IxL36lfHjG"
+    },
+    "language_code": "de",
+    "title": "Schraubverschlüsse",
+    "synonyms": "Deckel mit Schraibverschluss",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "10UkE3m4GM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "D6N4P7Mia8"
+    },
+    "language_code": "de",
+    "title": "Spraydosen ohne Gefahrstoffzeichen",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "IKBHN0ju3A",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "D6GWL87Jut"
+    },
+    "language_code": "de",
+    "title": "Styroporverpackungen",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "V8lH7hBgoR",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "7B7oLTorkG"
+    },
+    "language_code": "de",
+    "title": "Trinkpäckchen",
+    "createdAt": "2022-09-26T18:33:50.349Z",
+    "updatedAt": "2022-09-26T18:33:50.349Z"
+  },
+  {
+    "objectId": "UGSBwl0IBw",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QL4VFTDeBq"
+    },
+    "language_code": "de",
+    "title": "Vertrauliche Akten",
+    "synonyms": "Vertrauliche Dokumente",
+    "createdAt": "2022-09-27T06:33:27.650Z",
+    "updatedAt": "2022-09-27T06:34:02.640Z"
+  },
+  {
+    "objectId": "XyR0KTbRJ6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QL4VFTDeBq"
+    },
+    "language_code": "en",
+    "title": "Confidential files",
+    "synonyms": "Confidential documents",
+    "createdAt": "2022-09-27T06:34:05.614Z",
+    "updatedAt": "2022-09-27T06:34:05.614Z"
+  },
+  {
+    "objectId": "jNsq01Wt9F",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YTbwREZKpl"
+    },
+    "language_code": "de",
+    "title": "Beizen",
+    "synonyms": "Abbeizer für Lacke, Lackabbeizer",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "RB6k2MJif9",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "RwA14bm9VN"
+    },
+    "language_code": "de",
+    "title": "Lack",
+    "synonyms": "Acrylharzlack, Alkhydharzlack, High-Solid Lack, Naturharzlack, Nitrolack, Wasserlack",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "WBDvsNsfKO",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "PACEBskGUX"
+    },
+    "language_code": "de",
+    "title": "Haarfärbemittel",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "GAPPwUWUN8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "O6Q2uMCOAS"
+    },
+    "language_code": "de",
+    "title": "Harzrückstände (flüssig)",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "ppWQcs0Alc",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "D92bYmhN8w"
+    },
+    "language_code": "de",
+    "title": "Lasuren",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "ZWHAgDa55A",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "li3qEDa8pk"
+    },
+    "language_code": "de",
+    "title": "Rostschutzmittel",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "1yIByes2Xi",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "K7ewf7Hrjz"
+    },
+    "language_code": "de",
+    "title": "Klebstoffe",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "0j2t79n2jt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zubnt9qKsZ"
+    },
+    "language_code": "de",
+    "title": "Nagellack",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "DjSvjtC0Ir",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EWDous2J8L"
+    },
+    "language_code": "de",
+    "title": "Schuhcremes",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "HUDozvT1Fm",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zcLkzCHhbW"
+    },
+    "language_code": "de",
+    "title": "Arbeitsplatten (Holz)",
+    "synonyms": "Arbeitsplatten (Resopal), Holzarbeitsplatte",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "mlfWBFcF8E",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Plurcs3lkj"
+    },
+    "language_code": "de",
+    "title": "Bleimennige",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "9dGTFb3ydt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "IAVyS45fVX"
+    },
+    "language_code": "de",
+    "title": "Korrekturflüssigkeiten",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "KUoSnVxzOs",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "yNsScVmJDC"
+    },
+    "language_code": "de",
+    "title": "Bretter",
+    "synonyms": "Paneele aus Holz, Pressspanplatten",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "XcdkLcekmB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xz3fMPTAqz"
+    },
+    "language_code": "de",
+    "title": "Dielen",
+    "synonyms": "Parkett",
+    "createdAt": "2022-09-27T13:44:41.270Z",
+    "updatedAt": "2022-09-27T13:44:41.270Z"
+  },
+  {
+    "objectId": "SKg6eOpiBk",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vx4hGjR7md"
+    },
+    "language_code": "de",
+    "title": "Holz (frei von Holzschutzmitteln)",
+    "synonyms": "Hölzer (frei von Holzschutzmitteln)",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "lOCEhl1Ar5",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "vtofPltwTr"
+    },
+    "language_code": "de",
+    "title": "Holzkisten",
+    "synonyms": "Holzverpackungen",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "szfwCxRBJu",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "v4nuWgzxWn"
+    },
+    "language_code": "de",
+    "title": "Innentüren aus Holz",
+    "synonyms": "Türen aus Holz (Innenbereich)",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "aw3mHghEFA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "sYSseDyFlv"
+    },
+    "language_code": "de",
+    "title": "Obstkisten",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "zgtUBlBVBs",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "qnpGf6IBxm"
+    },
+    "language_code": "de",
+    "title": "Paletten",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "t2wOJUTCUb",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "pcahuBoamk"
+    },
+    "language_code": "de",
+    "title": "Vollholz",
+    "synonyms": "Vollhölzer",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "8QytvE3Gid",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "pW2I3zVaPc"
+    },
+    "language_code": "de",
+    "title": "Abbruchholz",
+    "synonyms": "Abbruchhölzer",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "f3CVfF8hpC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oDZNWYkIq0"
+    },
+    "language_code": "de",
+    "title": "Bahnschwellen",
+    "synonyms": "Eisenbahnschwellen",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "GWjv1w64vp",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "mPC0HR7Yeb"
+    },
+    "language_code": "de",
+    "title": "Bauholz",
+    "synonyms": "Bauhölzer",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "gRTy2VqSHg",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kCdMYLxDbS"
+    },
+    "language_code": "de",
+    "title": "Dachbalken",
+    "synonyms": "Dachlatten",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "CHCAJzD3fu",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "aoZyNb4scv"
+    },
+    "language_code": "de",
+    "title": "Fensterrahmen (Holz)",
+    "synonyms": "Holzfensterrahmen",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "TWTFh5gz2A",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "K0eMC68F5Q"
+    },
+    "language_code": "de",
+    "title": "Gartenzaun (Holz)",
+    "synonyms": "Gartenzäune (Holz), Jägerzaun, Jägerzäune",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "WvkVoVQOz2",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FXkEAjHgRg"
+    },
+    "language_code": "de",
+    "title": "Jalousien (Holz)",
+    "synonyms": "Rollläden (Holz)",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "5djTb6oNB4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EhomITtLpM"
+    },
+    "language_code": "de",
+    "title": "Palisaden",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "1Gjs1Ae5Jm",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BcBZyVP9tP"
+    },
+    "language_code": "de",
+    "title": "Pergola",
+    "synonyms": "Pergolen",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "tAXbNYSz8Q",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9nrESimH93"
+    },
+    "language_code": "de",
+    "title": "Terrassenfliesen (Holz)",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "UBfeOzfbqZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8DvHSMHah0"
+    },
+    "language_code": "de",
+    "title": "Türen (Holz)",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "qhDrr1G9Ke",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xrB9HSwcPN"
+    },
+    "language_code": "de",
+    "title": "Medikamente",
+    "synonyms": "Arznei, Arzneimittel",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "6QE1EYYTC8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "t6fWk9l0Dz"
+    },
+    "language_code": "de",
+    "title": "Kosmetika",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "K29ecFmrzH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gH8a1kB5Rf"
+    },
+    "language_code": "de",
+    "title": "Pille",
+    "synonyms": "Tablette",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "owDX9t4YP0",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "NxCMG6Bge0"
+    },
+    "language_code": "de",
+    "title": "Sonnencreme",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "LNPaX1BaJN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "PR0n1zOsL9"
+    },
+    "language_code": "de",
+    "title": "Dieselöl",
+    "synonyms": "Motoröl",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "ohZQFeOrhM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "E6FkghGSsp"
+    },
+    "language_code": "de",
+    "title": "Reifen",
+    "synonyms": "Autoreifen, Kfz-Reifen, Motorradreifen, Vollgummireifen",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "diGQmzQrPB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gxO81ur0Lw"
+    },
+    "language_code": "de",
+    "title": "Federbetten",
+    "synonyms": "Oberbetten",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "iuQa5WWHdh",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DC45sjk1lC"
+    },
+    "language_code": "de",
+    "title": "Getriebeöl",
+    "synonyms": "Heizöl, Hydrauliköl",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "OJ20pyc4NJ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "cofSZGHXEe"
+    },
+    "language_code": "de",
+    "title": "Gardinen",
+    "synonyms": "Vorhänge",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "iOsCLiWoNZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "x2f0uiBmJx"
+    },
+    "language_code": "de",
+    "title": "Altöl",
+    "synonyms": "Altöl (mineralisch)",
+    "createdAt": "2022-09-27T13:44:41.271Z",
+    "updatedAt": "2022-09-27T13:44:41.271Z"
+  },
+  {
+    "objectId": "Y0jHPSbzIT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "nM2poECsQZ"
+    },
+    "language_code": "de",
+    "title": "Textilien",
+    "synonyms": "Altkleider, Alttextilien, alte Klamotten, alte Kleidung, Bekleidung",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "J4MjABGyKQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "c7xcRyVQAJ"
+    },
+    "language_code": "de",
+    "title": "Gummistiefel",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "ZfBd20bF4d",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "c7PWL3H7yQ"
+    },
+    "language_code": "de",
+    "title": "Handschuhe",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "HTlZ6dRvWc",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TPf8ooRIcH"
+    },
+    "language_code": "de",
+    "title": "Wäsche",
+    "synonyms": "Haushaltswäsche, Bettwäsche, Tischwäsche",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "7dLkDkQA9i",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "MWBAM4zuKG"
+    },
+    "language_code": "de",
+    "title": "Hut",
+    "synonyms": "Hüte",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "Jdxt9sE62a",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HBR3zwynUz"
+    },
+    "language_code": "de",
+    "title": "Stoffreste",
+    "synonyms": "Lederreste, Lumpen, Textilabfälle",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "0HmH3ZFYGU",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "GuXxHki2cQ"
+    },
+    "language_code": "de",
+    "title": "Nylonstrümpfe",
+    "synonyms": "Strumpfhose",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "yBsVJC3Ja2",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "7MenYMEuQf"
+    },
+    "language_code": "de",
+    "title": "Schlafsack",
+    "synonyms": "Schlafsäcke",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "0MZcWIG7Jf",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xmT6ZiTmr4"
+    },
+    "language_code": "de",
+    "title": "Schuhe",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "NZlkK8ScEJ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "XftBKEoMep"
+    },
+    "language_code": "de",
+    "title": "Wolldecke",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "kFgYlaqQN1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "b66HfJOuuH"
+    },
+    "language_code": "de",
+    "title": "DVD",
+    "synonyms": "Blu-ray",
+    "createdAt": "2022-09-27T13:44:41.272Z",
+    "updatedAt": "2022-09-27T13:44:41.272Z"
+  },
+  {
+    "objectId": "1BWac4XmSJ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9jTaxwW99t"
+    },
+    "language_code": "de",
+    "title": "CD",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "2Zqo9vou0v",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Grm11ApLNG"
+    },
+    "language_code": "de",
+    "title": "Druckerpatronen",
+    "synonyms": "Tonerkartuschen",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "Nmf61GAubK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zgkoekX2xY"
+    },
+    "language_code": "de",
+    "title": "Backofen (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "JtBw9tjmlz",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ucjH0leEHt"
+    },
+    "language_code": "de",
+    "title": "Computer",
+    "synonyms": "Bildschirm, Monitor, Laptop, Notebooks",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "yqqwVG6l7s",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "rhvzIGPnAG"
+    },
+    "language_code": "de",
+    "title": "Bügeleisen",
+    "synonyms": "Bügelmaschine",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "NjYkfrvDSC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "qmn7aWCyXD"
+    },
+    "language_code": "de",
+    "title": "Herd",
+    "synonyms": "Cerankochfeld, Elektroherd, Gasherde, Kochfelder",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "HMnRdKFo2Z",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "mclvR5zwfh"
+    },
+    "language_code": "de",
+    "title": "Dunstabzugshaube",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "Ml2WGR6QmB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "lwNajk5zxW"
+    },
+    "language_code": "de",
+    "title": "Durchlauferhitzer",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "zkJnHymNfj",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "bkwNboBAhO"
+    },
+    "language_code": "de",
+    "title": "Elektroaltgerät",
+    "synonyms": "Elektrogerät, Elektrokleingerät, Elektronikschrott, Elektroschrott",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "zqydyiaFvC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "bfg1DQeE0j"
+    },
+    "language_code": "de",
+    "title": "Elektrowerkzeug",
+    "synonyms": "elektrisches Werkzeug, elektrische Werkzeuge",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "UFLNQGmNyh",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "VbmZzegeOf"
+    },
+    "language_code": "de",
+    "title": "Espressomaschine",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "1DkspJBBKP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "P5zZT2ZSpW"
+    },
+    "language_code": "de",
+    "title": "Faxgerät",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "aOE4C174nH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LNQbC1Gszn"
+    },
+    "language_code": "de",
+    "title": "Fernseher",
+    "synonyms": "Fernsehgerät",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "oLx1MbdlPL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FWJSxJuewL"
+    },
+    "language_code": "de",
+    "title": "Gefriergerät",
+    "synonyms": "Kühlgerät, Kühlschrank, Kühlschränke",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "yT2KEML6Bi",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FWCE7DYejr"
+    },
+    "language_code": "de",
+    "title": "Geschirrspülmaschine",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "TPCgOIPwop",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "AR365G8dUp"
+    },
+    "language_code": "de",
+    "title": "Lautsprecher",
+    "createdAt": "2022-09-27T13:44:41.273Z",
+    "updatedAt": "2022-09-27T13:44:41.273Z"
+  },
+  {
+    "objectId": "KhBdhM502N",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "23SD6cFAvS"
+    },
+    "language_code": "de",
+    "title": "Kopiergerät",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "YIwcuuedqD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "sfW4C2fQRn"
+    },
+    "language_code": "de",
+    "title": "Mikrowelle",
+    "synonyms": "Mikrowellengerät",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "ctSEZoZzt8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "r0AXF9jEiU"
+    },
+    "language_code": "de",
+    "title": "Plattenspieler",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "utdfJsGpzB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "quElNFsg4A"
+    },
+    "language_code": "de",
+    "title": "Radiator",
+    "synonyms": "Ölradiator",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "uJJ7ph8fiS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "s5bdtZYLc3"
+    },
+    "language_code": "de",
+    "title": "Nähmaschine (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "GraNhMkxiH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "qlxoeHySbE"
+    },
+    "language_code": "de",
+    "title": "Rasenmäher (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "12mHmfZWzG",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "mLX5Kj48rf"
+    },
+    "language_code": "de",
+    "title": "Rollstuhl (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.275Z",
+    "updatedAt": "2022-09-27T13:44:41.275Z"
+  },
+  {
+    "objectId": "MJIpJqJcFd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gddifdk9e2"
+    },
+    "language_code": "de",
+    "title": "Solarium",
+    "synonyms": "Solarien",
+    "createdAt": "2022-09-27T13:44:41.276Z",
+    "updatedAt": "2022-09-27T13:44:41.276Z"
+  },
+  {
+    "objectId": "DB8Xlje0SX",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "cV47e1n0wf"
+    },
+    "language_code": "de",
+    "title": "Waschmaschine",
+    "synonyms": "Wäschetrockner, Wäscheschleuder, Wäschemangel",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "R1xrlv5Y0a",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "X6Mkaj6btN"
+    },
+    "language_code": "de",
+    "title": "Anrufbeantworter",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "XWCMbcHALY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "SS2H05CcZx"
+    },
+    "language_code": "de",
+    "title": "Radiogerät",
+    "synonyms": "Autoradio",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "Xo2YPyRuDB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QAHQMFs44W"
+    },
+    "language_code": "de",
+    "title": "Batterieladegerät",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "Gq9wcqPhdF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "PPWTxGYFZC"
+    },
+    "language_code": "de",
+    "title": "Bohrmaschine",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "vSVKjYNAVr",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LmHo6JnAmX"
+    },
+    "language_code": "de",
+    "title": "CD-Player",
+    "synonyms": "DVD-Player",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "mepmEjNqPY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "JggygAH5c5"
+    },
+    "language_code": "de",
+    "title": "Diaprojektor",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "SsPEtGcO6m",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "JAK9uflibz"
+    },
+    "language_code": "de",
+    "title": "Aufnahmegeräte",
+    "synonyms": "Diktiergerät, Tonbandgeräte, Funkgerät, Videorecorder",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "gsaXNBkBSb",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "IBooB6Zp4S"
+    },
+    "language_code": "de",
+    "title": "Drucker",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "IpEa4K4oEu",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "E0r1rWGchG"
+    },
+    "language_code": "de",
+    "title": "Küchenmaschinen",
+    "synonyms": "Eierkocher, Entsafter, Fritteusen, Handmixer, Kaffeemaschine, Toaster, Waage (elektrisch), Waffeleisen, Wasserkocher",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "NqimRpRKvp",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "CnPdZCEYau"
+    },
+    "language_code": "de",
+    "title": "Elektromotor",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "meeReF8F8Z",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BPN6z2wewb"
+    },
+    "language_code": "de",
+    "title": "Fernbedienung",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "PzbqCHw4mQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9pRo8sZlxo"
+    },
+    "language_code": "de",
+    "title": "Speichermedium",
+    "synonyms": "Festplatte, USB-Stick",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "a1byaUjAHF",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8oCQbuTfIC"
+    },
+    "language_code": "de",
+    "title": "Föhn",
+    "synonyms": "Fön",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "HCgBtOHfcI",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "7sJ9oivqvG"
+    },
+    "language_code": "de",
+    "title": "Fotoapparat",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "7Lz31Ki0Mr",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "1vwD1oNi1f"
+    },
+    "language_code": "de",
+    "title": "Frisierstab",
+    "synonyms": "Frisierstäbe, Lockenstab, Lockenstäbe",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "T4fMjQSTBn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zJbsEL4tBe"
+    },
+    "language_code": "de",
+    "title": "Handy",
+    "synonyms": "Mobiltelefon, Smartphon, Telefon",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "ZzBXNKOvCz",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xNCCovrWPS"
+    },
+    "language_code": "de",
+    "title": "Heizlüfter",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "Jl3bNjU5CB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xIUOeHDzHr"
+    },
+    "language_code": "de",
+    "title": "Audiogeräte",
+    "synonyms": "Kassettengeräte, Kassettenspieler, MP3-Player, Walkmen",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "MAjeZ1SCTM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "tZic6EzSyq"
+    },
+    "language_code": "de",
+    "title": "Kopfhörer",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "nGz57oOxtQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "rqRhXqRXAc"
+    },
+    "language_code": "de",
+    "title": "Kreditkarte",
+    "synonyms": "Scheckkarte",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "2ZrowqNE3q",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "nYGmp9bvlN"
+    },
+    "language_code": "de",
+    "title": "Luftbefeuchter",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "CKWdSHktqA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "lGSOwiCWIT"
+    },
+    "language_code": "de",
+    "title": "Musikinstrument (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "X7iKX9NnDr",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Zahw5VOG4q"
+    },
+    "language_code": "de",
+    "title": "Rasierapparat",
+    "createdAt": "2022-09-27T13:44:41.277Z",
+    "updatedAt": "2022-09-27T13:44:41.277Z"
+  },
+  {
+    "objectId": "kU5zYNXdiz",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "VI3yMmKH4N"
+    },
+    "language_code": "de",
+    "title": "Receiver",
+    "createdAt": "2022-09-27T13:44:41.278Z",
+    "updatedAt": "2022-09-27T13:44:41.278Z"
+  },
+  {
+    "objectId": "XznGAFiQUX",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TWDGW4WooO"
+    },
+    "language_code": "de",
+    "title": "Sateliten-Anlage",
+    "synonyms": "Satelitenanlage",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "H16vomZtnk",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "OdhLsG2OTd"
+    },
+    "language_code": "de",
+    "title": "Schreibmaschine (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "FynyGBR4m3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Mpd5huqh8X"
+    },
+    "language_code": "de",
+    "title": "Staubsauger",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "FMSKZPx8An",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LDgWKX5q6K"
+    },
+    "language_code": "de",
+    "title": "Taschenrechner",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "aLjH83lZ2S",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "E00BeQGRV8"
+    },
+    "language_code": "de",
+    "title": "Tastatur",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "w6gqtT7ws6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ALqzO7pHqt"
+    },
+    "language_code": "de",
+    "title": "Trockenhaube",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "SrA2VEjQEH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "AE42WhjI9H"
+    },
+    "language_code": "de",
+    "title": "Ventilator",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "f0V0dpL8OQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "9ijbYq3c0H"
+    },
+    "language_code": "de",
+    "title": "Verstärker",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "SnSDhM5XfH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "760r7kyeTU"
+    },
+    "language_code": "de",
+    "title": "Videokamera",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "QU7hCvcR9C",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "6mZmskwCB4"
+    },
+    "language_code": "de",
+    "title": "Zahnbürste (elektrisch)",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "PBm4cufdgU",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "SMOj1Ctopn"
+    },
+    "language_code": "de",
+    "title": "Haushaltsbatterien",
+    "synonyms": "Akkumulatoren, Knopfzellen, Lithiumbatterien, Ni-Cd-Akkus, Trockenbatterien",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "FcLG6yAQiH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "K9juxe6lyU"
+    },
+    "language_code": "de",
+    "title": "Kfz-Batterien",
+    "synonyms": "Autobatterien, Bleibatterien, Blei-Gel-Akkus, Fahrzeugbatterien, Motorradbatterien",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "hsT6hmb8L8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kiARqxlzRZ"
+    },
+    "language_code": "de",
+    "title": "LED",
+    "synonyms": "Energiesparlampe",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "pRTykF7dAq",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QSlyot9R40"
+    },
+    "language_code": "de",
+    "title": "Halogen-Metalldampflampe",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "gxZOMrhVPf",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "L03AwlluZl"
+    },
+    "language_code": "de",
+    "title": "Leuchtstofflampe",
+    "synonyms": "Leuchtstoffröhre, Neonröhre, Solarienröhre",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "wvpaIzJUGU",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "11mVxNzmdY"
+    },
+    "language_code": "de",
+    "title": "Quecksilberdampflampe",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "cIQUveI81S",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zYhWWGht0s"
+    },
+    "language_code": "de",
+    "title": "Pflanzenschutzmittel",
+    "synonyms": "Unkrautvernichtungsmittel",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "HIoLN0FPGj",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "qfL0EVMY64"
+    },
+    "language_code": "de",
+    "title": "Fungizide",
+    "synonyms": "Herbizide",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "w3X14Nalac",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "eJqOWGz3aU"
+    },
+    "language_code": "de",
+    "title": "Insektenvernichtungsmittel",
+    "synonyms": "Insektizide",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "ilDxDJhvc8",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Ngt86l199B"
+    },
+    "language_code": "de",
+    "title": "Rattengift",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "C4aQoQKb3H",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LC4NChXF7c"
+    },
+    "language_code": "de",
+    "title": "Holzschutzmittel",
+    "synonyms": "Holzschutzgrundierung, Holzschutzimprägnierung, Holzschwammmittel, Holzwurmmittel",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "ZpLp4whBF4",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Gp24WAoCsy"
+    },
+    "language_code": "de",
+    "title": "Pestizide",
+    "synonyms": "Schädlingsbekämpfungsmittel",
+    "createdAt": "2022-09-27T13:44:41.347Z",
+    "updatedAt": "2022-09-27T13:44:41.347Z"
+  },
+  {
+    "objectId": "ZFqCwlm2Mc",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zixpKauulH"
+    },
+    "language_code": "de",
+    "title": "Entkalker",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "FFpG3RdfBl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xRkc1kjwoc"
+    },
+    "language_code": "de",
+    "title": "Backofenreiniger",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "OWqC3sGwJI",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "f7AnsDdEIR"
+    },
+    "language_code": "de",
+    "title": "Bleichmittel",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "3V1puEwPqY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ab5Lb1j1g7"
+    },
+    "language_code": "de",
+    "title": "Chlorreiniger",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "MiFv2XosZX",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QDwaLvrIUa"
+    },
+    "language_code": "de",
+    "title": "Haushaltsreiniger",
+    "synonyms": "Geschirrspülmittel, Putzmittel, Desinfektionsmittel",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "QnATUUtb4w",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "OHtZplKkM6"
+    },
+    "language_code": "de",
+    "title": "Imprägniermittel",
+    "synonyms": "Lederpflegemittel, Fleckentferner",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "rtjyp5UA0j",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "BSoRtbwk7E"
+    },
+    "language_code": "de",
+    "title": "Sanitärreiniger",
+    "synonyms": "Rohrreiniger, Abflußreiniger, WC-Reiniger",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "KSyOsVqWDT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "AJeH5By24x"
+    },
+    "language_code": "de",
+    "title": "Waschmittel",
+    "synonyms": "Weichspüler",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "o3Bmo30eDV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "yc3nsUPkLn"
+    },
+    "language_code": "de",
+    "title": "Bauschaum",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "FXLbCDD4hu",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oEReYUp2hk"
+    },
+    "language_code": "de",
+    "title": "Bremsflüssigkeit",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "l85g00p1w7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Y57riqRuxS"
+    },
+    "language_code": "de",
+    "title": "Chemikalien",
+    "synonyms": "Chemiebaukästen, Laborchemikalien",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "qKKKL8CaUS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TCfOZOj4EW"
+    },
+    "language_code": "de",
+    "title": "Dünger",
+    "synonyms": "Düngemittelreste, Rasendünger",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "gccLS7GkjE",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "PqcqV2xGlJ"
+    },
+    "language_code": "de",
+    "title": "Fertigputz (flüssig)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "XGLuKtLVvf",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "JZEjxvEHLC"
+    },
+    "language_code": "de",
+    "title": "Kondensatoren",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "4MZfsOjZES",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HotGBeOOvG"
+    },
+    "language_code": "de",
+    "title": "Spraydose mit Gefahrstoffzeichen",
+    "synonyms": "Lackspraydose",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "N7XLJeIbnY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "AuPYafRn2v"
+    },
+    "language_code": "de",
+    "title": "Montageschaum",
+    "synonyms": "Montageschäume, Polyurethanschaum",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "gCPUWdx2sA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "6IMAqUWdKk"
+    },
+    "language_code": "de",
+    "title": "Säuren",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "Z992ieCLaP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "4gUbe5Lfna"
+    },
+    "language_code": "de",
+    "title": "Sondermüll",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "zEffeMQLFS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "5mVhN2laq2"
+    },
+    "language_code": "de",
+    "title": "Soda",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "s0AMKMlVDk",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8SH6wSyhZ9"
+    },
+    "language_code": "de",
+    "title": "Naturkork",
+    "synonyms": "Korken, Korkreste (unbehandelt), Korkrindenstücke",
+    "explanation": "Kork ist ein nachwachsender Rohstoff und wie jede natürliche Ressource begrenzt verfügbar. Etwa nur ein Viertel des Korks kann für Flaschenkorken verwendet werden. Der Rest wird zermahlen und als Korkgranulat z.B. in der Baustoffindustrie als natürliches Dämmmaterial genutzt. Nicht in die Korksammlung gehören: Korkmaterialien mit anhaftenden Klebstoffresten, Kunststoff- und Metallteilen, sowie Flaschenverschlüsse aus Kunststoff oder Metall.",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "AsxSia4sxd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "m6O7totOgU"
+    },
+    "language_code": "de",
+    "title": "Frostschutzmittel",
+    "synonyms": "Kühlakku, Kühlerflüssigkeit, Kühlmittel (Solaranlagen)",
+    "explanation": "Frostschutzmittel sind Stoffe, die den Gefrierpunkt anderer Stoffe herabsenken. Häufig wird bis zu 100% Ethylenglykol verwendet, um im Winter das Einfrieren von Kühlflüssigkeit z.B. in Fahrzeugen oder in Solaranlagen zu verhindern.Frostschutzmittel werden mittels Filtration, Sedimentation und anschließender Destillation behandelt.",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "u6ZnPh8AzP",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DxvlRjGuwn"
+    },
+    "language_code": "de",
+    "title": "Feuerlöscher",
+    "synonyms": "CO2-Löscher, Halonlöscher, Pulverlöscher, Schaumlöscher",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "sE8Z7WzFtC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "PqnlDB8jes"
+    },
+    "language_code": "de",
+    "title": "Fotochemikalien (flüssig)",
+    "synonyms": "Entwickler, Entwicklungsbad, Entwicklungsbäder, Fixierbad, Fixierbäder",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "oihXbIpWpK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "aAy5mU6jKX"
+    },
+    "language_code": "de",
+    "title": "Ölverschmutzte Betriebsmittel",
+    "synonyms": "Ölbehälter, Ölbindemittel, Ölfilter, Ölkanister (Mineralöl), Ölverschmutzte Putzlappen, ölverunreinigter Boden, Schmierfette",
+    "explanation": "Das was für die Umweltbelastung von Altöl gilt, ist natürlich ebenso auf alle ölverschmutzten Betriebsmittel übertragbar. Bitte keine mit Mineralöl verschmutzten Abfälle in die Mülltonnen werfen!",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "YMKMc0LPfN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "P5eAwRrU2Z"
+    },
+    "language_code": "de",
+    "title": "Photovoltaikmodule",
+    "synonyms": "Solarmodule",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "yTqSTGOwHD",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "kba57CHzhJ"
+    },
+    "language_code": "de",
+    "title": "Quecksilber",
+    "synonyms": "quecksilberhaltige Abfälle, Barometer, Fieberthermometer, Manometer, metallisches Quecksilber, Quecksilberschalter, Quecksilberthermometer",
+    "explanation": "Quecksilber ist ein flüssiges Schwermetall und wird bei zahlreichen industriellen und haushaltsnahen Anwendungen entweder als Metall oder in einer Verbindung genutzt. Quecksilberhaltige Abfälle sind hochgiftig. Bitte in einem verschließbaren Glasbehältnis sammeln.",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "dBmWMt2Y9W",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "JTaJffdOLG"
+    },
+    "language_code": "de",
+    "title": "Sanitärkeramik",
+    "synonyms": "Bidets, Toilettenbecken, Urinale, Waschbecken",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "KXSS06F6uV",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zuSwH6xzRh"
+    },
+    "language_code": "de",
+    "title": "Autofelge",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "KnLzdLnX4Z",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zr4k4pZAtx"
+    },
+    "language_code": "de",
+    "title": "Badewanne (Metall)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "ESDqoVq8YQ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "zUT4ilsmV4"
+    },
+    "language_code": "de",
+    "title": "Bettgestell (Metall)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "ft8fKEuTz7",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "z1FJcC8hRp"
+    },
+    "language_code": "de",
+    "title": "Fass (Metall)",
+    "synonyms": "Fässer (Metall)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "1Mn3FEnhC6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "whx6OrBFBz"
+    },
+    "language_code": "de",
+    "title": "Fensterrahmen (Metall)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "xHc9M4Vt3V",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uOo7EGhmQ8"
+    },
+    "language_code": "de",
+    "title": "Metallofen",
+    "synonyms": "Metallöfen, Ofen (Metall), Öfen (Metall)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "wFo9tDfxyv",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "sBid0Iqzk9"
+    },
+    "language_code": "de",
+    "title": "Metallrohre",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "x3QXI76VcU",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "oGQa9EMAcK"
+    },
+    "language_code": "de",
+    "title": "Metallspüle",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "9xjANGKUox",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "nKOEGEs8Lh"
+    },
+    "language_code": "de",
+    "title": "Tür (Metall)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "xYfLbuIQcW",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "n6CzKzJXu6"
+    },
+    "language_code": "de",
+    "title": "Dachgepäckträger",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "KdtCiGClN3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "jRxEBPhCXS"
+    },
+    "language_code": "de",
+    "title": "Dachrinne aus Metall",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "G7KF3LOInT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "iVxkCoCXFF"
+    },
+    "language_code": "de",
+    "title": "Fahrrad",
+    "synonyms": "Fahrräder",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "i7XAHVOvqS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "fllD2hKP9r"
+    },
+    "language_code": "de",
+    "title": "Heimtrainer",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "HhYG7dMarl",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "diaR92Wfb4"
+    },
+    "language_code": "de",
+    "title": "Heizkörper",
+    "synonyms": "Konvektoren (Heizkörper)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "Os6EMIq8ZZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "YRuDb4qfIk"
+    },
+    "language_code": "de",
+    "title": "Kabelreste",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "rVL2fdkaAC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Xixd5BGCx1"
+    },
+    "language_code": "de",
+    "title": "Kinderwagen",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "IlyEJtvnjT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "W9rYHu2Jip"
+    },
+    "language_code": "de",
+    "title": "Kupfer",
+    "synonyms": "Kupferrohre",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "lhNA6OOBR5",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "VHmZNS48XU"
+    },
+    "language_code": "de",
+    "title": "Maschendraht",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "Wo5Gx3fRps",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "H9aZL5ege5"
+    },
+    "language_code": "de",
+    "title": "Ofenrohre",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "YzbbSYYvA1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "GHYD1KJ8VT"
+    },
+    "language_code": "de",
+    "title": "Ölofen",
+    "synonyms": "Ölöfen",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "2KB8u70DEn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DgyR9HKGKz"
+    },
+    "language_code": "de",
+    "title": "Rasenmäher (Benzinmotor)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "CPKjv2QWEC",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "CxFQzsWBzR"
+    },
+    "language_code": "de",
+    "title": "Rollstuhl (mechanisch)",
+    "createdAt": "2022-09-27T13:44:41.348Z",
+    "updatedAt": "2022-09-27T13:44:41.348Z"
+  },
+  {
+    "objectId": "eUq9zORque",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "Aj8wOE4zRb"
+    },
+    "language_code": "de",
+    "title": "Saunaofen",
+    "synonyms": "Saunaöfen",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "7eGRsS8vNH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "89SHk7e6xu"
+    },
+    "language_code": "de",
+    "title": "Wäscheständer",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "5qSdq6JzZw",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "8aud7IKRFQ"
+    },
+    "language_code": "de",
+    "title": "Tierkäfig",
+    "synonyms": "Vogelkäfig",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "7wWlbpH6aw",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "xVf9T7IPrv"
+    },
+    "language_code": "de",
+    "title": "Aquarium",
+    "synonyms": "Aquarien",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "yEUocs7JnE",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "s63Kjt1Wye"
+    },
+    "language_code": "de",
+    "title": "Badewannen (Kunststoff)",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "9r3bmF4WWt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "lCRQt3fKu1"
+    },
+    "language_code": "de",
+    "title": "Besenschrank",
+    "synonyms": "Besenschränke",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "ubWwD0SLXO",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "jZzBJxs01i"
+    },
+    "language_code": "de",
+    "title": "Bett",
+    "synonyms": "Kinderbett",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "fDRHl8EEUK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "j7KdIlwFLI"
+    },
+    "language_code": "de",
+    "title": "Bilderrahmen (groß)",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "ulUPtTqzG1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ilIpJGaJ6Y"
+    },
+    "language_code": "de",
+    "title": "Bodenbelag",
+    "synonyms": "Bodenbeläge",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "PLWcflIOgL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gCipKMLGFk"
+    },
+    "language_code": "de",
+    "title": "Bügelbrett",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "vltSW1Lu33",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "cvgysym6vU"
+    },
+    "language_code": "de",
+    "title": "Couch",
+    "synonyms": "Sofa, Fernsehsessel, Sessel, Futon",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "ho2voETjvW",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "bxIEjwy8gY"
+    },
+    "language_code": "de",
+    "title": "Dachrinne (Kunststoff)",
+    "synonyms": "Regenrinne",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "KVMsjDqs5f",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "V1vGdbCPFk"
+    },
+    "language_code": "de",
+    "title": "Drahtglasscheibe",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "qbQLvzzIu0",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "UVyFCMj3tO"
+    },
+    "language_code": "de",
+    "title": "Fass (Kunststoff)",
+    "synonyms": "Fässer (Kunststoff), Kunststofffass, Kunststofffässer",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "7SF9ZxpTSd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "UfduMQL3RU"
+    },
+    "language_code": "de",
+    "title": "Eisenbahnplatte",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "W61Fg05VMJ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "T2hrosKxkc"
+    },
+    "language_code": "de",
+    "title": "Glasscheibe",
+    "synonyms": "Fensterglasscheibe, Glastür",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "P9JWE08fos",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "RLsay3aFVD"
+    },
+    "language_code": "de",
+    "title": "Flachglas",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "IXPQUlkp08",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ScSZRosfsa"
+    },
+    "language_code": "de",
+    "title": "Fensterrahmen (Kunststoff)",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "dX5AKOexQA",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HNfMn5v2Rl"
+    },
+    "language_code": "de",
+    "title": "Laminat",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "tBe009xcN6",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "MTtBfeRVnp"
+    },
+    "language_code": "de",
+    "title": "Gardinenstange",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "hEgZfBvbgk",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "HtiK3wfFaW"
+    },
+    "language_code": "de",
+    "title": "Kunststoffrohre",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "ICz4NCPWBa",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "G8U9M9RWhh"
+    },
+    "language_code": "de",
+    "title": "Lattenroste",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "zPL4Cb9ZBT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "IuhtdQyyxy"
+    },
+    "language_code": "de",
+    "title": "Gartenschlauch",
+    "synonyms": "Gartenschläuche",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "9Cag0WiErK",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "ItUs1HnR2v"
+    },
+    "language_code": "de",
+    "title": "Koffer (groß)",
+    "synonyms": "Reisekoffer",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "WzYsrNWBjS",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "LYnnyq8KLO"
+    },
+    "language_code": "de",
+    "title": "Gartenmöbel",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "G94HK5O1m3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EZPD0xLbZg"
+    },
+    "language_code": "de",
+    "title": "Leiter",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "e35CVz1n0T",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FDuJm8Ubpt"
+    },
+    "language_code": "de",
+    "title": "Laufgitter",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "ylETUBY56Y",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "5dEVE8ZaVa"
+    },
+    "language_code": "de",
+    "title": "Luftmatratze",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "TTQ7ROj7D3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DZWkiASgWm"
+    },
+    "language_code": "de",
+    "title": "Linoleum",
+    "createdAt": "2022-09-27T13:44:41.349Z",
+    "updatedAt": "2022-09-27T13:44:41.349Z"
+  },
+  {
+    "objectId": "giISody7Lt",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "piDggZWiSJ"
+    },
+    "language_code": "de",
+    "title": "Planschbecken",
+    "createdAt": "2022-09-27T13:44:41.406Z",
+    "updatedAt": "2022-09-27T13:44:41.406Z"
+  },
+  {
+    "objectId": "M8CTlI04oW",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "pdc6un1g5P"
+    },
+    "language_code": "de",
+    "title": "PVC",
+    "synonyms": "PVC Bodenbelag, PVC-Belag, PVC-Beläge, PVC-Bodenbeläge, PVC-Rohr",
+    "createdAt": "2022-09-27T13:44:41.406Z",
+    "updatedAt": "2022-09-27T13:44:41.406Z"
+  },
+  {
+    "objectId": "XfK7a8BDof",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "1EAht9P92L"
+    },
+    "language_code": "de",
+    "title": "Matratze",
+    "createdAt": "2022-09-27T13:44:41.406Z",
+    "updatedAt": "2022-09-27T13:44:41.406Z"
+  },
+  {
+    "objectId": "WBFvU6dRcy",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "huNB00cbfJ"
+    },
+    "language_code": "de",
+    "title": "Regentonne (Kunststoff)",
+    "createdAt": "2022-09-27T13:44:41.406Z",
+    "updatedAt": "2022-09-27T13:44:41.406Z"
+  },
+  {
+    "objectId": "uCchSR3vAT",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "szZOsVfYpo"
+    },
+    "language_code": "de",
+    "title": "Musikinstrumente",
+    "synonyms": "Gitarre, Piano, Klavier, Schlagzeug",
+    "createdAt": "2022-09-27T13:44:41.406Z",
+    "updatedAt": "2022-09-27T13:44:41.406Z"
+  },
+  {
+    "objectId": "xoOru2DDcN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "fnRB1twJeF"
+    },
+    "language_code": "de",
+    "title": "Rollo",
+    "synonyms": "Rolläden",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "s1hUEn0MKM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "wQLKhk3uds"
+    },
+    "language_code": "de",
+    "title": "Möbel",
+    "synonyms": "Polstermöbel",
+    "createdAt": "2022-09-27T13:44:41.406Z",
+    "updatedAt": "2022-09-27T13:44:41.406Z"
+  },
+  {
+    "objectId": "o8iVTCRuva",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "cRnhnOLM8o"
+    },
+    "language_code": "de",
+    "title": "Schaukelstuhl",
+    "synonyms": "Schaukelstühle",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "rOOjqPL5IY",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "QYT3D8YORg"
+    },
+    "language_code": "de",
+    "title": "Schlauchboote",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "G5eUVOJB8H",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "J3I7qlHZHt"
+    },
+    "language_code": "de",
+    "title": "Schrank",
+    "synonyms": "Schränke, Schrankwand, Schrankwände, Schuhschrank, Schuhschränke, Sideboard",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "iXGS6ozDTR",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "FvOiJwvAqm"
+    },
+    "language_code": "de",
+    "title": "Skateboard",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "5vzyHnudLL",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "EsORnAxd3L"
+    },
+    "language_code": "de",
+    "title": "Skier",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "YCnFYzi33H",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DpB3we0fXZ"
+    },
+    "language_code": "de",
+    "title": "Snowboard",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "DDCSj5K6vH",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "DEmL7CmmOv"
+    },
+    "language_code": "de",
+    "title": "Sonnenschirm",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "ymLsf37h3e",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "x8MmfTsMrH"
+    },
+    "language_code": "de",
+    "title": "Spiegel",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "76uDncXMuZ",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "wGqnHAIOLS"
+    },
+    "language_code": "de",
+    "title": "Stuhl",
+    "synonyms": "Stühle",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "SmLRa3mFu3",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "w3yarmZqfA"
+    },
+    "language_code": "de",
+    "title": "Surfbretter",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "RWSBmQkOF1",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "uN3H8P9g9Y"
+    },
+    "language_code": "de",
+    "title": "Teppich",
+    "synonyms": "Teppichboden, Teppichfliesen",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "JBv41NWVOn",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "syWrPALtfZ"
+    },
+    "language_code": "de",
+    "title": "Terrassenfliesen (Holz, ohne Holzschutzmittel)",
+    "synonyms": "Terrassenfliesen (Kunststoff, WPC)",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "kceWvhdFvB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "n5lO5HstBh"
+    },
+    "language_code": "de",
+    "title": "Tisch",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "19EtGqIAGx",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "leaiaqWj06"
+    },
+    "language_code": "de",
+    "title": "Tischtennisplatte",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "uORINGcFiM",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "gBIHnEFOy3"
+    },
+    "language_code": "de",
+    "title": "Toilettenbrille",
+    "synonyms": "Klobrille",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "wgNcPtS4uN",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "eOSWfPvHDO"
+    },
+    "language_code": "de",
+    "title": "Toilettenspühlkasten",
+    "synonyms": "Toilettenspülkästen",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "yuPofyIATB",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "d6pB8wTLqJ"
+    },
+    "language_code": "de",
+    "title": "Tür (Kunststoff)",
+    "synonyms": "Türrahmen",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "kK7pS9O78W",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "cBoxhVRuoK"
+    },
+    "language_code": "de",
+    "title": "Wäschetruhe",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  },
+  {
+    "objectId": "oqsxGgrpCd",
+    "item_id": {
+      "__type": "Pointer",
+      "className": "Item",
+      "objectId": "TZlAP12KLn"
+    },
+    "language_code": "de",
+    "title": "Zelt",
+    "createdAt": "2022-09-27T13:44:41.407Z",
+    "updatedAt": "2022-09-27T13:44:41.407Z"
+  }
+]
+}
