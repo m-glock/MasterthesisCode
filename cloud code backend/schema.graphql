@@ -1,0 +1,25 @@
+ extend type Query {
+  getAllItemBookmarksForUser (languageCode: String, userId: ID): [ItemTL!]! @resolve(to: "getAllItemBookmarksForUser")
+  getAllTipBookmarksForUser (languageCode: String, userId: ID): [TipTL!]! @resolve(to: "getAllTipBookmarksForUser")
+  amountOfSearchedItems (userId: ID): Int! @resolve(to: "amountOfSearchedItems")
+  amountOfWronglySortedItems (userId: ID): Int! @resolve(to: "amountOfWronglySortedItems")
+  compareInNeighborhood (zipCodes: [String!]!, municipalityId: ID, userId: ID): Float! @resolve(to: "compareInNeighborhood")
+  getRandomTip (languageCode: String): TipTL! @resolve(to: "getRandomTip")
+  getForumEntries (zipCodes: [String!]!, municipalityId: ID): [ForumEntry!]! @resolve(to: "getForumEntries")
+  getBarcodeMaterials (languageCode: String, municipalityId: ID): [BarcodeMaterialTL!]! @resolve(to: "getBarcodeMaterials")
+  recentlySearched (languageCode: String, userId: ID): [ItemTL!]! @resolve(to: "recentlySearched")
+  oftenSearched (languageCode: String): [ItemTL!]! @resolve(to: "oftenSearched")
+  getTipsOfItem (languageCode: String, itemId: ID): [TipTL!]! @resolve(to: "getTipsOfItem")
+  getDistinctSubcategoriesForCP (languageCode: String, municipalityId: ID): [SubcategoryTL!]! @resolve(to: "getDistinctSubcategoriesForCP")
+  getSubcategoryOfItem(languageCode: String, itemObjectId: ID): SubcategoryTL! @resolve(to: "getSubcategoryOfItem")
+  getBookmarkStatusOfItem (itemObjectId: ID, userId: ID): BookmarkedItems @resolve(to: "getBookmarkStatusOfItem")
+  getRecentlyWronglySortedItem (userId: ID): String! @resolve(to: "getRecentlyWronglySortedItem")
+  getTipBookmarks (userId: ID): [BookmarkedTips!]! @resolve(to: "getTipBookmarks")
+}
+
+extend type Mutation {
+  createBookmarkedItem (itemId: String, userId: String): Boolean! @resolve(to: "createBookmarkedItem")
+  deleteBookmarkedItem (itemId: String, userId: String): Boolean! @resolve(to: "deleteBookmarkedItem")
+  deleteBookmarkedTip (tipId: String, userId: String): Boolean! @resolve(to: "deleteBookmarkedTip")
+  createBookmarkedTip (tipId: String, userId: String): Boolean! @resolve(to: "createBookmarkedTip")
+}
